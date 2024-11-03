@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.json
+DS_Store/
+.venv/
+.git/
+*.json
+*.txt
+*.log
+

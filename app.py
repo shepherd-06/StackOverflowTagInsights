@@ -3,6 +3,7 @@
 import dash
 from dash import dcc, html, Input, Output
 import plotly.express as px
+import dash_bootstrap_components as dbc
 import logging
 import data_fetcher  # Import the new module for data fetching
 import seaborn as sns  # Import seaborn for color palette
@@ -11,15 +12,41 @@ import seaborn as sns  # Import seaborn for color palette
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
-# Initialize Dash app
-app = dash.Dash(__name__)
+# Initialize Dash app with Bootstrap
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.title = "Tag Popularity Dashboard"
 logger.info("Dash app initialized.")
 
-# Layout with placeholders for the Sunburst chart and a spinner
+# Layout with description, disclaimer, and a Sunburst chart with a loading spinner
 app.layout = html.Div([
-    html.H1("Tag Popularity Dashboard"),
-    
+    # Header and Description Section
+    html.Div([
+        html.H1("Tag Popularity Dashboard", className="display-4 text-center mb-4"),
+
+        dbc.Container([
+            dbc.Row([
+                dbc.Col([
+                    html.P("This dashboard provides a hierarchical view of tag popularity across different programming collectives. "
+                           "It allows you to explore relationships between collectives and tags and see detailed statistics about each tag's usage.",
+                           className="lead"),
+                    
+                    html.P("How to Use:", className="font-weight-bold mt-4"),
+                    html.Ul([
+                        html.Li("Hover over a segment in the Sunburst chart to see the label and value."),
+                        html.Li("Click on a collective segment to expand it and reveal associated tags."),
+                        html.Li("Click on a tag to view detailed information in the panel below."),
+                        html.Li("The chart is interactive and updates automatically as you explore.")
+                    ]),
+                    
+                    html.P("Disclaimer: This chart was generated with the assistance of ChatGPT and may not meet all accessibility standards. "
+                           "For a fully accessible experience, alternative visualizations may be necessary.",
+                           className="text-muted mt-4")
+                ], width=10),
+            ], justify="center")
+        ], className="mb-4")
+    ], style={"margin": "30px"}),
+
+    # Tabs with Sunburst Chart and Loading Spinner
     dcc.Tabs([
         dcc.Tab(label="Sunburst Chart", children=[
             dcc.Loading(
