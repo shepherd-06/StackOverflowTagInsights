@@ -1,0 +1,948 @@
+{
+  "items": [
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12433,
+      "name": "jvm"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12431,
+      "name": "uikit"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12412,
+      "name": "chart.js"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12395,
+      "name": "webdriver"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12391,
+      "name": "centos"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12380,
+      "name": "geolocation"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12374,
+      "name": "com"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12355,
+      "name": "subprocess"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12277,
+      "name": "html5-canvas"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12265,
+      "name": "dialog"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12262,
+      "name": "widget"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12256,
+      "name": "garbage-collection"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12245,
+      "name": "google-sheets-formula"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12227,
+      "name": "numbers"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12213,
+      "name": "concatenation"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12181,
+      "name": "sql-update"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12161,
+      "name": "windows-10"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12153,
+      "name": "mapreduce"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12138,
+      "name": "ionic2"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12137,
+      "name": "set"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12127,
+      "name": "qml"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12116,
+      "name": "tuples"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12097,
+      "name": "smtp"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12097,
+      "name": "rotation"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12095,
+      "name": "android-edittext"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12094,
+      "name": "modal-dialog"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12066,
+      "name": "spring-data"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12065,
+      "name": "http-headers"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12045,
+      "name": "doctrine"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12044,
+      "name": "radio-button"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12025,
+      "name": "grid"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 12006,
+      "name": "sonarqube"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11997,
+      "name": "nuget"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11994,
+      "name": "xmlhttprequest"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11990,
+      "name": "lucene"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11979,
+      "name": "snowflake-cloud-data-platform"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11928,
+      "name": "java-stream"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11864,
+      "name": "internationalization"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11859,
+      "name": "listbox"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11841,
+      "name": "components"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11835,
+      "name": "switch-statement"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11821,
+      "name": "initialization"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11820,
+      "name": "google-play"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11812,
+      "name": "apache-camel"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11792,
+      "name": "boolean"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11760,
+      "name": "serial-port"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11735,
+      "name": "ldap"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11724,
+      "name": "ios5"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11693,
+      "name": "youtube-api"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11681,
+      "name": "return"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11649,
+      "name": "eclipse-plugin"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11627,
+      "name": "pivot"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11619,
+      "name": "frameworks"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11599,
+      "name": "tags"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11596,
+      "name": "latex"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11591,
+      "name": "gdb"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11513,
+      "name": "containers"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11479,
+      "name": "dataset"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11462,
+      "name": "asp-classic"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11439,
+      "name": "foreign-keys"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11429,
+      "name": "subquery"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11425,
+      "name": "label"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11393,
+      "name": "uinavigationcontroller"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11376,
+      "name": "copy"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11371,
+      "name": "delegates"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11355,
+      "name": "struts2"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "google-cloud-robotics",
+            "google-cloud-php-client",
+            "google-cloud-ai",
+            "google-cloud-instances",
+            "apigee-baas",
+            "firebase-util",
+            "google-cloud-armor",
+            "firebasesimplelogin",
+            "google-cloud-debugger",
+            "firebase-machine-learning",
+            "vertex-ai-search",
+            "react-native-firebase",
+            "google-app-engine-python",
+            "google-cloud-kms",
+            "google-app-engine",
+            "firebase-performance",
+            "google-cloud-endpoints-v2",
+            "google-cloud-powershell",
+            "google-prediction",
+            "google-cloud-trace",
+            "google-cloud-ml",
+            "google-cloud-data-transfer",
+            "google-cloud-iam",
+            "google-cloud-router",
+            "google-cloud-dataflow",
+            "google-cloud-pubsublite",
+            "google-cloud-run",
+            "google-cloud-filestore",
+            "google-cloud-nl",
+            "firebase-dynamic-links",
+            "google-cloud-dataproc-metastore",
+            "google-cloud-tools",
+            "firebase-admob",
+            "google-app-engine-golang",
+            "google-fusion-tables",
+            "google-cloud-dataproc",
+            "google-cloud-shell-editor",
+            "google-app-engine-launch",
+            "firebase-test-lab",
+            "google-cloud-internal-load-balancer",
+            "google-cloud-logging",
+            "google-cloud-tasks",
+            "firebase-job-dispatcher",
+            "recaptcha-enterprise",
+            "google-cloud-node",
+            "firebase-polymer",
+            "google-cloud-ops-agent",
+            "firebase-database",
+            "firebase-invites",
+            "google-cloud-ai-platform-pipelines",
+            "google-cloud-sql",
+            "google-cloud-search",
+            "google-cloud-translate",
+            "google-cloud-datastore",
+            "google-cloud-data-fusion",
+            "google-anthos",
+            "google-migrate-for-compute-engine",
+            "google-cloud-repository",
+            "cloud-document-ai",
+            "google-cloud-test-lab",
+            "google-cloud-datalab",
+            "google-cloud-interconnect",
+            "dialogflow-es-fulfillment",
+            "cordova-plugin-firebasex",
+            "firebase-app-check",
+            "firebase-tools",
+            "firebase-security",
+            "firebase-extensions",
+            "firebase-ab-testing",
+            "google-cloud-dataprep",
+            "google-cloud-save",
+            "google-cloud-instance-template",
+            "google-cloud-billing",
+            "google-cloud-identity-aware-proxy",
+            "google-cloud-cpp",
+            "google-cloud-marketplace",
+            "google-kubernetes-engine",
+            "firebase-crash-reporting",
+            "dialogflow-es",
+            "google-cloud-print-privet",
+            "google-cloud-url-maps",
+            "looker",
+            "google-cloud-profiler",
+            "google-cloud-scheduler",
+            "gcloud",
+            "dialogflow-cx",
+            "google-cloud-networking",
+            "google-cloud-resource-manager",
+            "google-cloud-healthcare",
+            "maven-jib",
+            "google-cloud-error-reporting",
+            "firebase-admin",
+            "google-cloud-ml-engine",
+            "google-cloud-metrics",
+            "google-cloud-automl-nl",
+            "google-cloud-spanner",
+            "google-cloud-pubsub",
+            "google-cloud-speech",
+            "looker-studio",
+            "google-cloud-workstations",
+            "google-app-engine-patch",
+            "google-cloud-monitoring",
+            "firebase",
+            "react-redux-firebase",
+            "google-analytics-firebase",
+            "google-app-engine-go",
+            "firebase-hosting",
+            "google-cloud-http-load-balancer",
+            "google-cloud-recommendation",
+            "firebase-predictions",
+            "stackdriver",
+            "google-app-engine-php",
+            "firebase-realtime-database",
+            "google-cloud-proxy",
+            "google-bigquery",
+            "google-cloud-functions",
+            "google-cloud-firestore",
+            "google-cloud-stackdriver",
+            "jib",
+            "google-cloud-source-repos",
+            "apigee",
+            "google-cloud-identity",
+            "google-cloud-visualstudio",
+            "google-cloud-automl",
+            "google-cloud-network-load-balancer",
+            "google-container-os",
+            "firebase-queue",
+            "firebase-notifications",
+            "google-cloud-code",
+            "google-cloud-api-gateway",
+            "google-app-engine-deploy",
+            "google-cloud-launcher",
+            "redux-saga-firebase",
+            "google-cloud-platform",
+            "firebase-cloud-messaging",
+            "firebase-authentication",
+            "google-cloud-load-balancer",
+            "bigtable",
+            "firebase-analytics",
+            "google-cloud-vpn",
+            "google-cloud-sdk",
+            "google-cloud-talent-solution",
+            "google-cloud-shell",
+            "google-cloud-intellij",
+            "google-cloud-spanner-emulator",
+            "google-cloud-webrisk",
+            "google-cloud-iot",
+            "firebase-cli",
+            "google-cloud-storage-r",
+            "google-cloud-storage",
+            "google-dataflow",
+            "firebase-in-app-messaging",
+            "google-cloud-python",
+            "google-cloud-messaging",
+            "google-cloud-cdn",
+            "google-cloud-transcoder",
+            "firebase-remote-config",
+            "google-cloud-endpoints",
+            "google-cloud-dns",
+            "google-container-optimized-os",
+            "rest-firebase",
+            "google-cloud-deploy",
+            "firebaseui",
+            "firebase-assistant",
+            "google-cloud-memorystore",
+            "google-cloud-console",
+            "google-compute-engine",
+            "google-container-registry",
+            "google-cloud-print",
+            "google-cloud-composer",
+            "google-cloud-dlp",
+            "firebase-storage",
+            "google-cloud-language",
+            "google-cloud-bigtable",
+            "google-cloud-vision",
+            "firebase-app-distribution",
+            "google-cloud-vertex-ai",
+            "google-container-builder",
+            "google-cloud-registry",
+            "google-cloud-tpu",
+            "google-cloud-build",
+            "firebase-app-indexing",
+            "nativescript-firebase",
+            "firebase-console",
+            "google-cloud-asset-inventory",
+            "google-translate",
+            "firebase-mlkit"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective for developers who utilize Google Cloud\u2019s infrastructure and platform capabilities. This collective is organized and managed by the Stack Overflow community.",
+          "link": "/collectives/google-cloud",
+          "name": "Google Cloud",
+          "slug": "google-cloud"
+        }
+      ],
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11345,
+      "name": "google-cloud-storage"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11316,
+      "name": "protractor"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11296,
+      "name": "base64"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11296,
+      "name": "sql-server-2008-r2"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11284,
+      "name": "migration"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11274,
+      "name": "uibutton"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11267,
+      "name": "find"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11266,
+      "name": "c++17"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11264,
+      "name": "queue"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11214,
+      "name": "arguments"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11212,
+      "name": "composer-php"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "teamcity",
+            "jenkins-groovy",
+            "tfsbuild",
+            "bitbucket-pipelines",
+            "continuous-testing",
+            "gitlab-ci-runner",
+            "hudson",
+            "github-actions",
+            "gitlab-ci",
+            "jenkins",
+            "codemagic",
+            "azure-pipelines",
+            "jenkins-pipeline",
+            "octopus-deploy",
+            "jenkins-plugins",
+            "continuous-integration",
+            "continuous-delivery",
+            "argocd",
+            "continuous-deployment",
+            "circleci",
+            "cicd",
+            "google-cloud-build"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective where developers focused on continuous integration, delivery, and deployment can find, share, and learn about simultaneous development.",
+          "link": "/collectives/ci-cd",
+          "name": "CI/CD",
+          "slug": "ci-cd"
+        }
+      ],
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11208,
+      "name": "github-actions"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11200,
+      "name": "append"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11155,
+      "name": "jaxb"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11149,
+      "name": "zip"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11126,
+      "name": "embedded"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11119,
+      "name": "stack"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11092,
+      "name": "cucumber"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11067,
+      "name": "autolayout"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 11000,
+      "name": "ide"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10991,
+      "name": "entity-framework-6"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10982,
+      "name": "popup"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10943,
+      "name": "windows-7"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10928,
+      "name": "iteration"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10894,
+      "name": "r-markdown"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10854,
+      "name": "vb6"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10842,
+      "name": "ssl-certificate"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10841,
+      "name": "airflow"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10829,
+      "name": "gmail"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10822,
+      "name": "jqgrid"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10800,
+      "name": "hover"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10766,
+      "name": "android-viewpager"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10752,
+      "name": "passwords"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 10740,
+      "name": "udp"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 278
+}

@@ -1,0 +1,3014 @@
+{
+  "items": [
+    {
+      "tags": [
+        "postgresql",
+        "authentication"
+      ],
+      "owner": {
+        "account_id": 1225284,
+        "reputation": 11568,
+        "user_id": 1190955,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/0e3bcd72dadd8e7244b046a40e7e32e2?s=256&d=identicon&r=PG",
+        "display_name": "h9uest",
+        "link": "https://stackoverflow.com/users/1190955/h9uest"
+      },
+      "is_answered": true,
+      "view_count": 1398195,
+      "protected_date": 1535486433,
+      "accepted_answer_id": 11919677,
+      "answer_count": 18,
+      "score": 1092,
+      "last_activity_date": 1715340829,
+      "creation_date": 1344740444,
+      "last_edit_date": 1479447414,
+      "question_id": 11919391,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/11919391/postgresql-error-fatal-role-username-does-not-exist",
+      "title": "PostgreSQL error: Fatal: role &quot;username&quot; does not exist"
+    },
+    {
+      "tags": [
+        "visual-studio",
+        "windows-8",
+        "uac"
+      ],
+      "owner": {
+        "account_id": 17616,
+        "reputation": 17281,
+        "user_id": 39605,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/fb41d4ad46ba219e5e22ac5315abe5bb?s=256&d=identicon&r=PG",
+        "display_name": "Brian Surowiec",
+        "link": "https://stackoverflow.com/users/39605/brian-surowiec"
+      },
+      "is_answered": true,
+      "view_count": 260935,
+      "protected_date": 1500085229,
+      "accepted_answer_id": 12859334,
+      "answer_count": 13,
+      "score": 1092,
+      "last_activity_date": 1716986113,
+      "creation_date": 1346735257,
+      "last_edit_date": 1716985517,
+      "question_id": 12257110,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/12257110/can-you-force-visual-studio-to-always-run-as-an-administrator",
+      "title": "Can you force Visual Studio to always run as an Administrator?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "submit",
+        "forms"
+      ],
+      "owner": {
+        "account_id": 12902,
+        "reputation": 49121,
+        "user_id": 25645,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/b02cab91fb3c5604163c116c494de2a5?s=256&d=identicon&r=PG",
+        "display_name": "Nathan H",
+        "link": "https://stackoverflow.com/users/25645/nathan-h"
+      },
+      "is_answered": true,
+      "view_count": 2604066,
+      "protected_date": 1483511893,
+      "accepted_answer_id": 1960245,
+      "answer_count": 22,
+      "score": 1091,
+      "last_activity_date": 1728171762,
+      "creation_date": 1261704708,
+      "last_edit_date": 1579632668,
+      "question_id": 1960240,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1960240/jquery-ajax-submit-form",
+      "title": "jQuery AJAX submit form"
+    },
+    {
+      "tags": [
+        "git",
+        "bash",
+        "shell"
+      ],
+      "owner": {
+        "account_id": 140675,
+        "reputation": 16750,
+        "user_id": 347180,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/1c3c72ed9ee8fe297bcd2a18482fdda8?s=256&d=identicon&r=PG",
+        "display_name": "Alan Whitelaw",
+        "link": "https://stackoverflow.com/users/347180/alan-whitelaw"
+      },
+      "is_answered": true,
+      "view_count": 484096,
+      "accepted_answer_id": 5064653,
+      "answer_count": 19,
+      "score": 1091,
+      "last_activity_date": 1723797882,
+      "creation_date": 1298282562,
+      "last_edit_date": 1706761253,
+      "question_id": 5064563,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5064563/how-to-add-line-break-to-git-commit-m-from-the-command-line",
+      "title": "How to add line break to &#39;git commit -m&#39; from the command line?"
+    },
+    {
+      "tags": [
+        "ios",
+        "swift",
+        "ios7",
+        "statusbar",
+        "uistatusbar"
+      ],
+      "owner": {
+        "account_id": 1164023,
+        "reputation": 11025,
+        "user_id": 1142999,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3b324f8b433f165096162074795e7854?s=256&d=identicon&r=PG",
+        "display_name": "Oleksandr Veremchuk",
+        "link": "https://stackoverflow.com/users/1142999/oleksandr-veremchuk"
+      },
+      "is_answered": true,
+      "view_count": 675233,
+      "protected_date": 1418940815,
+      "accepted_answer_id": 17768797,
+      "answer_count": 61,
+      "score": 1090,
+      "last_activity_date": 1717016248,
+      "creation_date": 1373983882,
+      "last_edit_date": 1582306775,
+      "question_id": 17678881,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/17678881/how-to-change-status-bar-text-color-in-ios",
+      "title": "How to change Status Bar text color in iOS"
+    },
+    {
+      "tags": [
+        "curl",
+        "time",
+        "upload",
+        "download",
+        "measure"
+      ],
+      "owner": {
+        "account_id": 809675,
+        "reputation": 24956,
+        "user_id": 904316,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/16d54b13e38ddacfb6140ecd0f07d036?s=256&d=identicon&r=PG",
+        "display_name": "sdasdadas",
+        "link": "https://stackoverflow.com/users/904316/sdasdadas"
+      },
+      "is_answered": true,
+      "view_count": 906547,
+      "accepted_answer_id": 22625150,
+      "answer_count": 15,
+      "score": 1090,
+      "last_activity_date": 1646447092,
+      "creation_date": 1376414482,
+      "last_edit_date": 1376414853,
+      "question_id": 18215389,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl",
+      "title": "How do I measure request and response times at once using cURL?"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-template",
+        "angular2-databinding"
+      ],
+      "owner": {
+        "account_id": 84252,
+        "reputation": 32539,
+        "user_id": 235648,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.sstatic.net/Qwo97.jpg?s=256",
+        "display_name": "Aviad P.",
+        "link": "https://stackoverflow.com/users/235648/aviad-p"
+      },
+      "is_answered": true,
+      "view_count": 753577,
+      "protected_date": 1476122996,
+      "accepted_answer_id": 34424375,
+      "answer_count": 25,
+      "score": 1090,
+      "last_activity_date": 1709627060,
+      "creation_date": 1437508119,
+      "last_edit_date": 1560102353,
+      "question_id": 31548311,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/31548311/angular-html-binding",
+      "title": "Angular HTML binding"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "ajax",
+        "chat"
+      ],
+      "owner": {
+        "account_id": 6160,
+        "reputation": 16858,
+        "user_id": 10258,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/5303e16ee7aa9b0d884d6b464bc06e60?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "kush",
+        "link": "https://stackoverflow.com/users/10258/kush"
+      },
+      "is_answered": true,
+      "view_count": 1252322,
+      "protected_date": 1392052603,
+      "accepted_answer_id": 270628,
+      "answer_count": 35,
+      "score": 1089,
+      "last_activity_date": 1689877545,
+      "creation_date": 1226011050,
+      "last_edit_date": 1592707487,
+      "question_id": 270612,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/270612/scroll-to-bottom-of-div",
+      "title": "Scroll to bottom of div?"
+    },
+    {
+      "tags": [
+        "c++",
+        "string",
+        "char",
+        "stdstring"
+      ],
+      "owner": {
+        "account_id": 17081,
+        "reputation": 14184,
+        "user_id": 37875,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/d7e5d7a454674f0312001096d8513008?s=256&d=identicon&r=PG",
+        "display_name": "user37875",
+        "link": "https://stackoverflow.com/users/37875/user37875"
+      },
+      "is_answered": true,
+      "view_count": 1254259,
+      "protected_date": 1368346995,
+      "accepted_answer_id": 347959,
+      "answer_count": 11,
+      "score": 1089,
+      "last_activity_date": 1703077598,
+      "creation_date": 1228678256,
+      "last_edit_date": 1703077598,
+      "question_id": 347949,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/347949/how-to-convert-a-stdstring-to-const-char-or-char",
+      "title": "How to convert a std::string to const char* or char*"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "vertical-alignment"
+      ],
+      "owner": {
+        "account_id": 3619,
+        "reputation": 16547,
+        "user_id": 5232,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/823048c003a3159b3adc1ee146b91114?s=256&d=identicon&r=PG",
+        "display_name": "Abdu",
+        "link": "https://stackoverflow.com/users/5232/abdu"
+      },
+      "is_answered": true,
+      "view_count": 2047734,
+      "protected_date": 1411465813,
+      "accepted_answer_id": 84616,
+      "answer_count": 30,
+      "score": 1087,
+      "last_activity_date": 1715956709,
+      "creation_date": 1221620016,
+      "last_edit_date": 1657609067,
+      "question_id": 79461,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79461/how-can-i-vertically-align-elements-in-a-div",
+      "title": "How can I vertically align elements in a div?"
+    },
+    {
+      "tags": [
+        ".net",
+        "asp.net-mvc",
+        "partial-views",
+        "renderpartial",
+        "renderaction"
+      ],
+      "owner": {
+        "account_id": 272821,
+        "reputation": 20126,
+        "user_id": 564101,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/ee88da41cbd08933f1a853536672928f?s=256&d=identicon&r=PG",
+        "display_name": "Ghooti Farangi",
+        "link": "https://stackoverflow.com/users/564101/ghooti-farangi"
+      },
+      "is_answered": true,
+      "view_count": 642315,
+      "protected_date": 1563725792,
+      "accepted_answer_id": 5248218,
+      "answer_count": 13,
+      "score": 1087,
+      "last_activity_date": 1587303483,
+      "creation_date": 1299685284,
+      "last_edit_date": 1435021979,
+      "question_id": 5248183,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5248183/html-partial-vs-html-renderpartial-html-action-vs-html-renderaction",
+      "title": "Html.Partial vs Html.RenderPartial &amp; Html.Action vs Html.RenderAction"
+    },
+    {
+      "tags": [
+        "maven",
+        "pom.xml",
+        "dependency-management"
+      ],
+      "owner": {
+        "account_id": 117060,
+        "reputation": 35840,
+        "user_id": 306719,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/8b5f2224482b0bc3648353d36a0c8814?s=256&d=identicon&r=PG",
+        "display_name": "hguser",
+        "link": "https://stackoverflow.com/users/306719/hguser"
+      },
+      "is_answered": true,
+      "view_count": 459544,
+      "accepted_answer_id": 2619732,
+      "answer_count": 15,
+      "score": 1085,
+      "last_activity_date": 1715160888,
+      "creation_date": 1271040196,
+      "last_edit_date": 1665145139,
+      "question_id": 2619598,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2619598/differences-between-dependencymanagement-and-dependencies-in-maven",
+      "title": "Differences between dependencyManagement and dependencies in Maven"
+    },
+    {
+      "tags": [
+        "java",
+        "static-methods"
+      ],
+      "owner": {
+        "account_id": 33632,
+        "reputation": 13565,
+        "user_id": 94279,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/6ad4c029c42c1918ecae63b1833a0ed2?s=256&d=identicon&r=PG",
+        "display_name": "KP65",
+        "link": "https://stackoverflow.com/users/94279/kp65"
+      },
+      "is_answered": true,
+      "view_count": 1328575,
+      "protected_date": 1384974950,
+      "accepted_answer_id": 2671636,
+      "answer_count": 26,
+      "score": 1085,
+      "last_activity_date": 1713810648,
+      "creation_date": 1271718333,
+      "last_edit_date": 1604572572,
+      "question_id": 2671496,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2671496/when-to-use-static-methods",
+      "title": "When to use static methods"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "checkbox"
+      ],
+      "owner": {
+        "account_id": 169674,
+        "reputation": 12277,
+        "user_id": 395881,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/6ddc2c2f5a9f76e041151340a5dd773e?s=256&d=identicon&r=PG",
+        "display_name": "Salman Virk",
+        "link": "https://stackoverflow.com/users/395881/salman-virk"
+      },
+      "is_answered": true,
+      "view_count": 2437650,
+      "protected_date": 1631582185,
+      "accepted_answer_id": 4148544,
+      "answer_count": 45,
+      "score": 1085,
+      "last_activity_date": 1713476242,
+      "creation_date": 1289419021,
+      "last_edit_date": 1563377722,
+      "question_id": 4148499,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css",
+      "title": "How to style a checkbox using CSS"
+    },
+    {
+      "tags": [
+        "r",
+        "dataframe",
+        "filter",
+        "missing-data",
+        "r-faq"
+      ],
+      "owner": {
+        "account_id": 249483,
+        "reputation": 12034,
+        "user_id": 525563,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.sstatic.net/DiQ45.png?s=256",
+        "display_name": "Benoit B.",
+        "link": "https://stackoverflow.com/users/525563/benoit-b"
+      },
+      "is_answered": true,
+      "view_count": 2388272,
+      "protected_date": 1486305184,
+      "accepted_answer_id": 4862502,
+      "answer_count": 20,
+      "score": 1085,
+      "last_activity_date": 1690132360,
+      "creation_date": 1296561151,
+      "last_edit_date": 1534077148,
+      "question_id": 4862178,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4862178/remove-rows-with-all-or-some-nas-missing-values-in-data-frame",
+      "title": "Remove rows with all or some NAs (missing values) in data.frame"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "layout",
+        "cross-browser",
+        "clearfix"
+      ],
+      "owner": {
+        "account_id": 1007397,
+        "reputation": 22635,
+        "user_id": 1020773,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/22784328a011350c18cbfcc27d28fb76?s=256&d=identicon&r=PG",
+        "display_name": "H Bellamy",
+        "link": "https://stackoverflow.com/users/1020773/h-bellamy"
+      },
+      "is_answered": true,
+      "view_count": 712591,
+      "protected_date": 1378803924,
+      "accepted_answer_id": 8554054,
+      "answer_count": 10,
+      "score": 1085,
+      "last_activity_date": 1675068418,
+      "creation_date": 1324234964,
+      "last_edit_date": 1473699828,
+      "question_id": 8554043,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/8554043/what-is-a-clearfix",
+      "title": "What is a clearfix?"
+    },
+    {
+      "tags": [
+        "c++",
+        "functor",
+        "function-object",
+        "function-call-operator"
+      ],
+      "owner": {
+        "account_id": 9983,
+        "reputation": 40727,
+        "user_id": 18664,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/6263fc5112b0edb3b3b2a0b4589363cc?s=256&d=identicon&r=PG",
+        "display_name": "Konrad",
+        "link": "https://stackoverflow.com/users/18664/konrad"
+      },
+      "is_answered": true,
+      "view_count": 608496,
+      "protected_date": 1521718646,
+      "accepted_answer_id": 356993,
+      "answer_count": 14,
+      "score": 1082,
+      "last_activity_date": 1678671125,
+      "creation_date": 1228931241,
+      "last_edit_date": 1530268873,
+      "question_id": 356950,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/356950/what-are-c-functors-and-their-uses",
+      "title": "What are C++ functors and their uses?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angular-services"
+      ],
+      "owner": {
+        "account_id": 395296,
+        "reputation": 31510,
+        "user_id": 758177,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/71ff646464da976f6c70e18f63bf6b96?s=256&d=identicon&r=PG",
+        "display_name": "Jakob Jingleheimer",
+        "link": "https://stackoverflow.com/users/758177/jakob-jingleheimer"
+      },
+      "is_answered": true,
+      "view_count": 347574,
+      "protected_date": 1545280931,
+      "accepted_answer_id": 21900284,
+      "answer_count": 9,
+      "score": 1082,
+      "last_activity_date": 1597686431,
+      "creation_date": 1358188601,
+      "last_edit_date": 1587297367,
+      "question_id": 14324451,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/14324451/angular-service-vs-angular-factory",
+      "title": "angular.service vs angular.factory"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "owner": {
+        "account_id": 3751229,
+        "reputation": 12888,
+        "user_id": 3118684,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/15c1c73f4a0c5111c8116dc8205376e3?s=256&d=identicon&r=PG",
+        "display_name": "Remi Sture",
+        "link": "https://stackoverflow.com/users/3118684/remi-sture"
+      },
+      "is_answered": true,
+      "view_count": 756096,
+      "protected_date": 1715718303,
+      "accepted_answer_id": 31164090,
+      "answer_count": 29,
+      "score": 1082,
+      "last_activity_date": 1723520488,
+      "creation_date": 1435759647,
+      "last_edit_date": 1638588018,
+      "question_id": 31163693,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/31163693/how-do-i-conditionally-add-attributes-to-react-components",
+      "title": "How do I conditionally add attributes to React components?"
+    },
+    {
+      "tags": [
+        "php",
+        "datetime"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Mike"
+      },
+      "is_answered": true,
+      "view_count": 3253110,
+      "protected_date": 1390204208,
+      "answer_count": 46,
+      "score": 1080,
+      "last_activity_date": 1724254718,
+      "creation_date": 1232654958,
+      "last_edit_date": 1550878591,
+      "question_id": 470617,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/470617/how-do-i-get-the-current-date-and-time-in-php",
+      "title": "How do I get the current date and time in PHP?"
+    },
+    {
+      "tags": [
+        "python",
+        "dictionary",
+        "mapping",
+        "reverse"
+      ],
+      "owner": {
+        "account_id": 10223,
+        "reputation": 83480,
+        "user_id": 19212,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/3aefe160da30caa0d7ea0f922f94c257?s=256&d=identicon&r=PG",
+        "display_name": "Brian M. Hunt",
+        "link": "https://stackoverflow.com/users/19212/brian-m-hunt"
+      },
+      "is_answered": true,
+      "view_count": 890122,
+      "protected_date": 1563106663,
+      "accepted_answer_id": 483833,
+      "answer_count": 33,
+      "score": 1080,
+      "last_activity_date": 1712025418,
+      "creation_date": 1233067569,
+      "last_edit_date": 1570334355,
+      "question_id": 483666,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/483666/reverse-invert-a-dictionary-mapping",
+      "title": "Reverse / invert a dictionary mapping"
+    },
+    {
+      "tags": [
+        "java",
+        "dictionary"
+      ],
+      "owner": {
+        "account_id": 34829,
+        "reputation": 23514,
+        "user_id": 98514,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/1414fd68e16729db11e544785bb3c0f3?s=256&d=identicon&r=PG",
+        "display_name": "Kevin",
+        "link": "https://stackoverflow.com/users/98514/kevin"
+      },
+      "is_answered": true,
+      "view_count": 678809,
+      "protected_date": 1331908210,
+      "accepted_answer_id": 2889800,
+      "answer_count": 18,
+      "score": 1080,
+      "last_activity_date": 1720497749,
+      "creation_date": 1274562615,
+      "last_edit_date": 1695476898,
+      "question_id": 2889777,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2889777/difference-between-hashmap-linkedhashmap-and-treemap",
+      "title": "Difference between HashMap, LinkedHashMap and TreeMap"
+    },
+    {
+      "tags": [
+        "python",
+        "string",
+        "variables",
+        "types"
+      ],
+      "owner": {
+        "account_id": 290739,
+        "reputation": 10833,
+        "user_id": 592450,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6084acd42e6eacbd515ef2ca98160278?s=256&d=identicon&r=PG",
+        "display_name": "c_pleaseUpvote",
+        "link": "https://stackoverflow.com/users/592450/c-pleaseupvote"
+      },
+      "is_answered": true,
+      "view_count": 1473173,
+      "protected_date": 1434183625,
+      "closed_date": 1662707966,
+      "answer_count": 22,
+      "score": 1080,
+      "last_activity_date": 1717004614,
+      "creation_date": 1296394339,
+      "last_edit_date": 1587318464,
+      "question_id": 4843173,
+      "link": "https://stackoverflow.com/questions/4843173/how-to-check-if-type-of-a-variable-is-string",
+      "closed_reason": "Duplicate",
+      "title": "How to check if type of a variable is string?"
+    },
+    {
+      "tags": [
+        "android",
+        "gradle",
+        "android-gradle-plugin",
+        "build.gradle",
+        "dependency-management"
+      ],
+      "owner": {
+        "account_id": 1254934,
+        "reputation": 11683,
+        "user_id": 1214611,
+        "user_type": "registered",
+        "accept_rate": 30,
+        "profile_image": "https://i.sstatic.net/JkE5D.png?s=256",
+        "display_name": "Ozzie",
+        "link": "https://stackoverflow.com/users/1214611/ozzie"
+      },
+      "is_answered": true,
+      "view_count": 793056,
+      "protected_date": 1408431015,
+      "accepted_answer_id": 16628496,
+      "answer_count": 36,
+      "score": 1080,
+      "last_activity_date": 1716254736,
+      "creation_date": 1368790919,
+      "last_edit_date": 1644698291,
+      "question_id": 16608135,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/16608135/android-studio-add-jar-as-library",
+      "title": "Android Studio: Add jar as library?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "owner": {
+        "account_id": 195602,
+        "reputation": 62303,
+        "user_id": 438581,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/15a0033698497951faf2992ff3e1825c?s=256&d=identicon&r=PG",
+        "display_name": "Brett DeWoody",
+        "link": "https://stackoverflow.com/users/438581/brett-dewoody"
+      },
+      "is_answered": true,
+      "view_count": 1371005,
+      "accepted_answer_id": 28329550,
+      "answer_count": 31,
+      "score": 1080,
+      "last_activity_date": 1726596506,
+      "creation_date": 1423076771,
+      "last_edit_date": 1423080963,
+      "question_id": 28329382,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js",
+      "title": "Understanding unique keys for array children in React.js"
+    },
+    {
+      "tags": [
+        "python",
+        "list"
+      ],
+      "owner": {
+        "account_id": 192341,
+        "reputation": 52521,
+        "user_id": 433417,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/20416c585ab7b81d4d4eb9a1765a0d07?s=256&d=identicon&r=PG",
+        "display_name": "rectangletangle",
+        "link": "https://stackoverflow.com/users/433417/rectangletangle"
+      },
+      "is_answered": true,
+      "view_count": 1330911,
+      "protected_date": 1452571103,
+      "accepted_answer_id": 4426727,
+      "answer_count": 13,
+      "score": 1079,
+      "last_activity_date": 1694933418,
+      "creation_date": 1292225918,
+      "last_edit_date": 1649596433,
+      "question_id": 4426663,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4426663/how-do-i-remove-the-first-item-from-a-list",
+      "title": "How do I remove the first item from a list?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "redux",
+        "react-redux",
+        "timeout"
+      ],
+      "owner": {
+        "account_id": 542952,
+        "reputation": 46201,
+        "user_id": 911930,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://i.sstatic.net/qSWNu.png?s=256",
+        "display_name": "Ilja",
+        "link": "https://stackoverflow.com/users/911930/ilja"
+      },
+      "is_answered": true,
+      "view_count": 529891,
+      "protected_date": 1729625724,
+      "accepted_answer_id": 35415559,
+      "answer_count": 14,
+      "score": 1079,
+      "last_activity_date": 1729622117,
+      "creation_date": 1455545039,
+      "last_edit_date": 1586601896,
+      "question_id": 35411423,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout",
+      "title": "How to dispatch a Redux action with a timeout?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "namespaces",
+        "javascript-namespaces"
+      ],
+      "owner": {
+        "account_id": 13301,
+        "reputation": 16222,
+        "user_id": 26625,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/05d3fc4e5650a74dded18e9cc65f1d1f?s=256&d=identicon&r=PG",
+        "display_name": "Scott McKenzie",
+        "link": "https://stackoverflow.com/users/26625/scott-mckenzie"
+      },
+      "is_answered": true,
+      "view_count": 643390,
+      "protected_date": 1413108850,
+      "accepted_answer_id": 881556,
+      "answer_count": 29,
+      "score": 1078,
+      "last_activity_date": 1641992884,
+      "creation_date": 1242720662,
+      "last_edit_date": 1409329155,
+      "question_id": 881515,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/881515/how-do-i-declare-a-namespace-in-javascript",
+      "title": "How do I declare a namespace in JavaScript?"
+    },
+    {
+      "tags": [
+        "git",
+        "github"
+      ],
+      "owner": {
+        "account_id": 1455305,
+        "reputation": 13059,
+        "user_id": 1371057,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://www.gravatar.com/avatar/8a771bfb70b2d4600cd424585787cd05?s=256&d=identicon&r=PG",
+        "display_name": "Irbis",
+        "link": "https://stackoverflow.com/users/1371057/irbis"
+      },
+      "is_answered": true,
+      "view_count": 2030672,
+      "protected_date": 1692715914,
+      "answer_count": 12,
+      "score": 1078,
+      "last_activity_date": 1724157290,
+      "creation_date": 1489657998,
+      "last_edit_date": 1724157185,
+      "question_id": 42830557,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin",
+      "title": "git - remote add origin vs remote set-url origin"
+    },
+    {
+      "tags": [
+        "docker",
+        "docker-compose"
+      ],
+      "owner": {
+        "account_id": 2705346,
+        "reputation": 15130,
+        "user_id": 2335820,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://i.sstatic.net/sLTHB.jpg?s=256",
+        "display_name": "Kimmo Hintikka",
+        "link": "https://stackoverflow.com/users/2335820/kimmo-hintikka"
+      },
+      "is_answered": true,
+      "view_count": 1269736,
+      "closed_date": 1725389668,
+      "accepted_answer_id": 44785784,
+      "answer_count": 28,
+      "score": 1076,
+      "last_activity_date": 1727804460,
+      "creation_date": 1498581413,
+      "last_edit_date": 1678270455,
+      "question_id": 44785585,
+      "link": "https://stackoverflow.com/questions/44785585/how-can-i-delete-all-local-docker-images",
+      "closed_reason": "Not suitable for this site",
+      "title": "How can I delete all local Docker images?"
+    },
+    {
+      "tags": [
+        "python",
+        "object",
+        "memory",
+        "memory-management",
+        "sizeof"
+      ],
+      "owner": {
+        "account_id": 19782,
+        "reputation": 158623,
+        "user_id": 46646,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://www.gravatar.com/avatar/a1e278de9bdbf3ecd96d0d786fa97392?s=256&d=identicon&r=PG",
+        "display_name": "user46646",
+        "link": "https://stackoverflow.com/users/46646/user46646"
+      },
+      "is_answered": true,
+      "view_count": 1179627,
+      "protected_date": 1419465827,
+      "answer_count": 17,
+      "score": 1075,
+      "last_activity_date": 1709601310,
+      "creation_date": 1232082432,
+      "last_edit_date": 1666074066,
+      "question_id": 449560,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/449560/how-do-i-determine-the-size-of-an-object-in-python",
+      "title": "How do I determine the size of an object in Python?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "hide",
+        "styling"
+      ],
+      "owner": {
+        "account_id": 52590,
+        "reputation": 11763,
+        "user_id": 157173,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/62816b4123724fa233262d0263c786d9?s=256&d=identicon&r=PG",
+        "display_name": "Scott Yu - builds stuff",
+        "link": "https://stackoverflow.com/users/157173/scott-yu-builds-stuff"
+      },
+      "is_answered": true,
+      "view_count": 925085,
+      "protected_date": 1411749234,
+      "accepted_answer_id": 7385673,
+      "answer_count": 40,
+      "score": 1075,
+      "last_activity_date": 1671432502,
+      "creation_date": 1252563087,
+      "last_edit_date": 1587133666,
+      "question_id": 1403615,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1403615/use-jquery-to-hide-a-div-when-the-user-clicks-outside-of-it",
+      "title": "Use jQuery to hide a DIV when the user clicks outside of it"
+    },
+    {
+      "tags": [
+        "regex",
+        "url",
+        "language-agnostic"
+      ],
+      "owner": {
+        "account_id": 2492,
+        "reputation": 17582,
+        "user_id": 1842864,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/fba9349fb3d30a82cb33e70a2cb6a484?s=256&d=identicon&r=PG",
+        "display_name": "Vitor Silva",
+        "link": "https://stackoverflow.com/users/1842864/vitor-silva"
+      },
+      "is_answered": true,
+      "view_count": 736450,
+      "protected_date": 1433603108,
+      "answer_count": 66,
+      "score": 1073,
+      "last_activity_date": 1729179000,
+      "creation_date": 1222944797,
+      "last_edit_date": 1483030991,
+      "question_id": 161738,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/161738/what-is-the-best-regular-expression-to-check-if-a-string-is-a-valid-url",
+      "title": "What is the best regular expression to check if a string is a valid URL?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "layout",
+        "css-float",
+        "clearfix"
+      ],
+      "owner": {
+        "account_id": 3082,
+        "reputation": 125454,
+        "user_id": 4376,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/b9c927e051202fc198e70659d9827d2f?s=256&d=identicon&r=PG",
+        "display_name": "Nathan Long",
+        "link": "https://stackoverflow.com/users/4376/nathan-long"
+      },
+      "is_answered": true,
+      "view_count": 324841,
+      "protected_date": 1394843216,
+      "closed_date": 1419093844,
+      "answer_count": 15,
+      "community_owned_date": 1350675348,
+      "score": 1073,
+      "last_activity_date": 1587303579,
+      "creation_date": 1224515425,
+      "last_edit_date": 1592644375,
+      "question_id": 218760,
+      "link": "https://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing",
+      "closed_reason": "Duplicate",
+      "title": "How do you keep parents of floated elements from collapsing?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "http-get",
+        "dashcode"
+      ],
+      "owner": {
+        "account_id": 13425,
+        "reputation": 12835,
+        "user_id": 26948,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.sstatic.net/64Ctj.jpg?s=256",
+        "display_name": "mclaughj",
+        "link": "https://stackoverflow.com/users/26948/mclaughj"
+      },
+      "is_answered": true,
+      "view_count": 2733840,
+      "protected_date": 1302566330,
+      "accepted_answer_id": 4033310,
+      "answer_count": 31,
+      "score": 1073,
+      "last_activity_date": 1685336550,
+      "creation_date": 1225297894,
+      "last_edit_date": 1601309951,
+      "question_id": 247483,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/247483/http-get-request-in-javascript",
+      "title": "HTTP GET request in JavaScript?"
+    },
+    {
+      "tags": [
+        "python",
+        "list",
+        "duplicates",
+        "list-comprehension",
+        "unique"
+      ],
+      "owner": {
+        "account_id": 23516,
+        "reputation": 26070,
+        "user_id": 58994,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.sstatic.net/jLiVF.jpg?s=256",
+        "display_name": "Josh Glover",
+        "link": "https://stackoverflow.com/users/58994/josh-glover"
+      },
+      "is_answered": true,
+      "view_count": 749808,
+      "protected_date": 1476314187,
+      "accepted_answer_id": 480227,
+      "answer_count": 31,
+      "score": 1073,
+      "last_activity_date": 1688683224,
+      "creation_date": 1232984638,
+      "last_edit_date": 1665934973,
+      "question_id": 480214,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/480214/how-do-i-remove-duplicates-from-a-list-while-preserving-order",
+      "title": "How do I remove duplicates from a list, while preserving order?"
+    },
+    {
+      "tags": [
+        "c#",
+        "string"
+      ],
+      "owner": {
+        "account_id": 4052,
+        "reputation": 44215,
+        "user_id": 5975,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/4ba9906304ce69bd596e145452820a29?s=256&d=identicon&r=PG",
+        "display_name": "Daniel Fortunov",
+        "link": "https://stackoverflow.com/users/5975/daniel-fortunov"
+      },
+      "is_answered": true,
+      "view_count": 966101,
+      "protected_date": 1492041242,
+      "accepted_answer_id": 799454,
+      "answer_count": 24,
+      "score": 1073,
+      "last_activity_date": 1659717367,
+      "creation_date": 1240946158,
+      "question_id": 799446,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/799446/creating-a-comma-separated-list-from-iliststring-or-ienumerablestring",
+      "title": "Creating a comma separated list from IList&lt;string&gt; or IEnumerable&lt;string&gt;"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "versioning",
+        "terminology",
+        "definition"
+      ],
+      "owner": {
+        "account_id": 111768,
+        "reputation": 12091,
+        "user_id": 295069,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5d899328c1838e4d256a672ef2b383c8?s=256&d=identicon&r=PG",
+        "display_name": "brendan",
+        "link": "https://stackoverflow.com/users/295069/brendan"
+      },
+      "is_answered": true,
+      "view_count": 391176,
+      "protected_date": 1417424006,
+      "accepted_answer_id": 2739476,
+      "answer_count": 6,
+      "score": 1073,
+      "last_activity_date": 1638493587,
+      "creation_date": 1272561501,
+      "last_edit_date": 1559917054,
+      "question_id": 2739376,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2739376/definition-of-downstream-and-upstream",
+      "title": "Definition of &quot;downstream&quot; and &quot;upstream&quot;"
+    },
+    {
+      "tags": [
+        "linux",
+        "file",
+        "unix",
+        "path"
+      ],
+      "owner": {
+        "account_id": 216944,
+        "reputation": 22535,
+        "user_id": 472485,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/eaad078400b012b1e37fa6f11dd5c089?s=256&d=identicon&r=PG",
+        "display_name": "Jean",
+        "link": "https://stackoverflow.com/users/472485/jean"
+      },
+      "is_answered": true,
+      "view_count": 1765243,
+      "protected_date": 1440013288,
+      "accepted_answer_id": 5265775,
+      "answer_count": 36,
+      "score": 1072,
+      "last_activity_date": 1684833841,
+      "creation_date": 1299789928,
+      "last_edit_date": 1401995269,
+      "question_id": 5265702,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5265702/how-to-get-full-path-of-a-file",
+      "title": "How to get full path of a file?"
+    },
+    {
+      "tags": [
+        "c#",
+        "string"
+      ],
+      "owner": {
+        "account_id": 15168,
+        "reputation": 30144,
+        "user_id": 31765,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/eb5da802558da6491a1c383c367065eb?s=256&d=identicon&r=PG",
+        "display_name": "Ian G",
+        "link": "https://stackoverflow.com/users/31765/ian-g"
+      },
+      "is_answered": true,
+      "view_count": 950850,
+      "protected_date": 1489537075,
+      "accepted_answer_id": 541994,
+      "answer_count": 37,
+      "score": 1071,
+      "last_activity_date": 1721426898,
+      "creation_date": 1234454260,
+      "last_edit_date": 1696457786,
+      "question_id": 541954,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/541954/how-to-count-occurrences-of-a-char-string-within-a-string",
+      "title": "How to count occurrences of a char\\string within a string?"
+    },
+    {
+      "tags": [
+        "jpa",
+        "merge",
+        "entitymanager",
+        "persist",
+        "java-persistence-api"
+      ],
+      "owner": {
+        "account_id": 15903,
+        "reputation": 327768,
+        "user_id": 34088,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/8a4d6f03a8879432d8563aefbf48e787?s=256&d=identicon&r=PG",
+        "display_name": "Aaron Digulla",
+        "link": "https://stackoverflow.com/users/34088/aaron-digulla"
+      },
+      "is_answered": true,
+      "view_count": 781721,
+      "protected_date": 1539874192,
+      "accepted_answer_id": 1070629,
+      "answer_count": 16,
+      "score": 1071,
+      "last_activity_date": 1663766008,
+      "creation_date": 1246464239,
+      "last_edit_date": 1453880345,
+      "question_id": 1069992,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1069992/jpa-entitymanager-why-use-persist-over-merge",
+      "title": "JPA EntityManager: Why use persist() over merge()?"
+    },
+    {
+      "tags": [
+        "java",
+        "text",
+        "file-io",
+        "ascii",
+        "text-files"
+      ],
+      "owner": {
+        "account_id": 44564,
+        "reputation": 11067,
+        "user_id": 130888,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/dc215853f29bd2688d472d34043f4656?s=256&d=identicon&r=PG",
+        "display_name": "Tim the Enchanter",
+        "link": "https://stackoverflow.com/users/130888/tim-the-enchanter"
+      },
+      "is_answered": true,
+      "view_count": 2672822,
+      "protected_date": 1480304167,
+      "accepted_answer_id": 4716521,
+      "answer_count": 31,
+      "score": 1071,
+      "last_activity_date": 1671185604,
+      "creation_date": 1295288953,
+      "last_edit_date": 1671185604,
+      "question_id": 4716503,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4716503/reading-a-plain-text-file-in-java",
+      "title": "Reading a plain text file in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "kotlin",
+        "android-edittext",
+        "keylistener"
+      ],
+      "owner": {
+        "account_id": 760767,
+        "reputation": 10719,
+        "user_id": 781501,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/c9c4772b889e632429d1dc71116b4e1b?s=256&d=identicon&r=PG",
+        "display_name": "Manu",
+        "link": "https://stackoverflow.com/users/781501/manu"
+      },
+      "is_answered": true,
+      "view_count": 374265,
+      "protected_date": 1561546379,
+      "answer_count": 29,
+      "score": 1071,
+      "last_activity_date": 1715070655,
+      "creation_date": 1307032362,
+      "last_edit_date": 1611690744,
+      "question_id": 6217378,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/6217378/place-cursor-at-the-end-of-text-in-edittext",
+      "title": "Place cursor at the end of text in EditText"
+    },
+    {
+      "tags": [
+        "docker",
+        "docker-container"
+      ],
+      "owner": {
+        "account_id": 80114,
+        "reputation": 11542,
+        "user_id": 226743,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/958d54812e4222930892cc1bed25e702?s=256&d=identicon&r=PG",
+        "display_name": "juwalter",
+        "link": "https://stackoverflow.com/users/226743/juwalter"
+      },
+      "is_answered": true,
+      "view_count": 319323,
+      "protected_date": 1504180544,
+      "accepted_answer_id": 20652410,
+      "answer_count": 15,
+      "score": 1071,
+      "last_activity_date": 1681165744,
+      "creation_date": 1377719144,
+      "last_edit_date": 1540210776,
+      "question_id": 18496940,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker",
+      "title": "How to deal with persistent storage (e.g. databases) in Docker"
+    },
+    {
+      "tags": [
+        "c++",
+        "undefined-behavior",
+        "c++-faq",
+        "sequence-points"
+      ],
+      "owner": {
+        "account_id": 55292,
+        "reputation": 92616,
+        "user_id": 165520,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.sstatic.net/yJCdp.jpg?s=256",
+        "display_name": "Prasoon Saurav",
+        "link": "https://stackoverflow.com/users/165520/prasoon-saurav"
+      },
+      "is_answered": true,
+      "view_count": 129183,
+      "protected_date": 1298701347,
+      "accepted_answer_id": 4176333,
+      "answer_count": 6,
+      "community_owned_date": 1289824992,
+      "score": 1070,
+      "last_activity_date": 1716649965,
+      "creation_date": 1289713066,
+      "last_edit_date": 1695768922,
+      "question_id": 4176328,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4176328/what-are-sequence-points-and-how-do-they-relate-to-undefined-behavior",
+      "title": "What are sequence points, and how do they relate to undefined behavior?"
+    },
+    {
+      "tags": [
+        "angular",
+        "rxjs",
+        "observable",
+        "subscription",
+        "angular-component-life-cycle"
+      ],
+      "owner": {
+        "account_id": 1532682,
+        "reputation": 12743,
+        "user_id": 1429493,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/cc7ec8bb0bf861446a78d447f99dad44?s=256&d=identicon&r=PG",
+        "display_name": "Sergey Tihon",
+        "link": "https://stackoverflow.com/users/1429493/sergey-tihon"
+      },
+      "is_answered": true,
+      "view_count": 445795,
+      "protected_date": 1571380376,
+      "accepted_answer_id": 41177163,
+      "answer_count": 28,
+      "score": 1070,
+      "last_activity_date": 1713872415,
+      "creation_date": 1466754765,
+      "last_edit_date": 1632941370,
+      "question_id": 38008334,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/38008334/angular-rxjs-when-should-i-unsubscribe-from-subscription",
+      "title": "Angular/RxJS When should I unsubscribe from `Subscription`"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "string",
+        "format"
+      ],
+      "owner": {
+        "account_id": 286,
+        "reputation": 70063,
+        "user_id": 357,
+        "user_type": "registered",
+        "accept_rate": 48,
+        "profile_image": "https://www.gravatar.com/avatar/ddb7b76223f7f55b1e8c30b2bebcdde9?s=256&d=identicon&r=PG",
+        "display_name": "Seibar",
+        "link": "https://stackoverflow.com/users/357/seibar"
+      },
+      "is_answered": true,
+      "view_count": 994148,
+      "protected_date": 1373492099,
+      "accepted_answer_id": 105793,
+      "answer_count": 23,
+      "score": 1069,
+      "last_activity_date": 1691967089,
+      "creation_date": 1221859581,
+      "last_edit_date": 1638450545,
+      "question_id": 105770,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/105770/net-string-format-to-add-commas-in-thousands-place-for-a-number",
+      "title": ".NET String.Format() to add commas in thousands place for a number"
+    },
+    {
+      "tags": [
+        "javascript",
+        "callstack"
+      ],
+      "owner": {
+        "account_id": 6713,
+        "reputation": 26548,
+        "user_id": 11413,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/83c7b80a11b1c284c3a7076998d56c33?s=256&d=identicon&r=PG",
+        "display_name": "Ray Lu",
+        "link": "https://stackoverflow.com/users/11413/ray-lu"
+      },
+      "is_answered": true,
+      "view_count": 622952,
+      "protected_date": 1555360548,
+      "accepted_answer_id": 280396,
+      "answer_count": 38,
+      "score": 1069,
+      "last_activity_date": 1720609816,
+      "creation_date": 1226394279,
+      "last_edit_date": 1553313866,
+      "question_id": 280389,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/280389/how-do-you-find-out-the-caller-function-in-javascript",
+      "title": "How do you find out the caller function in JavaScript?"
+    },
+    {
+      "tags": [
+        "python",
+        "operators",
+        "increment",
+        "decrement"
+      ],
+      "owner": {
+        "account_id": 1228,
+        "reputation": 78028,
+        "user_id": 1630,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://i.sstatic.net/jNryb.jpg?s=256",
+        "display_name": "Ashwin Nanjappa",
+        "link": "https://stackoverflow.com/users/1630/ashwin-nanjappa"
+      },
+      "is_answered": true,
+      "view_count": 1565861,
+      "protected_date": 1469325191,
+      "accepted_answer_id": 1485854,
+      "answer_count": 11,
+      "score": 1069,
+      "last_activity_date": 1706210753,
+      "creation_date": 1254123199,
+      "last_edit_date": 1650161499,
+      "question_id": 1485841,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1485841/behaviour-of-increment-and-decrement-operators-in-python",
+      "title": "Behaviour of increment and decrement operators in Python"
+    },
+    {
+      "tags": [
+        "git",
+        "github"
+      ],
+      "owner": {
+        "account_id": 4456609,
+        "reputation": 12664,
+        "user_id": 3626672,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://i.sstatic.net/65x5F.jpg?s=256",
+        "display_name": "leipzy",
+        "link": "https://stackoverflow.com/users/3626672/leipzy"
+      },
+      "is_answered": true,
+      "view_count": 3564627,
+      "protected_date": 1556998907,
+      "accepted_answer_id": 24114760,
+      "answer_count": 70,
+      "score": 1069,
+      "last_activity_date": 1728064823,
+      "creation_date": 1402294886,
+      "last_edit_date": 1660043135,
+      "question_id": 24114676,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote",
+      "title": "git error: failed to push some refs to remote"
+    },
+    {
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "naming-conventions",
+        "c++-faq"
+      ],
+      "owner": {
+        "account_id": 5298,
+        "reputation": 91407,
+        "user_id": 8446,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/8f9c683775bfbe76ed4855a19b73dc81?s=256&d=identicon&r=PG",
+        "display_name": "Roger Lipscombe",
+        "link": "https://stackoverflow.com/users/8446/roger-lipscombe"
+      },
+      "is_answered": true,
+      "view_count": 352033,
+      "protected_date": 1392654143,
+      "accepted_answer_id": 228797,
+      "answer_count": 6,
+      "score": 1068,
+      "last_activity_date": 1717185762,
+      "creation_date": 1224745326,
+      "last_edit_date": 1695686942,
+      "question_id": 228783,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/228783/what-are-the-rules-about-using-an-underscore-in-a-c-identifier",
+      "title": "What are the rules about using an underscore in a C++ identifier?"
+    },
+    {
+      "tags": [
+        "bash",
+        "git",
+        "shell",
+        "line-count"
+      ],
+      "owner": {
+        "account_id": 125080,
+        "reputation": 221000,
+        "user_id": 320615,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/65c80e12b6a33913538653f6d4ef1277?s=256&d=identicon&r=PG",
+        "display_name": "Dogbert",
+        "link": "https://stackoverflow.com/users/320615/dogbert"
+      },
+      "is_answered": true,
+      "view_count": 635328,
+      "accepted_answer_id": 4822516,
+      "answer_count": 18,
+      "score": 1068,
+      "last_activity_date": 1715029429,
+      "creation_date": 1296166026,
+      "last_edit_date": 1522570667,
+      "question_id": 4822471,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/4822471/count-number-of-lines-in-a-git-repository",
+      "title": "Count number of lines in a git repository"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "npm",
+        "package",
+        "package-managers"
+      ],
+      "owner": {
+        "account_id": 1779818,
+        "reputation": 17251,
+        "user_id": 1622847,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.sstatic.net/66Vi0.jpg?s=256",
+        "display_name": "lolski",
+        "link": "https://stackoverflow.com/users/1622847/lolski"
+      },
+      "is_answered": true,
+      "view_count": 808368,
+      "protected_date": 1635702811,
+      "accepted_answer_id": 25497068,
+      "answer_count": 19,
+      "score": 1068,
+      "last_activity_date": 1720122423,
+      "creation_date": 1375155953,
+      "last_edit_date": 1720122423,
+      "question_id": 17937960,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/17937960/how-to-list-npm-user-installed-packages",
+      "title": "How to list npm user-installed packages?"
+    },
+    {
+      "tags": [
+        "c#",
+        "yield"
+      ],
+      "owner": {
+        "account_id": 1062,
+        "reputation": 38542,
+        "user_id": 1409,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/2bd9e4e00647ecf35aba651054861e5e?s=256&d=identicon&r=PG",
+        "display_name": "Herms",
+        "link": "https://stackoverflow.com/users/1409/herms"
+      },
+      "is_answered": true,
+      "view_count": 527336,
+      "protected_date": 1399819794,
+      "accepted_answer_id": 39496,
+      "answer_count": 20,
+      "score": 1067,
+      "last_activity_date": 1721033510,
+      "creation_date": 1220361324,
+      "last_edit_date": 1563175989,
+      "question_id": 39476,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/39476/what-is-the-yield-keyword-used-for-in-c",
+      "title": "What is the yield keyword used for in C#?"
+    },
+    {
+      "tags": [
+        "git"
+      ],
+      "owner": {
+        "account_id": 960057,
+        "reputation": 48115,
+        "user_id": 984621,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://www.gravatar.com/avatar/817afccebcbe3a4983a5e8c584f30373?s=256&d=identicon&r=PG",
+        "display_name": "user984621",
+        "link": "https://stackoverflow.com/users/984621/user984621"
+      },
+      "is_answered": true,
+      "view_count": 826586,
+      "protected_date": 1473150803,
+      "accepted_answer_id": 7860765,
+      "answer_count": 36,
+      "score": 1067,
+      "last_activity_date": 1719295508,
+      "creation_date": 1319299434,
+      "last_edit_date": 1616362222,
+      "question_id": 7860751,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/7860751/git-fatal-unable-to-create-path-my-project-git-index-lock-file-exists",
+      "title": "Git - fatal: Unable to create &#39;/path/my_project/.git/index.lock&#39;: File exists"
+    },
+    {
+      "tags": [
+        "visual-studio-code",
+        "keyboard-shortcuts",
+        "shortcut"
+      ],
+      "owner": {
+        "account_id": 1742272,
+        "reputation": 25741,
+        "user_id": 1593334,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/b3be48dea34b822b180404163b8d554a?s=256&d=identicon&r=PG",
+        "display_name": "eadam",
+        "link": "https://stackoverflow.com/users/1593334/eadam"
+      },
+      "is_answered": true,
+      "view_count": 843912,
+      "protected_date": 1564417664,
+      "answer_count": 13,
+      "score": 1067,
+      "last_activity_date": 1727772377,
+      "creation_date": 1488931596,
+      "last_edit_date": 1564251590,
+      "question_id": 42660670,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/42660670/collapse-all-methods-in-visual-studio-code",
+      "title": "Collapse all methods in Visual Studio Code"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "npm",
+        "npx"
+      ],
+      "owner": {
+        "account_id": 12826237,
+        "reputation": 10870,
+        "user_id": 9279156,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/2006377589588542/picture?type=large",
+        "display_name": "Paresh Maniyar",
+        "link": "https://stackoverflow.com/users/9279156/paresh-maniyar"
+      },
+      "is_answered": true,
+      "view_count": 410447,
+      "protected_date": 1704111642,
+      "accepted_answer_id": 52018825,
+      "answer_count": 15,
+      "score": 1067,
+      "last_activity_date": 1712602209,
+      "creation_date": 1527684714,
+      "last_edit_date": 1630050291,
+      "question_id": 50605219,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm",
+      "title": "Difference between npx and npm?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "data-structures",
+        "intersection"
+      ],
+      "owner": {
+        "account_id": 52614,
+        "reputation": 131561,
+        "user_id": 157237,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/7c6b50948624b1ccfba1872bc82ecaed?s=256&d=identicon&r=PG",
+        "display_name": "Peter",
+        "link": "https://stackoverflow.com/users/157237/peter"
+      },
+      "is_answered": true,
+      "view_count": 888908,
+      "protected_date": 1558657695,
+      "accepted_answer_id": 1885569,
+      "answer_count": 41,
+      "score": 1066,
+      "last_activity_date": 1725613260,
+      "creation_date": 1260500644,
+      "last_edit_date": 1386391251,
+      "question_id": 1885557,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1885557/simplest-code-for-array-intersection-in-javascript",
+      "title": "Simplest code for array intersection in javascript"
+    },
+    {
+      "tags": [
+        "git",
+        "git-push"
+      ],
+      "owner": {
+        "account_id": 44033,
+        "reputation": 161837,
+        "user_id": 128983,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/da7a3c3efd21c067831e68c9c9c55636?s=256&d=identicon&r=PG",
+        "display_name": "hap497",
+        "link": "https://stackoverflow.com/users/128983/hap497"
+      },
+      "is_answered": true,
+      "view_count": 719397,
+      "protected_date": 1389658801,
+      "answer_count": 33,
+      "score": 1066,
+      "last_activity_date": 1679924469,
+      "creation_date": 1273644396,
+      "last_edit_date": 1495535499,
+      "question_id": 2816369,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2816369/git-push-error-remote-rejected-master-master-branch-is-currently-checked",
+      "title": "Git push error &#39;[remote rejected] master -&gt; master (branch is currently checked out)&#39;"
+    },
+    {
+      "tags": [
+        "http",
+        "rest",
+        "http-status-codes"
+      ],
+      "owner": {
+        "account_id": 18230,
+        "reputation": 58842,
+        "user_id": 41596,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/e3d742bdb6a1937a032125eef40aa874?s=256&d=identicon&r=PG",
+        "display_name": "alexn",
+        "link": "https://stackoverflow.com/users/41596/alexn"
+      },
+      "is_answered": true,
+      "view_count": 818915,
+      "protected_date": 1536336570,
+      "accepted_answer_id": 3290198,
+      "answer_count": 10,
+      "score": 1066,
+      "last_activity_date": 1698765127,
+      "creation_date": 1279630987,
+      "last_edit_date": 1653980926,
+      "question_id": 3290182,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3290182/which-status-code-should-i-use-for-failed-validations-or-invalid-duplicates",
+      "title": "Which status code should I use for failed validations or invalid duplicates?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "http-redirect"
+      ],
+      "owner": {
+        "account_id": 271681,
+        "reputation": 11473,
+        "user_id": 598096,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://i.sstatic.net/QmWJN.jpg?s=256",
+        "display_name": "Lucky13",
+        "link": "https://stackoverflow.com/users/598096/lucky13"
+      },
+      "is_answered": true,
+      "view_count": 1695319,
+      "closed_date": 1481226065,
+      "accepted_answer_id": 4745622,
+      "answer_count": 6,
+      "score": 1066,
+      "last_activity_date": 1678524011,
+      "creation_date": 1295510898,
+      "last_edit_date": 1517920178,
+      "question_id": 4744751,
+      "link": "https://stackoverflow.com/questions/4744751/how-do-i-redirect-with-javascript",
+      "closed_reason": "Duplicate",
+      "title": "How do I redirect with JavaScript?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "authenticity-token"
+      ],
+      "owner": {
+        "account_id": 10232,
+        "reputation": 36164,
+        "user_id": 19224,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/39b1a174518e200696acd7249daa0bf6?s=256&d=identicon&r=PG",
+        "display_name": "Ricardo Acras",
+        "link": "https://stackoverflow.com/users/19224/ricardo-acras"
+      },
+      "is_answered": true,
+      "view_count": 230909,
+      "accepted_answer_id": 1571900,
+      "answer_count": 11,
+      "score": 1065,
+      "last_activity_date": 1727324132,
+      "creation_date": 1243972898,
+      "last_edit_date": 1661719901,
+      "question_id": 941594,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token",
+      "title": "Understanding the Rails Authenticity Token"
+    },
+    {
+      "tags": [
+        "javascript",
+        "variables",
+        "undefined"
+      ],
+      "owner": {
+        "account_id": 36455,
+        "reputation": 11367,
+        "user_id": 104003,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/8c6aaef19f3882d9ac26a778e2c56b9d?s=256&d=identicon&r=PG",
+        "display_name": "Jineesh",
+        "link": "https://stackoverflow.com/users/104003/jineesh"
+      },
+      "is_answered": true,
+      "view_count": 1428786,
+      "protected_date": 1335343514,
+      "accepted_answer_id": 858193,
+      "answer_count": 15,
+      "score": 1063,
+      "last_activity_date": 1708352462,
+      "creation_date": 1242223785,
+      "last_edit_date": 1488569758,
+      "question_id": 858181,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/858181/how-to-check-a-not-defined-variable-in-javascript",
+      "title": "How to check a not-defined variable in JavaScript"
+    },
+    {
+      "tags": [
+        "python",
+        "python-requests",
+        "urllib",
+        "urllib2",
+        "urllib3"
+      ],
+      "owner": {
+        "account_id": 36462,
+        "reputation": 28579,
+        "user_id": 104021,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/eee6ec3be3e3176ff1e1119301630812?s=256&d=identicon&r=PG",
+        "display_name": "Paul Biggar",
+        "link": "https://stackoverflow.com/users/104021/paul-biggar"
+      },
+      "is_answered": true,
+      "view_count": 503305,
+      "protected_date": 1544749489,
+      "accepted_answer_id": 14804320,
+      "answer_count": 12,
+      "score": 1063,
+      "last_activity_date": 1729763521,
+      "creation_date": 1262834795,
+      "last_edit_date": 1665474682,
+      "question_id": 2018026,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2018026/what-are-the-differences-between-the-urllib-urllib2-urllib3-and-requests-modul",
+      "title": "What are the differences between the urllib, urllib2, urllib3 and requests module?"
+    },
+    {
+      "tags": [
+        "git",
+        "git-branch"
+      ],
+      "owner": {
+        "account_id": 72664,
+        "reputation": 29360,
+        "user_id": 209706,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/e40b0efd9a8115665967e0fdc9847e74?s=256&d=identicon&r=PG",
+        "display_name": "Mot",
+        "link": "https://stackoverflow.com/users/209706/mot"
+      },
+      "is_answered": true,
+      "view_count": 586473,
+      "accepted_answer_id": 8206536,
+      "answer_count": 11,
+      "score": 1063,
+      "last_activity_date": 1677790027,
+      "creation_date": 1301395023,
+      "last_edit_date": 1497350891,
+      "question_id": 5471174,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5471174/move-branch-pointer-to-different-commit-without-checkout",
+      "title": "Move branch pointer to different commit without checkout"
+    },
+    {
+      "tags": [
+        "java",
+        "lambda",
+        "java-8",
+        "java-stream"
+      ],
+      "owner": {
+        "account_id": 1834770,
+        "reputation": 16138,
+        "user_id": 1665365,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/b9dc5e70a71396f484fd401ffb90bf01?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Tom",
+        "link": "https://stackoverflow.com/users/1665365/tom"
+      },
+      "is_answered": true,
+      "view_count": 787114,
+      "protected_date": 1509066976,
+      "accepted_answer_id": 20363874,
+      "answer_count": 23,
+      "score": 1063,
+      "last_activity_date": 1720392236,
+      "creation_date": 1386112729,
+      "last_edit_date": 1720392236,
+      "question_id": 20363719,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/20363719/java-8-listv-into-mapk-v",
+      "title": "Java 8 List&lt;V&gt; into Map&lt;K, V&gt;"
+    },
+    {
+      "tags": [
+        "android",
+        "android-service"
+      ],
+      "owner": {
+        "account_id": 23265,
+        "reputation": 14417,
+        "user_id": 58164,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/e45b2f874537995a2ec2db5df88f682e?s=256&d=identicon&r=PG",
+        "display_name": "Bee",
+        "link": "https://stackoverflow.com/users/58164/bee"
+      },
+      "is_answered": true,
+      "view_count": 610277,
+      "protected_date": 1494546026,
+      "accepted_answer_id": 608600,
+      "answer_count": 34,
+      "score": 1062,
+      "last_activity_date": 1716231839,
+      "creation_date": 1235930949,
+      "last_edit_date": 1557493454,
+      "question_id": 600207,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/600207/how-to-check-if-a-service-is-running-on-android",
+      "title": "How to check if a service is running on Android?"
+    },
+    {
+      "tags": [
+        "windows",
+        "powershell",
+        "scripting"
+      ],
+      "owner": {
+        "account_id": 63368,
+        "reputation": 448514,
+        "user_id": 187606,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://i.sstatic.net/zzxoB.jpg?s=256",
+        "display_name": "Pekka",
+        "link": "https://stackoverflow.com/users/187606/pekka"
+      },
+      "is_answered": true,
+      "view_count": 3219244,
+      "protected_date": 1488480244,
+      "accepted_answer_id": 2035209,
+      "answer_count": 17,
+      "score": 1062,
+      "last_activity_date": 1726612708,
+      "creation_date": 1263075550,
+      "last_edit_date": 1541914125,
+      "question_id": 2035193,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2035193/how-to-run-a-powershell-script",
+      "title": "How to run a PowerShell script"
+    },
+    {
+      "tags": [
+        "python",
+        "path",
+        "relative-path",
+        "absolute-path"
+      ],
+      "owner": {
+        "account_id": 746,
+        "reputation": 51521,
+        "user_id": 974,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/3d7e0433078e5d9b54fb90edf7bd10a3?s=256&d=identicon&r=PG",
+        "display_name": "izb",
+        "link": "https://stackoverflow.com/users/974/izb"
+      },
+      "is_answered": true,
+      "view_count": 1533912,
+      "protected_date": 1563025064,
+      "accepted_answer_id": 51523,
+      "answer_count": 12,
+      "score": 1061,
+      "last_activity_date": 1724928397,
+      "creation_date": 1220955572,
+      "last_edit_date": 1657036261,
+      "question_id": 51520,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/51520/how-to-get-an-absolute-file-path-in-python",
+      "title": "How to get an absolute file path in Python"
+    },
+    {
+      "tags": [
+        "android",
+        "android-manifest",
+        "android-orientation"
+      ],
+      "owner": {
+        "account_id": 19674,
+        "reputation": 70959,
+        "user_id": 46297,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.sstatic.net/BIsfd.jpg?s=256",
+        "display_name": "lostInTransit",
+        "link": "https://stackoverflow.com/users/46297/lostintransit"
+      },
+      "is_answered": true,
+      "view_count": 714464,
+      "protected_date": 1567753268,
+      "accepted_answer_id": 582585,
+      "answer_count": 32,
+      "score": 1061,
+      "last_activity_date": 1724657351,
+      "creation_date": 1235489365,
+      "last_edit_date": 1622643238,
+      "question_id": 582185,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/582185/how-can-i-disable-landscape-mode-in-android",
+      "title": "How can I disable landscape mode in Android?"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "numeric"
+      ],
+      "owner": {
+        "account_id": 8492,
+        "reputation": 23102,
+        "user_id": 15352,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/31bb333f97613e2a083d68b115bd4b86?s=256&d=identicon&r=PG",
+        "display_name": "Craig Angus",
+        "link": "https://stackoverflow.com/users/15352/craig-angus"
+      },
+      "is_answered": true,
+      "view_count": 1960101,
+      "protected_date": 1448786052,
+      "accepted_answer_id": 12569609,
+      "answer_count": 41,
+      "score": 1061,
+      "last_activity_date": 1729500339,
+      "creation_date": 1247132987,
+      "last_edit_date": 1729500339,
+      "question_id": 1102891,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1102891/how-to-check-if-a-string-is-numeric-in-java",
+      "title": "How to check if a String is numeric in Java"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "migration",
+        "schema",
+        "database-schema",
+        "rollback"
+      ],
+      "owner": {
+        "account_id": 50010,
+        "reputation": 110600,
+        "user_id": 149080,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/685eca46bfebf9233cc276b415a74ddb?s=256&d=identicon&r=PG",
+        "display_name": "AnApprentice",
+        "link": "https://stackoverflow.com/users/149080/anapprentice"
+      },
+      "is_answered": true,
+      "view_count": 772481,
+      "accepted_answer_id": 3647820,
+      "answer_count": 20,
+      "score": 1061,
+      "last_activity_date": 1719354713,
+      "creation_date": 1283718617,
+      "last_edit_date": 1673551899,
+      "question_id": 3647685,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3647685/how-can-i-rollback-a-specific-migration",
+      "title": "How can I rollback a specific migration?"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "string"
+      ],
+      "owner": {
+        "account_id": 91725,
+        "reputation": 11862,
+        "user_id": 251712,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/895b7ffa03d19704a6f7c92dce503bbc?s=256&d=identicon&r=PG",
+        "display_name": "PhilB",
+        "link": "https://stackoverflow.com/users/251712/philb"
+      },
+      "is_answered": true,
+      "view_count": 306660,
+      "closed_date": 1540984899,
+      "accepted_answer_id": 3773868,
+      "answer_count": 1,
+      "score": 1061,
+      "last_activity_date": 1540984904,
+      "creation_date": 1285191859,
+      "last_edit_date": 1540984904,
+      "question_id": 3773857,
+      "link": "https://stackoverflow.com/questions/3773857/escape-curly-brace-in-string-format",
+      "closed_reason": "Duplicate",
+      "title": "Escape curly brace &#39;{&#39; in String.Format"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "user-interface",
+        "android-recyclerview"
+      ],
+      "owner": {
+        "account_id": 475072,
+        "reputation": 13338,
+        "user_id": 885179,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/49f69bba9a2836492b26fc2dfde39916?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Pongpat",
+        "link": "https://stackoverflow.com/users/885179/pongpat"
+      },
+      "is_answered": true,
+      "view_count": 613116,
+      "protected_date": 1523782602,
+      "accepted_answer_id": 26245463,
+      "answer_count": 23,
+      "score": 1061,
+      "last_activity_date": 1673365548,
+      "creation_date": 1412715330,
+      "last_edit_date": 1625680538,
+      "question_id": 26245139,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/26245139/how-to-create-recyclerview-with-multiple-view-types",
+      "title": "How to create RecyclerView with multiple view types"
+    },
+    {
+      "tags": [
+        "c++",
+        "c",
+        "declaration",
+        "terminology",
+        "c++-faq"
+      ],
+      "owner": {
+        "account_id": 47925,
+        "reputation": 19873,
+        "user_id": 142168,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/93f58aadda971b1252cc27bb9d45d734?s=256&d=identicon&r=PG",
+        "display_name": "Maciek",
+        "link": "https://stackoverflow.com/users/142168/maciek"
+      },
+      "is_answered": true,
+      "view_count": 491590,
+      "protected_date": 1314990440,
+      "accepted_answer_id": 1410632,
+      "answer_count": 27,
+      "score": 1060,
+      "last_activity_date": 1695569726,
+      "creation_date": 1252672032,
+      "last_edit_date": 1695569726,
+      "question_id": 1410563,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1410563/what-is-the-difference-between-a-definition-and-a-declaration",
+      "title": "What is the difference between a definition and a declaration?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "string"
+      ],
+      "owner": {
+        "account_id": 648983,
+        "reputation": 11121,
+        "user_id": 434269,
+        "user_type": "unregistered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/9e127e3a9affb9c9e30863084ae9b59f?s=256&d=identicon&r=PG",
+        "display_name": "Will",
+        "link": "https://stackoverflow.com/users/434269/will"
+      },
+      "is_answered": true,
+      "view_count": 1410821,
+      "protected_date": 1398769652,
+      "accepted_answer_id": 3654309,
+      "answer_count": 27,
+      "score": 1060,
+      "last_activity_date": 1688737397,
+      "creation_date": 1283807217,
+      "last_edit_date": 1679040405,
+      "question_id": 3654295,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3654295/remove-empty-array-elements",
+      "title": "Remove empty array elements"
+    },
+    {
+      "tags": [
+        "regex",
+        "validation",
+        "phone-number"
+      ],
+      "owner": {
+        "account_id": 591,
+        "reputation": 2815,
+        "user_id": 765,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/1ef98640be692ca7ac1b01d3835e57ef?s=256&d=identicon&r=PG",
+        "display_name": "Nicholas Trandem",
+        "link": "https://stackoverflow.com/users/765/nicholas-trandem"
+      },
+      "is_answered": true,
+      "view_count": 1214368,
+      "protected_date": 1555383458,
+      "accepted_answer_id": 123681,
+      "answer_count": 46,
+      "community_owned_date": 1345823537,
+      "score": 1059,
+      "last_activity_date": 1708887145,
+      "creation_date": 1222200822,
+      "last_edit_date": 1581708949,
+      "question_id": 123559,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/123559/how-to-validate-phone-numbers-using-regex",
+      "title": "How to validate phone numbers using regex"
+    },
+    {
+      "tags": [
+        "javascript"
+      ],
+      "owner": {
+        "account_id": 356265,
+        "reputation": 12276,
+        "user_id": 695663,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/5dccc191c25520dc326abd298546e0a1?s=256&d=identicon&r=PG",
+        "display_name": "user695663",
+        "link": "https://stackoverflow.com/users/695663/user695663"
+      },
+      "is_answered": true,
+      "view_count": 1567632,
+      "accepted_answer_id": 5873890,
+      "answer_count": 26,
+      "score": 1059,
+      "last_activity_date": 1695514153,
+      "creation_date": 1304446338,
+      "last_edit_date": 1554117170,
+      "question_id": 5873810,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5873810/how-can-i-get-last-characters-of-a-string",
+      "title": "How can I get last characters of a string"
+    },
+    {
+      "tags": [
+        "git",
+        "directory",
+        "rename"
+      ],
+      "owner": {
+        "account_id": 528456,
+        "reputation": 26748,
+        "user_id": 1150778,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/c9bd6911314a33fd386e33b6b650fb44?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "qazwsx",
+        "link": "https://stackoverflow.com/users/1150778/qazwsx"
+      },
+      "is_answered": true,
+      "view_count": 719109,
+      "accepted_answer_id": 11183844,
+      "answer_count": 14,
+      "score": 1058,
+      "last_activity_date": 1714997704,
+      "creation_date": 1340601306,
+      "last_edit_date": 1547729066,
+      "question_id": 11183788,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11183788/in-a-git-repository-how-to-properly-rename-a-directory",
+      "title": "In a Git repository, how to properly rename a directory?"
+    },
+    {
+      "tags": [
+        "ruby",
+        "rubygems"
+      ],
+      "owner": {
+        "account_id": 6792,
+        "reputation": 65063,
+        "user_id": 11543,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/3928085cafc1e496fb3d990a9959f233?s=256&d=identicon&r=PG",
+        "display_name": "mjs",
+        "link": "https://stackoverflow.com/users/11543/mjs"
+      },
+      "is_answered": true,
+      "view_count": 600875,
+      "accepted_answer_id": 17026442,
+      "answer_count": 8,
+      "score": 1058,
+      "last_activity_date": 1672295474,
+      "creation_date": 1370875035,
+      "last_edit_date": 1621277220,
+      "question_id": 17026441,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/17026441/ruby-how-to-install-a-specific-version-of-a-ruby-gem",
+      "title": "Ruby: How to install a specific version of a ruby gem?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2008",
+        "t-sql"
+      ],
+      "owner": {
+        "account_id": 24125,
+        "reputation": 26377,
+        "user_id": 61156,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/4d41619db953932c92e0eacff01f8263?s=256&d=identicon&r=PG",
+        "display_name": "odiseh",
+        "link": "https://stackoverflow.com/users/61156/odiseh"
+      },
+      "is_answered": true,
+      "view_count": 3207168,
+      "protected_date": 1391875217,
+      "accepted_answer_id": 1054988,
+      "answer_count": 24,
+      "score": 1057,
+      "last_activity_date": 1698743682,
+      "creation_date": 1246197950,
+      "last_edit_date": 1597257494,
+      "question_id": 1054984,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1054984/how-can-i-get-column-names-from-a-table-in-sql-server",
+      "title": "How can I get column names from a table in SQL Server?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "canvas",
+        "screenshot",
+        "html2canvas"
+      ],
+      "owner": {
+        "account_id": 36960,
+        "reputation": 17058,
+        "user_id": 105565,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d7ac5071cf9a5bb6a7c57b4a5de50057?s=256&d=identicon&r=PG",
+        "display_name": "joelvh",
+        "link": "https://stackoverflow.com/users/105565/joelvh"
+      },
+      "is_answered": true,
+      "view_count": 632268,
+      "protected_date": 1371982280,
+      "accepted_answer_id": 6678156,
+      "answer_count": 8,
+      "score": 1057,
+      "last_activity_date": 1718104869,
+      "creation_date": 1296975533,
+      "last_edit_date": 1631265874,
+      "question_id": 4912092,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4912092/using-html5-canvas-javascript-to-take-in-browser-screenshots",
+      "title": "Using HTML5/Canvas/JavaScript to take in-browser screenshots"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "split"
+      ],
+      "owner": {
+        "account_id": 67776,
+        "reputation": 42568,
+        "user_id": 198128,
+        "user_type": "registered",
+        "accept_rate": 99,
+        "profile_image": "https://www.gravatar.com/avatar/3f6190b2a65d349faf1345ddb35c661c?s=256&d=identicon&r=PG",
+        "display_name": "Industrial",
+        "link": "https://stackoverflow.com/users/198128/industrial"
+      },
+      "is_answered": true,
+      "view_count": 1287244,
+      "protected_date": 1500656326,
+      "accepted_answer_id": 8495740,
+      "answer_count": 87,
+      "score": 1057,
+      "last_activity_date": 1730183760,
+      "creation_date": 1323807882,
+      "last_edit_date": 1378857774,
+      "question_id": 8495687,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/8495687/split-array-into-chunks",
+      "title": "Split array into chunks"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "string"
+      ],
+      "owner": {
+        "account_id": 20088,
+        "reputation": 49984,
+        "user_id": 47630,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/7d2cc799db6f5916a1ca4df1259d7d32?s=256&d=identicon&r=PG",
+        "display_name": "Alex Baranosky",
+        "link": "https://stackoverflow.com/users/47630/alex-baranosky"
+      },
+      "is_answered": true,
+      "view_count": 572442,
+      "protected_date": 1684323261,
+      "accepted_answer_id": 411762,
+      "answer_count": 23,
+      "score": 1056,
+      "last_activity_date": 1720903044,
+      "creation_date": 1231106219,
+      "last_edit_date": 1683316998,
+      "question_id": 411752,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/411752/best-way-to-repeat-a-character-in-c",
+      "title": "Best way to repeat a character in C#"
+    },
+    {
+      "tags": [
+        "java",
+        "generics",
+        "collections"
+      ],
+      "owner": {
+        "account_id": 235146,
+        "reputation": 12092,
+        "user_id": 501767,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/e418768027351dc995f834bff9075c61?s=256&d=identicon&r=PG",
+        "display_name": "Anand",
+        "link": "https://stackoverflow.com/users/501767/anand"
+      },
+      "is_answered": true,
+      "view_count": 370005,
+      "closed_date": 1538251500,
+      "accepted_answer_id": 4343547,
+      "answer_count": 13,
+      "score": 1056,
+      "last_activity_date": 1671840160,
+      "creation_date": 1291359426,
+      "last_edit_date": 1505384014,
+      "question_id": 4343202,
+      "link": "https://stackoverflow.com/questions/4343202/difference-between-super-t-and-extends-t-in-java",
+      "closed_reason": "Duplicate",
+      "title": "Difference between &lt;? super T&gt; and &lt;? extends T&gt; in Java"
+    },
+    {
+      "tags": [
+        "string",
+        "postgresql",
+        "text",
+        "types",
+        "varchar"
+      ],
+      "owner": {
+        "account_id": 21147,
+        "reputation": 135159,
+        "user_id": 51197,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.sstatic.net/QG9pG.jpg?s=256",
+        "display_name": "Adam Matan",
+        "link": "https://stackoverflow.com/users/51197/adam-matan"
+      },
+      "is_answered": true,
+      "view_count": 618896,
+      "protected_date": 1524255302,
+      "accepted_answer_id": 4849030,
+      "answer_count": 14,
+      "score": 1055,
+      "last_activity_date": 1725555369,
+      "creation_date": 1296463474,
+      "last_edit_date": 1603287273,
+      "question_id": 4848964,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4848964/difference-between-text-and-varchar-character-varying",
+      "title": "Difference between text and varchar (character varying)"
+    },
+    {
+      "tags": [
+        "javascript",
+        "file",
+        "http",
+        "cross-domain",
+        "cross-origin-resource-policy"
+      ],
+      "owner": {
+        "account_id": 874149,
+        "reputation": 32111,
+        "user_id": 924313,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/14d86d9d0a97d8464d59eb42935838ae?s=256&d=identicon&r=PG",
+        "display_name": "corazza",
+        "link": "https://stackoverflow.com/users/924313/corazza"
+      },
+      "is_answered": true,
+      "view_count": 1741342,
+      "protected_date": 1447142473,
+      "accepted_answer_id": 10752078,
+      "answer_count": 30,
+      "score": 1055,
+      "last_activity_date": 1722092544,
+      "creation_date": 1337938879,
+      "last_edit_date": 1671380877,
+      "question_id": 10752055,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/10752055/cross-origin-requests-are-only-supported-for-http-error-when-loading-a-local",
+      "title": "&quot;Cross origin requests are only supported for HTTP.&quot; error when loading a local file"
+    },
+    {
+      "tags": [
+        "macos",
+        "node.js",
+        "upgrade"
+      ],
+      "owner": {
+        "account_id": 1588589,
+        "reputation": 12290,
+        "user_id": 1472418,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://i.sstatic.net/JayMB.jpg?s=256",
+        "display_name": "afterglowlee",
+        "link": "https://stackoverflow.com/users/1472418/afterglowlee"
+      },
+      "is_answered": true,
+      "view_count": 1203339,
+      "protected_date": 1521870456,
+      "accepted_answer_id": 19333717,
+      "answer_count": 32,
+      "score": 1055,
+      "last_activity_date": 1717803414,
+      "creation_date": 1341167611,
+      "last_edit_date": 1549214157,
+      "question_id": 11284634,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11284634/upgrade-node-js-to-the-latest-version-on-mac-os",
+      "title": "Upgrade Node.js to the latest version on Mac OS"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-scope",
+        "this"
+      ],
+      "owner": {
+        "account_id": 73904,
+        "reputation": 11101,
+        "user_id": 212584,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/a2cdb51747ac876c125c1c5a8fb9b390?s=256&d=identicon&r=PG",
+        "display_name": "Alexei Boronine",
+        "link": "https://stackoverflow.com/users/212584/alexei-boronine"
+      },
+      "is_answered": true,
+      "view_count": 311495,
+      "protected_date": 1434047731,
+      "accepted_answer_id": 14168699,
+      "answer_count": 7,
+      "score": 1055,
+      "last_activity_date": 1605805073,
+      "creation_date": 1343012147,
+      "last_edit_date": 1445534037,
+      "question_id": 11605917,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/11605917/this-vs-scope-in-angularjs-controllers",
+      "title": "&#39;this&#39; vs $scope in AngularJS controllers"
+    },
+    {
+      "tags": [
+        "git",
+        "git-stash"
+      ],
+      "owner": {
+        "account_id": 1284241,
+        "reputation": 12378,
+        "user_id": 1237656,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/fa1828dcc08dce6706416e9d80e50f78?s=256&d=identicon&r=PG",
+        "display_name": "Aswathy P Krishnan",
+        "link": "https://stackoverflow.com/users/1237656/aswathy-p-krishnan"
+      },
+      "is_answered": true,
+      "view_count": 1268814,
+      "protected_date": 1724163898,
+      "accepted_answer_id": 19003191,
+      "answer_count": 8,
+      "score": 1055,
+      "last_activity_date": 1713425189,
+      "creation_date": 1380106581,
+      "last_edit_date": 1527234630,
+      "question_id": 19003009,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes",
+      "title": "How to recover stashed uncommitted changes"
+    },
+    {
+      "tags": [
+        "visual-studio-code",
+        "configuration",
+        "vs-code-settings"
+      ],
+      "owner": {
+        "account_id": 304546,
+        "reputation": 57732,
+        "user_id": 614112,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://i.sstatic.net/VKqJE.png?s=256",
+        "display_name": "Chris",
+        "link": "https://stackoverflow.com/users/614112/chris"
+      },
+      "is_answered": true,
+      "view_count": 454787,
+      "accepted_answer_id": 30142299,
+      "answer_count": 14,
+      "score": 1055,
+      "last_activity_date": 1716822961,
+      "creation_date": 1431175722,
+      "last_edit_date": 1716822961,
+      "question_id": 30140112,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/30140112/how-to-hide-specified-files-directories-e-g-git-in-the-sidebar-vscode",
+      "title": "How to hide specified files/directories (e.g., .git) in the sidebar? (VSCode)"
+    },
+    {
+      "tags": [
+        "android",
+        "android-emulator",
+        "emulation"
+      ],
+      "owner": {
+        "account_id": 158981,
+        "reputation": 16377,
+        "user_id": 377983,
+        "user_type": "registered",
+        "accept_rate": 38,
+        "profile_image": "https://www.gravatar.com/avatar/1bc7aa2eee02b7796a90c3986a37029a?s=256&d=identicon&r=PG",
+        "display_name": "mahdi ",
+        "link": "https://stackoverflow.com/users/377983/mahdi"
+      },
+      "is_answered": true,
+      "view_count": 294229,
+      "protected_date": 1389057988,
+      "closed_date": 1420501314,
+      "accepted_answer_id": 4535315,
+      "answer_count": 23,
+      "score": 1054,
+      "last_activity_date": 1587303357,
+      "creation_date": 1293395559,
+      "last_edit_date": 1474794016,
+      "question_id": 4535298,
+      "link": "https://stackoverflow.com/questions/4535298/how-do-i-rotate-the-android-emulator-display",
+      "closed_reason": "Duplicate",
+      "title": "How do I rotate the Android emulator display?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "information-schema"
+      ],
+      "owner": {
+        "account_id": 5129,
+        "reputation": 49928,
+        "user_id": 8091,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://i.sstatic.net/x3Eee.jpg?s=256",
+        "display_name": "Jobi Joy",
+        "link": "https://stackoverflow.com/users/8091/jobi-joy"
+      },
+      "is_answered": true,
+      "view_count": 743650,
+      "protected_date": 1362963493,
+      "accepted_answer_id": 193860,
+      "answer_count": 11,
+      "score": 1053,
+      "last_activity_date": 1664739935,
+      "creation_date": 1223708525,
+      "last_edit_date": 1628265956,
+      "question_id": 193780,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/193780/how-can-i-find-all-the-tables-in-mysql-with-specific-column-names-in-them",
+      "title": "How can I find all the tables in MySQL with specific column names in them?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "unique-constraint",
+        "composite-key",
+        "database-table"
+      ],
+      "owner": {
+        "account_id": 149,
+        "reputation": 54715,
+        "user_id": 184,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.sstatic.net/kqgas.jpg?s=256",
+        "display_name": "Niyaz",
+        "link": "https://stackoverflow.com/users/184/niyaz"
+      },
+      "is_answered": true,
+      "view_count": 715107,
+      "protected_date": 1370292679,
+      "accepted_answer_id": 635943,
+      "answer_count": 15,
+      "score": 1053,
+      "last_activity_date": 1703316521,
+      "creation_date": 1236798751,
+      "last_edit_date": 1703316521,
+      "question_id": 635937,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/635937/how-do-i-specify-unique-constraint-for-multiple-columns-in-mysql",
+      "title": "How do I specify unique constraint for multiple columns in MySQL?"
+    },
+    {
+      "tags": [
+        "git",
+        "branch",
+        "git-clone"
+      ],
+      "owner": {
+        "account_id": 25744,
+        "reputation": 15458,
+        "user_id": 66450,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/4f0e357e06e607e4d7b13f6abe276378?s=256&d=identicon&r=PG",
+        "display_name": "Casey Rodarmor",
+        "link": "https://stackoverflow.com/users/66450/casey-rodarmor"
+      },
+      "is_answered": true,
+      "view_count": 1036421,
+      "protected_date": 1557321086,
+      "accepted_answer_id": 9920956,
+      "answer_count": 27,
+      "score": 1053,
+      "last_activity_date": 1677214343,
+      "creation_date": 1258874479,
+      "last_edit_date": 1657258826,
+      "question_id": 1778088,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1778088/how-do-i-clone-a-single-branch-in-git",
+      "title": "How do I clone a single branch in Git?"
+    },
+    {
+      "tags": [
+        "encoding",
+        "base64",
+        "encode"
+      ],
+      "owner": {
+        "account_id": 11619,
+        "reputation": 44355,
+        "user_id": 22471,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/cc409a54660e1f5bfcf7d60ee471eab3?s=256&d=identicon&r=PG",
+        "display_name": "MrDatabase",
+        "link": "https://stackoverflow.com/users/22471/mrdatabase"
+      },
+      "is_answered": true,
+      "view_count": 569137,
+      "protected_date": 1466186626,
+      "accepted_answer_id": 201510,
+      "answer_count": 19,
+      "score": 1052,
+      "last_activity_date": 1674487771,
+      "creation_date": 1223995852,
+      "last_edit_date": 1450604927,
+      "question_id": 201479,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/201479/what-is-base-64-encoding-used-for",
+      "title": "What is base 64 encoding used for?"
+    },
+    {
+      "tags": [
+        "html"
+      ],
+      "owner": {
+        "account_id": 30594,
+        "reputation": 22021,
+        "user_id": 83475,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/25e51240f8f50938b94d04e8049ca07b?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Roch",
+        "link": "https://stackoverflow.com/users/83475/roch"
+      },
+      "is_answered": true,
+      "view_count": 3352274,
+      "protected_date": 1405790600,
+      "accepted_answer_id": 1571662,
+      "answer_count": 37,
+      "score": 1052,
+      "last_activity_date": 1728680682,
+      "creation_date": 1255604619,
+      "last_edit_date": 1676600499,
+      "question_id": 1571648,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1571648/tab-character-instead-of-multiple-non-breaking-spaces-nbsp",
+      "title": "Tab character instead of multiple non-breaking spaces (&quot;nbsp&quot;)?"
+    },
+    {
+      "tags": [
+        "java",
+        "variadic-functions"
+      ],
+      "owner": {
+        "account_id": 160847,
+        "reputation": 12193,
+        "user_id": 381203,
+        "user_type": "registered",
+        "accept_rate": 20,
+        "profile_image": "https://www.gravatar.com/avatar/a484d0429a6c28917ad64ec5f5600a6c?s=256&d=identicon&r=PG",
+        "display_name": "Vikram",
+        "link": "https://stackoverflow.com/users/381203/vikram"
+      },
+      "is_answered": true,
+      "view_count": 610895,
+      "protected_date": 1377072898,
+      "accepted_answer_id": 3158767,
+      "answer_count": 9,
+      "score": 1052,
+      "last_activity_date": 1728891305,
+      "creation_date": 1277994469,
+      "last_edit_date": 1660466749,
+      "question_id": 3158730,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3158730/what-do-3-dots-next-to-a-parameter-type-mean-in-java",
+      "title": "What do 3 dots next to a parameter type mean in Java?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "custom-data-attribute"
+      ],
+      "owner": {
+        "account_id": 41769,
+        "reputation": 12300,
+        "user_id": 121470,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.sstatic.net/YmeDR.png?s=256",
+        "display_name": "Bruce Adams",
+        "link": "https://stackoverflow.com/users/121470/bruce-adams"
+      },
+      "is_answered": true,
+      "view_count": 2344730,
+      "protected_date": 1454311531,
+      "accepted_answer_id": 5309947,
+      "answer_count": 17,
+      "score": 1051,
+      "last_activity_date": 1677252081,
+      "creation_date": 1300182270,
+      "last_edit_date": 1627757413,
+      "question_id": 5309926,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5309926/how-can-i-get-the-data-id-attribute",
+      "title": "How can I get the data-id attribute?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "inheritance",
+        "prototype",
+        "prototypal-inheritance"
+      ],
+      "owner": {
+        "account_id": 75262,
+        "reputation": 364547,
+        "user_id": 215945,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.sstatic.net/203qt.png?s=256",
+        "display_name": "Mark Rajcok",
+        "link": "https://stackoverflow.com/users/215945/mark-rajcok"
+      },
+      "is_answered": true,
+      "view_count": 157229,
+      "protected_date": 1434049925,
+      "accepted_answer_id": 14049482,
+      "answer_count": 3,
+      "score": 1051,
+      "last_activity_date": 1587034660,
+      "creation_date": 1356583711,
+      "last_edit_date": 1587034660,
+      "question_id": 14049480,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs",
+      "title": "What are the nuances of scope prototypal / prototypical inheritance in AngularJS?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9907
+}

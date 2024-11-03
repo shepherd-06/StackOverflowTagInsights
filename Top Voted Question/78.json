@@ -1,0 +1,2926 @@
+{
+  "items": [
+    {
+      "tags": [
+        "java",
+        "string",
+        "immutability"
+      ],
+      "owner": {
+        "account_id": 15622,
+        "reputation": 81408,
+        "user_id": 33203,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/07856b52198509b8bd0d2e5418d0bf37?s=256&d=identicon&r=PG",
+        "display_name": "ashokgelal",
+        "link": "https://stackoverflow.com/users/33203/ashokgelal"
+      },
+      "is_answered": true,
+      "view_count": 193449,
+      "protected_date": 1389041698,
+      "accepted_answer_id": 279522,
+      "answer_count": 17,
+      "score": 422,
+      "last_activity_date": 1673310866,
+      "creation_date": 1226358326,
+      "last_edit_date": 1673310866,
+      "question_id": 279507,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/279507/what-is-meant-by-immutable",
+      "title": "What is meant by immutable?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "css",
+        "jquery-ui",
+        "position"
+      ],
+      "owner": {
+        "account_id": 1906,
+        "reputation": 14850,
+        "user_id": 2627,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/a249edf6200667ad62e22a1668921810?s=256&d=identicon&r=PG",
+        "display_name": "rmontgomery429",
+        "link": "https://stackoverflow.com/users/2627/rmontgomery429"
+      },
+      "is_answered": true,
+      "view_count": 1020606,
+      "answer_count": 17,
+      "score": 422,
+      "last_activity_date": 1678029915,
+      "creation_date": 1235767432,
+      "last_edit_date": 1575151004,
+      "question_id": 596608,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/596608/slide-right-to-left",
+      "title": "Slide right to left?"
+    },
+    {
+      "tags": [
+        "java",
+        "encryption",
+        "cryptography",
+        "passwords",
+        "aes"
+      ],
+      "owner": {
+        "account_id": 32841,
+        "reputation": 20310,
+        "user_id": 91414,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/51d1823334649cf128ce6d9ad3b7adaf?s=256&d=identicon&r=PG",
+        "display_name": "Nippysaurus",
+        "link": "https://stackoverflow.com/users/91414/nippysaurus"
+      },
+      "is_answered": true,
+      "view_count": 637186,
+      "protected_date": 1377261021,
+      "accepted_answer_id": 992413,
+      "answer_count": 9,
+      "score": 422,
+      "last_activity_date": 1602708732,
+      "creation_date": 1244947142,
+      "last_edit_date": 1330278679,
+      "question_id": 992019,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/992019/java-256-bit-aes-password-based-encryption",
+      "title": "Java 256-bit AES Password-Based Encryption"
+    },
+    {
+      "tags": [
+        "c#",
+        "entity-framework"
+      ],
+      "owner": {
+        "account_id": 45216,
+        "reputation": 26941,
+        "user_id": 133212,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/1ccd0e0470758c08685b10abc2b503bd?s=256&d=identicon&r=PG",
+        "display_name": "The Light",
+        "link": "https://stackoverflow.com/users/133212/the-light"
+      },
+      "is_answered": true,
+      "view_count": 530315,
+      "protected_date": 1416782465,
+      "accepted_answer_id": 6200173,
+      "answer_count": 38,
+      "score": 422,
+      "last_activity_date": 1695450060,
+      "creation_date": 1246966813,
+      "last_edit_date": 1592644375,
+      "question_id": 1091853,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1091853/error-message-unable-to-load-one-or-more-of-the-requested-types-retrieve-the-l",
+      "title": "Error message &#39;Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.&#39;"
+    },
+    {
+      "tags": [
+        "php",
+        "string"
+      ],
+      "owner": {
+        "account_id": 49568,
+        "reputation": 122092,
+        "user_id": 147601,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://i.sstatic.net/3bnPx.jpg?s=256",
+        "display_name": "Nick Heiner",
+        "link": "https://stackoverflow.com/users/147601/nick-heiner"
+      },
+      "is_answered": true,
+      "view_count": 342872,
+      "accepted_answer_id": 1252705,
+      "answer_count": 22,
+      "score": 422,
+      "last_activity_date": 1658304550,
+      "creation_date": 1249864794,
+      "last_edit_date": 1399477919,
+      "question_id": 1252693,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1252693/using-str-replace-so-that-it-only-acts-on-the-first-match",
+      "title": "Using str_replace so that it only acts on the first match?"
+    },
+    {
+      "tags": [
+        "c#",
+        "wpf",
+        "xaml",
+        "textbox",
+        "numericupdown"
+      ],
+      "owner": {
+        "account_id": 41574,
+        "reputation": 21196,
+        "user_id": 120888,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/1bc4ef3a499a15e9d6b5a27b02ddeb46?s=256&d=identicon&r=PG",
+        "display_name": "Giffyguy",
+        "link": "https://stackoverflow.com/users/120888/giffyguy"
+      },
+      "is_answered": true,
+      "view_count": 625421,
+      "protected_date": 1398394131,
+      "accepted_answer_id": 1268648,
+      "answer_count": 33,
+      "score": 422,
+      "last_activity_date": 1679424616,
+      "creation_date": 1250109099,
+      "last_edit_date": 1529312287,
+      "question_id": 1268552,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1268552/how-do-i-get-a-textbox-to-only-accept-numeric-input-in-wpf",
+      "title": "How do I get a TextBox to only accept numeric input in WPF?"
+    },
+    {
+      "tags": [
+        "sql",
+        "oracle",
+        "sql-drop"
+      ],
+      "owner": {
+        "account_id": 3253,
+        "reputation": 165778,
+        "user_id": 4668,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/e5abe1d27b286199c319b0cbe75596c3?s=256&d=identicon&r=PG",
+        "display_name": "Alana Storm",
+        "link": "https://stackoverflow.com/users/4668/alana-storm"
+      },
+      "is_answered": true,
+      "view_count": 689439,
+      "accepted_answer_id": 1801453,
+      "answer_count": 16,
+      "score": 422,
+      "last_activity_date": 1681341930,
+      "creation_date": 1259174770,
+      "last_edit_date": 1386939599,
+      "question_id": 1799128,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1799128/oracle-if-table-exists",
+      "title": "Oracle: If Table Exists"
+    },
+    {
+      "tags": [
+        "scala",
+        "traits",
+        "self-type"
+      ],
+      "owner": {
+        "account_id": 32128,
+        "reputation": 7659,
+        "user_id": 88804,
+        "user_type": "registered",
+        "accept_rate": 52,
+        "profile_image": "https://www.gravatar.com/avatar/5df6b8580e1ba7e98f1ffe1bd84d3bad?s=256&d=identicon&r=PG",
+        "display_name": "Dave",
+        "link": "https://stackoverflow.com/users/88804/dave"
+      },
+      "is_answered": true,
+      "view_count": 74803,
+      "protected_date": 1438792147,
+      "accepted_answer_id": 1991786,
+      "answer_count": 11,
+      "score": 422,
+      "last_activity_date": 1671832331,
+      "creation_date": 1262419673,
+      "last_edit_date": 1419375723,
+      "question_id": 1990948,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1990948/what-is-the-difference-between-self-types-and-trait-subclasses",
+      "title": "What is the difference between self-types and trait subclasses?"
+    },
+    {
+      "tags": [
+        "java",
+        "naming-conventions"
+      ],
+      "owner": {
+        "account_id": 55445,
+        "reputation": 79215,
+        "user_id": 166067,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/f438fd966ad34c1efff6e49010f51e49?s=256&d=identicon&r=PG",
+        "display_name": "Amir Rachum",
+        "link": "https://stackoverflow.com/users/166067/amir-rachum"
+      },
+      "is_answered": true,
+      "view_count": 326375,
+      "protected_date": 1363017828,
+      "closed_date": 1449815395,
+      "accepted_answer_id": 2814831,
+      "answer_count": 9,
+      "score": 422,
+      "last_activity_date": 1684521412,
+      "creation_date": 1273615973,
+      "last_edit_date": 1457727198,
+      "question_id": 2814805,
+      "link": "https://stackoverflow.com/questions/2814805/java-interfaces-implementation-naming-convention",
+      "closed_reason": "Duplicate",
+      "title": "Java Interfaces/Implementation naming convention"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "owner": {
+        "account_id": 169262,
+        "reputation": 15414,
+        "user_id": 395239,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/9238693c9b69a6f30230ded87fa5af65?s=256&d=identicon&r=PG",
+        "display_name": "Mermoz",
+        "link": "https://stackoverflow.com/users/395239/mermoz"
+      },
+      "is_answered": true,
+      "view_count": 344365,
+      "protected_date": 1553133219,
+      "accepted_answer_id": 3280732,
+      "answer_count": 7,
+      "score": 422,
+      "last_activity_date": 1694538515,
+      "creation_date": 1279529061,
+      "last_edit_date": 1532356279,
+      "question_id": 3279560,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3279560/reverse-colormap-in-matplotlib",
+      "title": "Reverse colormap in matplotlib"
+    },
+    {
+      "tags": [
+        "android",
+        "parcelable",
+        "serializable"
+      ],
+      "owner": {
+        "account_id": 101454,
+        "reputation": 6017,
+        "user_id": 272934,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/c7bc576df35e77141e8dd6a3a9bbf5b5?s=256&d=identicon&r=PG",
+        "display_name": "live2dream95",
+        "link": "https://stackoverflow.com/users/272934/live2dream95"
+      },
+      "is_answered": true,
+      "view_count": 266984,
+      "answer_count": 16,
+      "score": 422,
+      "last_activity_date": 1708072792,
+      "creation_date": 1279927595,
+      "last_edit_date": 1523537604,
+      "question_id": 3323074,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/3323074/android-difference-between-parcelable-and-serializable",
+      "title": "Android: Difference between Parcelable and Serializable?"
+    },
+    {
+      "tags": [
+        "database",
+        "database-design",
+        "database-normalization"
+      ],
+      "owner": {
+        "account_id": 141090,
+        "reputation": 18505,
+        "user_id": 347857,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://i.sstatic.net/BGA1x.jpg?s=256",
+        "display_name": "Mad Scientist",
+        "link": "https://stackoverflow.com/users/347857/mad-scientist"
+      },
+      "is_answered": true,
+      "view_count": 105765,
+      "protected_date": 1364654240,
+      "accepted_answer_id": 3653574,
+      "answer_count": 10,
+      "score": 422,
+      "last_activity_date": 1655142687,
+      "creation_date": 1283796685,
+      "last_edit_date": 1490180577,
+      "question_id": 3653462,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/3653462/is-storing-a-delimited-list-in-a-database-column-really-that-bad",
+      "title": "Is storing a delimited list in a database column really that bad?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "owner": {
+        "account_id": 67321,
+        "reputation": 63149,
+        "user_id": 197036,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/9ceba53b9e84cd835c0f2bd2790d5adb?s=256&d=identicon&r=PG",
+        "display_name": "Bin Chen",
+        "link": "https://stackoverflow.com/users/197036/bin-chen"
+      },
+      "is_answered": true,
+      "view_count": 1852799,
+      "protected_date": 1544862117,
+      "accepted_answer_id": 4825325,
+      "answer_count": 18,
+      "score": 422,
+      "last_activity_date": 1668520843,
+      "creation_date": 1296193994,
+      "last_edit_date": 1617961558,
+      "question_id": 4825295,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4825295/onclick-to-get-the-id-of-the-clicked-button",
+      "title": "onClick to get the ID of the clicked button"
+    },
+    {
+      "tags": [
+        "android-emulator",
+        "localhost",
+        "httpconnection",
+        "androidhttpclient"
+      ],
+      "owner": {
+        "account_id": 315087,
+        "reputation": 33946,
+        "user_id": 630668,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://i.sstatic.net/VDpgV.jpg?s=256",
+        "display_name": "Dharmendra",
+        "link": "https://stackoverflow.com/users/630668/dharmendra"
+      },
+      "is_answered": true,
+      "view_count": 333191,
+      "closed_date": 1590692434,
+      "accepted_answer_id": 55606008,
+      "answer_count": 7,
+      "score": 422,
+      "last_activity_date": 1636996349,
+      "creation_date": 1301824578,
+      "last_edit_date": 1523921800,
+      "question_id": 5528850,
+      "link": "https://stackoverflow.com/questions/5528850/how-do-you-connect-localhost-in-the-android-emulator",
+      "closed_reason": "Duplicate",
+      "title": "How do you connect localhost in the Android emulator?"
+    },
+    {
+      "tags": [
+        "ffmpeg",
+        "batch-processing",
+        "os-agnostic"
+      ],
+      "owner": {
+        "account_id": 165984,
+        "reputation": 11425,
+        "user_id": 389823,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/da3cd0614695716a84fccc087fbaedaf?s=256&d=identicon&r=PG",
+        "display_name": "Eugene",
+        "link": "https://stackoverflow.com/users/389823/eugene"
+      },
+      "is_answered": true,
+      "view_count": 568061,
+      "protected_date": 1609323002,
+      "accepted_answer_id": 8200370,
+      "answer_count": 40,
+      "score": 422,
+      "last_activity_date": 1725100503,
+      "creation_date": 1303777156,
+      "last_edit_date": 1599558506,
+      "question_id": 5784661,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5784661/how-do-you-convert-an-entire-directory-with-ffmpeg",
+      "title": "How do you convert an entire directory with ffmpeg?"
+    },
+    {
+      "tags": [
+        "ruby",
+        "rubygems"
+      ],
+      "owner": {
+        "account_id": 166487,
+        "reputation": 11000,
+        "user_id": 390640,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/f8872344c2dd0944357b0280d622643c?s=256&d=identicon&r=PG",
+        "display_name": "Philippe Blayo",
+        "link": "https://stackoverflow.com/users/390640/philippe-blayo"
+      },
+      "is_answered": true,
+      "view_count": 384136,
+      "accepted_answer_id": 5902518,
+      "answer_count": 7,
+      "score": 422,
+      "last_activity_date": 1605489915,
+      "creation_date": 1304620235,
+      "last_edit_date": 1440938697,
+      "question_id": 5902488,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5902488/uninstall-old-versions-of-ruby-gems",
+      "title": "Uninstall old versions of Ruby gems"
+    },
+    {
+      "tags": [
+        "sql"
+      ],
+      "owner": {
+        "account_id": 740100,
+        "reputation": 4345,
+        "user_id": 715605,
+        "user_type": "unregistered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/3f80e8a6bf028bc88b7894b8bef95dad?s=256&d=identicon&r=PG",
+        "display_name": "jonney",
+        "link": "https://stackoverflow.com/users/715605/jonney"
+      },
+      "is_answered": true,
+      "view_count": 510284,
+      "protected_date": 1492903415,
+      "accepted_answer_id": 6308620,
+      "answer_count": 4,
+      "score": 422,
+      "last_activity_date": 1636660646,
+      "creation_date": 1307719850,
+      "last_edit_date": 1481327711,
+      "question_id": 6308594,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/6308594/how-can-i-copy-data-from-one-column-to-another-in-the-same-table",
+      "title": "How can I copy data from one column to another in the same table?"
+    },
+    {
+      "tags": [
+        "python",
+        "arrays",
+        "variables",
+        "scalar"
+      ],
+      "owner": {
+        "account_id": 2093664,
+        "reputation": 10714,
+        "user_id": 1862909,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/bc79b96670c78c67ba4e812aa5898c5a?s=256&d=identicon&r=PG",
+        "display_name": "otmezger",
+        "link": "https://stackoverflow.com/users/1862909/otmezger"
+      },
+      "is_answered": true,
+      "view_count": 614227,
+      "accepted_answer_id": 16807050,
+      "answer_count": 16,
+      "score": 422,
+      "last_activity_date": 1717054230,
+      "creation_date": 1369809222,
+      "question_id": 16807011,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/16807011/python-how-to-identify-if-a-variable-is-an-array-or-a-scalar",
+      "title": "python: how to identify if a variable is an array or a scalar"
+    },
+    {
+      "tags": [
+        "algorithm",
+        "language-agnostic",
+        "time-series",
+        "signal-processing",
+        "data-analysis"
+      ],
+      "owner": {
+        "account_id": 2638004,
+        "reputation": 21010,
+        "user_id": 2431885,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://i.sstatic.net/1LBbl.png?s=256",
+        "display_name": "Jean-Paul",
+        "link": "https://stackoverflow.com/users/2431885/jean-paul"
+      },
+      "is_answered": true,
+      "view_count": 367715,
+      "protected_date": 1511440093,
+      "accepted_answer_id": 22640362,
+      "answer_count": 41,
+      "score": 422,
+      "last_activity_date": 1723060953,
+      "creation_date": 1395521316,
+      "last_edit_date": 1710780880,
+      "question_id": 22583391,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/22583391/peak-signal-detection-in-realtime-timeseries-data",
+      "title": "Peak signal detection in realtime timeseries data"
+    },
+    {
+      "tags": [
+        "c#",
+        "asp.net-core",
+        "asp.net-core-mvc"
+      ],
+      "owner": {
+        "account_id": 1742272,
+        "reputation": 25741,
+        "user_id": 1593334,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/b3be48dea34b822b180404163b8d554a?s=256&d=identicon&r=PG",
+        "display_name": "eadam",
+        "link": "https://stackoverflow.com/users/1593334/eadam"
+      },
+      "is_answered": true,
+      "view_count": 408164,
+      "accepted_answer_id": 35373150,
+      "answer_count": 26,
+      "score": 422,
+      "last_activity_date": 1721120656,
+      "creation_date": 1424647750,
+      "last_edit_date": 1650162705,
+      "question_id": 28664686,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/28664686/how-do-i-get-client-ip-address-in-asp-net-core",
+      "title": "How do I get client IP address in ASP.NET Core?"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib",
+        "ipython",
+        "jupyter-notebook"
+      ],
+      "owner": {
+        "account_id": 4741979,
+        "reputation": 30876,
+        "user_id": 3834415,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.sstatic.net/jKHGm.jpg?s=256",
+        "display_name": "Chris",
+        "link": "https://stackoverflow.com/users/3834415/chris"
+      },
+      "is_answered": true,
+      "view_count": 530148,
+      "closed_date": 1635561079,
+      "accepted_answer_id": 36368116,
+      "answer_count": 10,
+      "score": 422,
+      "last_activity_date": 1680376826,
+      "creation_date": 1459558297,
+      "last_edit_date": 1459614681,
+      "question_id": 36367986,
+      "link": "https://stackoverflow.com/questions/36367986/how-to-make-inline-plots-in-jupyter-notebook-larger",
+      "closed_reason": "Duplicate",
+      "title": "How to make inline plots in Jupyter Notebook larger?"
+    },
+    {
+      "tags": [
+        "node.js",
+        "npm"
+      ],
+      "owner": {
+        "account_id": 3188638,
+        "reputation": 14894,
+        "user_id": 2693545,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.sstatic.net/jxhDd.jpg?s=256",
+        "display_name": "refactor",
+        "link": "https://stackoverflow.com/users/2693545/refactor"
+      },
+      "is_answered": true,
+      "view_count": 358102,
+      "accepted_answer_id": 41416032,
+      "answer_count": 5,
+      "score": 422,
+      "last_activity_date": 1678988435,
+      "creation_date": 1483278506,
+      "last_edit_date": 1512405849,
+      "question_id": 41415945,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/41415945/how-to-list-all-versions-of-an-npm-module",
+      "title": "How to list all versions of an npm module?"
+    },
+    {
+      "tags": [
+        "flutter",
+        "listview",
+        "dart",
+        "flutter-layout",
+        "flutter-widget"
+      ],
+      "owner": {
+        "account_id": 5171292,
+        "reputation": 9019,
+        "user_id": 4139698,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://i.sstatic.net/BHdOL.jpg?s=256",
+        "display_name": "Charles Jr",
+        "link": "https://stackoverflow.com/users/4139698/charles-jr"
+      },
+      "is_answered": true,
+      "view_count": 296669,
+      "accepted_answer_id": 45670718,
+      "answer_count": 20,
+      "score": 422,
+      "last_activity_date": 1707643029,
+      "creation_date": 1502694768,
+      "last_edit_date": 1603543228,
+      "question_id": 45669202,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/45669202/how-to-add-a-listview-to-a-column-in-flutter",
+      "title": "How to add a ListView to a Column in Flutter?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "t-sql"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "dbg"
+      },
+      "is_answered": true,
+      "view_count": 906587,
+      "protected_date": 1657477452,
+      "answer_count": 24,
+      "score": 421,
+      "last_activity_date": 1657321020,
+      "creation_date": 1227658934,
+      "last_edit_date": 1636383710,
+      "question_id": 319354,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/319354/what-is-the-equivalent-of-describe-table-in-sql-server",
+      "title": "What is the equivalent of &#39;describe table&#39; in SQL Server?"
+    },
+    {
+      "tags": [
+        "java",
+        "timer",
+        "time-precision"
+      ],
+      "owner": {
+        "account_id": 1910,
+        "reputation": 92578,
+        "user_id": 2635,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/503dc458e66746c5ac681e7057d209dd?s=256&d=identicon&r=PG",
+        "display_name": "mmcdole",
+        "link": "https://stackoverflow.com/users/2635/mmcdole"
+      },
+      "is_answered": true,
+      "view_count": 456854,
+      "protected_date": 1388771434,
+      "accepted_answer_id": 351571,
+      "answer_count": 10,
+      "score": 421,
+      "last_activity_date": 1622990148,
+      "creation_date": 1228787927,
+      "last_edit_date": 1228789899,
+      "question_id": 351565,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/351565/system-currenttimemillis-vs-system-nanotime",
+      "title": "System.currentTimeMillis vs System.nanoTime"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading",
+        "concurrency",
+        "locking",
+        "synchronized"
+      ],
+      "owner": {
+        "account_id": 18028,
+        "reputation": 39334,
+        "user_id": 40933,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/a088b1abe4432e21f41875645347d705?s=256&d=identicon&r=PG",
+        "display_name": "Warrior",
+        "link": "https://stackoverflow.com/users/40933/warrior"
+      },
+      "is_answered": true,
+      "view_count": 297516,
+      "accepted_answer_id": 574267,
+      "answer_count": 23,
+      "score": 421,
+      "last_activity_date": 1549291933,
+      "creation_date": 1235272428,
+      "last_edit_date": 1531052663,
+      "question_id": 574240,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/574240/is-there-an-advantage-to-use-a-synchronized-method-instead-of-a-synchronized-blo",
+      "title": "Is there an advantage to use a Synchronized Method instead of a Synchronized Block?"
+    },
+    {
+      "tags": [
+        "ios",
+        "uitableview"
+      ],
+      "owner": {
+        "account_id": 28862,
+        "reputation": 53392,
+        "user_id": 77449,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://i.sstatic.net/gYqZa.jpg?s=256",
+        "display_name": "Ilya Suzdalnitski",
+        "link": "https://stackoverflow.com/users/77449/ilya-suzdalnitski"
+      },
+      "is_answered": true,
+      "view_count": 284043,
+      "protected_date": 1487663413,
+      "accepted_answer_id": 724966,
+      "answer_count": 38,
+      "score": 421,
+      "last_activity_date": 1725869630,
+      "creation_date": 1239098094,
+      "last_edit_date": 1564811011,
+      "question_id": 724892,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/724892/uitableview-scroll-to-the-top",
+      "title": "UITableView - scroll to the top"
+    },
+    {
+      "tags": [
+        "sql-server",
+        "t-sql",
+        "sql-server-2000"
+      ],
+      "owner": {
+        "account_id": 15651,
+        "reputation": 33011,
+        "user_id": 33264,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/4ffb7620821b43c340d40187ca5820ff?s=256&d=identicon&r=PG",
+        "display_name": "MatthewMartin",
+        "link": "https://stackoverflow.com/users/33264/matthewmartin"
+      },
+      "is_answered": true,
+      "view_count": 545314,
+      "accepted_answer_id": 1045162,
+      "answer_count": 21,
+      "score": 421,
+      "last_activity_date": 1630503062,
+      "creation_date": 1245950255,
+      "last_edit_date": 1630503062,
+      "question_id": 1045138,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1045138/how-do-i-generate-a-random-number-for-each-row-in-a-t-sql-select",
+      "title": "How do I generate a random number for each row in a T-SQL select?"
+    },
+    {
+      "tags": [
+        "sql",
+        "database",
+        "geocoding",
+        "latitude-longitude"
+      ],
+      "owner": {
+        "account_id": 10179,
+        "reputation": 41672,
+        "user_id": 19112,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/4243503f2598c02055b6abb7ff22e1e2?s=256&d=identicon&r=PG",
+        "display_name": "dthrasher",
+        "link": "https://stackoverflow.com/users/19112/dthrasher"
+      },
+      "is_answered": true,
+      "view_count": 352100,
+      "closed_date": 1434442319,
+      "accepted_answer_id": 1196429,
+      "answer_count": 7,
+      "score": 421,
+      "last_activity_date": 1702415486,
+      "creation_date": 1248811499,
+      "last_edit_date": 1378899975,
+      "question_id": 1196415,
+      "link": "https://stackoverflow.com/questions/1196415/what-datatype-to-use-when-storing-latitude-and-longitude-data-in-sql-databases",
+      "closed_reason": "Duplicate",
+      "title": "What datatype to use when storing latitude and longitude data in SQL databases?"
+    },
+    {
+      "tags": [
+        "vim"
+      ],
+      "owner": {
+        "account_id": 16939,
+        "reputation": 6103,
+        "user_id": 37422,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/327d9c50cc9d621ebe6b5dbec3f484d1?s=256&d=identicon&r=PG",
+        "display_name": "Evan",
+        "link": "https://stackoverflow.com/users/37422/evan"
+      },
+      "is_answered": true,
+      "view_count": 457929,
+      "protected_date": 1582829298,
+      "accepted_answer_id": 1236638,
+      "answer_count": 25,
+      "score": 421,
+      "last_activity_date": 1681465385,
+      "creation_date": 1249522591,
+      "last_edit_date": 1483187437,
+      "question_id": 1236563,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1236563/how-do-i-run-a-terminal-inside-of-vim",
+      "title": "How do I run a terminal inside of Vim?"
+    },
+    {
+      "tags": [
+        "python",
+        "file-io",
+        "file-rename"
+      ],
+      "owner": {
+        "account_id": 609353,
+        "reputation": 4221,
+        "user_id": 331529,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/638635eba5d39b1d1f752b5f98cd3be3?s=256&d=identicon&r=PG",
+        "display_name": "Jeff",
+        "link": "https://stackoverflow.com/users/331529/jeff"
+      },
+      "is_answered": true,
+      "view_count": 648767,
+      "protected_date": 1495751793,
+      "accepted_answer_id": 2759130,
+      "answer_count": 15,
+      "score": 421,
+      "last_activity_date": 1656446052,
+      "creation_date": 1272899858,
+      "last_edit_date": 1501166017,
+      "question_id": 2759067,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2759067/rename-multiple-files-in-a-directory-in-python",
+      "title": "Rename multiple files in a directory in Python"
+    },
+    {
+      "tags": [
+        "javascript",
+        "date",
+        "utc",
+        "epoch"
+      ],
+      "owner": {
+        "account_id": 71378,
+        "reputation": 8942,
+        "user_id": 206506,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/9f8d1dbc84b21c762bdc90f6fe551572?s=256&d=identicon&r=PG",
+        "display_name": "Shane Reustle",
+        "link": "https://stackoverflow.com/users/206506/shane-reustle"
+      },
+      "is_answered": true,
+      "view_count": 699004,
+      "accepted_answer_id": 8016205,
+      "answer_count": 18,
+      "score": 421,
+      "last_activity_date": 1699019780,
+      "creation_date": 1294451961,
+      "last_edit_date": 1508840591,
+      "question_id": 4631928,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/4631928/convert-utc-epoch-to-local-date",
+      "title": "Convert UTC Epoch to local date"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "ellipsis"
+      ],
+      "owner": {
+        "account_id": 91840,
+        "reputation": 65146,
+        "user_id": 251986,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/3402f989e2b6e2a90d973660fe503a29?s=256&d=identicon&r=PG",
+        "display_name": "Reigel Gallarde",
+        "link": "https://stackoverflow.com/users/251986/reigel-gallarde"
+      },
+      "is_answered": true,
+      "view_count": 516815,
+      "accepted_answer_id": 7680712,
+      "answer_count": 22,
+      "score": 421,
+      "last_activity_date": 1728365292,
+      "creation_date": 1299825055,
+      "last_edit_date": 1728365292,
+      "question_id": 5269713,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5269713/css-ellipsis-on-second-line",
+      "title": "CSS ellipsis on second line"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "ssl",
+        "https",
+        "webserver"
+      ],
+      "owner": {
+        "account_id": 67254,
+        "reputation": 50135,
+        "user_id": 196874,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/3cc333b173e35a82fd27b52e71c50496?s=256&d=identicon&r=PG",
+        "display_name": "murvinlai",
+        "link": "https://stackoverflow.com/users/196874/murvinlai"
+      },
+      "is_answered": true,
+      "view_count": 571430,
+      "protected_date": 1599167886,
+      "accepted_answer_id": 5998795,
+      "answer_count": 9,
+      "score": 421,
+      "last_activity_date": 1713172672,
+      "creation_date": 1305328748,
+      "last_edit_date": 1525172224,
+      "question_id": 5998694,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5998694/how-to-create-an-https-server-in-node-js",
+      "title": "How to create an HTTPS server in Node.js?"
+    },
+    {
+      "tags": [
+        "postgresql"
+      ],
+      "owner": {
+        "account_id": 164934,
+        "reputation": 9435,
+        "user_id": 388025,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/1b1ab6a1264e9b84d3c519e428be3e7a?s=256&d=identicon&r=PG",
+        "display_name": "iman453",
+        "link": "https://stackoverflow.com/users/388025/iman453"
+      },
+      "is_answered": true,
+      "view_count": 570926,
+      "closed_date": 1358668334,
+      "accepted_answer_id": 7073852,
+      "answer_count": 4,
+      "score": 421,
+      "last_activity_date": 1681553590,
+      "creation_date": 1313470778,
+      "last_edit_date": 1681553590,
+      "question_id": 7073773,
+      "link": "https://stackoverflow.com/questions/7073773/how-to-drop-postgresql-database-through-command-line",
+      "closed_reason": "off topic",
+      "title": "How to drop PostgreSQL database through command line"
+    },
+    {
+      "tags": [
+        "jquery",
+        "text",
+        "find"
+      ],
+      "owner": {
+        "account_id": 236847,
+        "reputation": 9882,
+        "user_id": 504612,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/547d34a3d35a2de241fe186198d3b898?s=256&d=identicon&r=PG",
+        "display_name": "sisko",
+        "link": "https://stackoverflow.com/users/504612/sisko"
+      },
+      "is_answered": true,
+      "view_count": 505620,
+      "accepted_answer_id": 7321960,
+      "answer_count": 8,
+      "score": 421,
+      "last_activity_date": 1648674459,
+      "creation_date": 1315320867,
+      "last_edit_date": 1648674459,
+      "question_id": 7321896,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/7321896/how-can-i-find-elements-by-text-content-with-jquery",
+      "title": "How can I find elements by text content with jQuery?"
+    },
+    {
+      "tags": [
+        "python",
+        "sqlalchemy",
+        "in-clause"
+      ],
+      "owner": {
+        "account_id": 544369,
+        "reputation": 8094,
+        "user_id": 913797,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/8b806b60ea7ee11dc85a36b01710f59b?s=256&d=identicon&r=PG",
+        "display_name": "wonzbak",
+        "link": "https://stackoverflow.com/users/913797/wonzbak"
+      },
+      "is_answered": true,
+      "view_count": 419629,
+      "accepted_answer_id": 8603129,
+      "answer_count": 9,
+      "score": 421,
+      "last_activity_date": 1728384273,
+      "creation_date": 1324552619,
+      "last_edit_date": 1612273795,
+      "question_id": 8603088,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/8603088/sqlalchemy-in-clause",
+      "title": "SQLAlchemy IN clause"
+    },
+    {
+      "tags": [
+        "android",
+        "android-5.0-lollipop",
+        "android-permissions",
+        "android-storage"
+      ],
+      "owner": {
+        "account_id": 1101743,
+        "reputation": 6542,
+        "user_id": 1094001,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.sstatic.net/OlYQ0.jpg?s=256",
+        "display_name": "Mert",
+        "link": "https://stackoverflow.com/users/1094001/mert"
+      },
+      "is_answered": true,
+      "view_count": 649689,
+      "protected_date": 1401204537,
+      "accepted_answer_id": 9907574,
+      "answer_count": 38,
+      "score": 421,
+      "last_activity_date": 1703584292,
+      "creation_date": 1326474232,
+      "last_edit_date": 1555558466,
+      "question_id": 8854359,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/8854359/exception-open-failed-eacces-permission-denied-on-android",
+      "title": "Exception &#39;open failed: EACCES (Permission denied)&#39; on Android"
+    },
+    {
+      "tags": [
+        "windows",
+        "powershell"
+      ],
+      "owner": {
+        "account_id": 85004,
+        "reputation": 10289,
+        "user_id": 237285,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/9c6f5c78dece456732470626d552b16c?s=256&d=identicon&r=PG",
+        "display_name": "Andres Riofrio",
+        "link": "https://stackoverflow.com/users/237285/andres-riofrio"
+      },
+      "is_answered": true,
+      "view_count": 282614,
+      "accepted_answer_id": 9949909,
+      "answer_count": 13,
+      "score": 421,
+      "last_activity_date": 1713018518,
+      "creation_date": 1333132053,
+      "last_edit_date": 1333134390,
+      "question_id": 9948517,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/9948517/how-to-stop-a-powershell-script-on-the-first-error",
+      "title": "How to stop a PowerShell script on the first error?"
+    },
+    {
+      "tags": [
+        "git",
+        "git-reset"
+      ],
+      "owner": {
+        "account_id": 113402,
+        "reputation": 12152,
+        "user_id": 298664,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/f74250d692283f80eaa0c8053f0b2ccd?s=256&d=identicon&r=PG",
+        "display_name": "Norswap",
+        "link": "https://stackoverflow.com/users/298664/norswap"
+      },
+      "is_answered": true,
+      "view_count": 306484,
+      "accepted_answer_id": 11383501,
+      "answer_count": 22,
+      "score": 421,
+      "last_activity_date": 1699989330,
+      "creation_date": 1341749955,
+      "last_edit_date": 1580337356,
+      "question_id": 11383094,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11383094/unstaged-changes-left-after-git-reset-hard",
+      "title": "Unstaged changes left after git reset --hard"
+    },
+    {
+      "tags": [
+        "node.js"
+      ],
+      "owner": {
+        "account_id": 7090,
+        "reputation": 55655,
+        "user_id": 12149,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/23e5406a16f4b8552eb037d4332b6c6d?s=256&d=identicon&r=PG",
+        "display_name": "Alex Spurling",
+        "link": "https://stackoverflow.com/users/12149/alex-spurling"
+      },
+      "is_answered": true,
+      "view_count": 716804,
+      "protected_date": 1534437163,
+      "answer_count": 6,
+      "score": 421,
+      "last_activity_date": 1631804635,
+      "creation_date": 1351631713,
+      "last_edit_date": 1351632646,
+      "question_id": 13147693,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/13147693/how-to-extract-request-http-headers-from-a-request-using-nodejs-connect",
+      "title": "How to extract request http headers from a request using NodeJS connect"
+    },
+    {
+      "tags": [
+        "http",
+        "security",
+        "firefox",
+        "https",
+        "mixed-content"
+      ],
+      "owner": {
+        "account_id": 1723505,
+        "reputation": 18848,
+        "user_id": 1578713,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/d27f907341fcaf7e759fe675bfc4520a?s=256&d=identicon&r=PG",
+        "display_name": "Appulus",
+        "link": "https://stackoverflow.com/users/1578713/appulus"
+      },
+      "is_answered": true,
+      "view_count": 595904,
+      "accepted_answer_id": 18251129,
+      "answer_count": 17,
+      "score": 421,
+      "last_activity_date": 1678483821,
+      "creation_date": 1376563627,
+      "last_edit_date": 1485718747,
+      "question_id": 18251128,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/18251128/why-am-i-suddenly-getting-a-blocked-loading-mixed-active-content-issue-in-fire",
+      "title": "Why am I suddenly getting a &quot;Blocked loading mixed active content&quot; issue in Firefox?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "account_id": 2893735,
+        "reputation": 6108,
+        "user_id": 2481955,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/bd14da10ba1d335f44beaa29dc8b3577?s=256&d=identicon&r=PG",
+        "display_name": "nbar",
+        "link": "https://stackoverflow.com/users/2481955/nbar"
+      },
+      "is_answered": true,
+      "view_count": 807372,
+      "accepted_answer_id": 18867667,
+      "answer_count": 20,
+      "score": 421,
+      "last_activity_date": 1709275671,
+      "creation_date": 1379493865,
+      "last_edit_date": 1521649579,
+      "question_id": 18867599,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/18867599/jquery-inarray-how-to-use-it-right",
+      "title": "jQuery.inArray(), how to use it right?"
+    },
+    {
+      "tags": [
+        "ruby",
+        "rubygems"
+      ],
+      "owner": {
+        "account_id": 1669873,
+        "reputation": 15051,
+        "user_id": 1536527,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.sstatic.net/Sgr8O.png?s=256",
+        "display_name": "ironsand",
+        "link": "https://stackoverflow.com/users/1536527/ironsand"
+      },
+      "is_answered": true,
+      "view_count": 359218,
+      "accepted_answer_id": 19072136,
+      "answer_count": 12,
+      "score": 421,
+      "last_activity_date": 1680361833,
+      "creation_date": 1380405285,
+      "last_edit_date": 1558720100,
+      "question_id": 19072070,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/19072070/how-to-find-where-gem-files-are-installed",
+      "title": "How to find where gem files are installed"
+    },
+    {
+      "tags": [
+        "django",
+        "python-2.7",
+        "nginx",
+        "gunicorn"
+      ],
+      "owner": {
+        "account_id": 4324534,
+        "reputation": 8611,
+        "user_id": 3531707,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.sstatic.net/Rhd6s.png?s=256",
+        "display_name": "Mulagala",
+        "link": "https://stackoverflow.com/users/3531707/mulagala"
+      },
+      "is_answered": true,
+      "view_count": 337205,
+      "accepted_answer_id": 24830777,
+      "answer_count": 17,
+      "score": 421,
+      "last_activity_date": 1695138146,
+      "creation_date": 1401431830,
+      "last_edit_date": 1567956250,
+      "question_id": 23948527,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/23948527/13-permission-denied-while-connecting-to-upstreamnginx",
+      "title": "(13: Permission denied) while connecting to upstream:[nginx]"
+    },
+    {
+      "tags": [
+        "jquery",
+        "debugging",
+        "firefox",
+        "backbone.js",
+        "console.log"
+      ],
+      "owner": {
+        "account_id": 2462233,
+        "reputation": 8816,
+        "user_id": 2146138,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://i.sstatic.net/fweN4.png?s=256",
+        "display_name": "Nathan Basanese",
+        "link": "https://stackoverflow.com/users/2146138/nathan-basanese"
+      },
+      "is_answered": true,
+      "view_count": 820094,
+      "protected_date": 1477403136,
+      "answer_count": 22,
+      "score": 421,
+      "last_activity_date": 1632452525,
+      "creation_date": 1404844741,
+      "last_edit_date": 1492226528,
+      "question_id": 24639335,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/24639335/javascript-console-log-causes-error-synchronous-xmlhttprequest-on-the-main-thr",
+      "title": "JavaScript console.log causes error: &quot;Synchronous XMLHttpRequest on the main thread is deprecated...&quot;"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "android-toolbar",
+        "android-theme",
+        "android-styles"
+      ],
+      "owner": {
+        "account_id": 1115925,
+        "reputation": 5057,
+        "user_id": 1105239,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.sstatic.net/ELeiH.jpg?s=256",
+        "display_name": "Mathbl",
+        "link": "https://stackoverflow.com/users/1105239/mathbl"
+      },
+      "is_answered": true,
+      "view_count": 474156,
+      "protected_date": 1579248950,
+      "accepted_answer_id": 26548766,
+      "answer_count": 41,
+      "score": 421,
+      "last_activity_date": 1682440581,
+      "creation_date": 1414083995,
+      "last_edit_date": 1563338763,
+      "question_id": 26533510,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/26533510/android-toolbar-center-title-and-custom-font",
+      "title": "Android toolbar center title and custom font"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "object",
+        "tostring"
+      ],
+      "owner": {
+        "account_id": 218057,
+        "reputation": 69169,
+        "user_id": 474189,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/32b712ec4f7dcc2e8a6907b9903aa8ba?s=256&d=identicon&r=PG",
+        "display_name": "Duncan Jones",
+        "link": "https://stackoverflow.com/users/474189/duncan-jones"
+      },
+      "is_answered": true,
+      "view_count": 606647,
+      "protected_date": 1429542450,
+      "accepted_answer_id": 29140403,
+      "answer_count": 16,
+      "score": 421,
+      "last_activity_date": 1717536768,
+      "creation_date": 1426755558,
+      "last_edit_date": 1510810606,
+      "question_id": 29140402,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/29140402/how-do-i-print-my-java-object-without-getting-sometype2f92e0f4",
+      "title": "How do I print my Java object without getting &quot;SomeType@2f92e0f4&quot;?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "vue.js",
+        "reload",
+        "rerender"
+      ],
+      "owner": {
+        "account_id": 50329,
+        "reputation": 12447,
+        "user_id": 150094,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/9fa2fd43a05ae2e1474f22f81bc802ea?s=256&d=identicon&r=PG",
+        "display_name": "Dave",
+        "link": "https://stackoverflow.com/users/150094/dave"
+      },
+      "is_answered": true,
+      "view_count": 735334,
+      "accepted_answer_id": 40586872,
+      "answer_count": 24,
+      "score": 421,
+      "last_activity_date": 1717819811,
+      "creation_date": 1440020632,
+      "last_edit_date": 1651017906,
+      "question_id": 32106155,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/32106155/can-you-force-vue-js-to-reload-re-render",
+      "title": "Can you force Vue.js to reload/re-render?"
+    },
+    {
+      "tags": [
+        "git"
+      ],
+      "owner": {
+        "account_id": 37819,
+        "reputation": 12756,
+        "user_id": 108238,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/dda5a214457332e974f7053ab77d7069?s=256&d=identicon&r=PG",
+        "display_name": "schoetbi",
+        "link": "https://stackoverflow.com/users/108238/schoetbi"
+      },
+      "is_answered": true,
+      "view_count": 189221,
+      "accepted_answer_id": 32333564,
+      "answer_count": 8,
+      "score": 421,
+      "last_activity_date": 1709909151,
+      "creation_date": 1441115320,
+      "last_edit_date": 1466019181,
+      "question_id": 32333383,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/32333383/git-cherry-pick-to-working-copy-without-commit",
+      "title": "Git: Cherry-Pick to working copy without commit"
+    },
+    {
+      "tags": [
+        "c#",
+        "exception",
+        "asp.net-core"
+      ],
+      "owner": {
+        "account_id": 2353205,
+        "reputation": 44264,
+        "user_id": 2061604,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://i.sstatic.net/rHVf5.jpg?s=256",
+        "display_name": "Andrei",
+        "link": "https://stackoverflow.com/users/2061604/andrei"
+      },
+      "is_answered": true,
+      "view_count": 481434,
+      "protected_date": 1572921642,
+      "accepted_answer_id": 38935583,
+      "answer_count": 13,
+      "score": 421,
+      "last_activity_date": 1724586551,
+      "creation_date": 1469691845,
+      "last_edit_date": 1615314538,
+      "question_id": 38630076,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/38630076/asp-net-core-web-api-exception-handling",
+      "title": "ASP.NET Core Web API exception handling"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-changedetection",
+        "viewchild"
+      ],
+      "owner": {
+        "account_id": 3871840,
+        "reputation": 5713,
+        "user_id": 3206927,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://graph.facebook.com/100004511529018/picture?type=large",
+        "display_name": "sinedsem",
+        "link": "https://stackoverflow.com/users/3206927/sinedsem"
+      },
+      "is_answered": true,
+      "view_count": 210720,
+      "accepted_answer_id": 41095677,
+      "answer_count": 19,
+      "score": 421,
+      "last_activity_date": 1691468496,
+      "creation_date": 1473242932,
+      "last_edit_date": 1599275029,
+      "question_id": 39366981,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/39366981/viewchild-in-ngif",
+      "title": "@ViewChild in *ngIf"
+    },
+    {
+      "tags": [
+        "python",
+        "pdf",
+        "text-extraction",
+        "pdf-scraping"
+      ],
+      "owner": {
+        "account_id": 1090,
+        "reputation": 37065,
+        "user_id": 1448,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/be291a56bc3a4ba6b3b0091c0021957b?s=256&d=identicon&r=PG",
+        "display_name": "cnu",
+        "link": "https://stackoverflow.com/users/1448/cnu"
+      },
+      "is_answered": true,
+      "view_count": 464856,
+      "protected_date": 1563183547,
+      "closed_date": 1427290502,
+      "accepted_answer_id": 25689,
+      "answer_count": 13,
+      "score": 420,
+      "last_activity_date": 1589824583,
+      "creation_date": 1219639446,
+      "last_edit_date": 1589824583,
+      "question_id": 25665,
+      "link": "https://stackoverflow.com/questions/25665/python-module-for-converting-pdf-to-text",
+      "closed_reason": "Not suitable for this site",
+      "title": "Python module for converting PDF to text"
+    },
+    {
+      "tags": [
+        "c#",
+        "regex"
+      ],
+      "owner": {
+        "account_id": 3249,
+        "reputation": 15755,
+        "user_id": 4660,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/bfc52cb788b02f41232ba14e3bc3ed46?s=256&d=identicon&r=PG",
+        "display_name": "Timothy Carter",
+        "link": "https://stackoverflow.com/users/4660/timothy-carter"
+      },
+      "is_answered": true,
+      "view_count": 1302324,
+      "protected_date": 1472719733,
+      "accepted_answer_id": 273144,
+      "answer_count": 20,
+      "score": 420,
+      "last_activity_date": 1687355063,
+      "creation_date": 1226083369,
+      "last_edit_date": 1568572294,
+      "question_id": 273141,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/273141/regex-for-numbers-only",
+      "title": "Regex for numbers only"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse",
+        "keyboard-shortcuts"
+      ],
+      "owner": {
+        "account_id": 10135,
+        "reputation": 14665,
+        "user_id": 18995,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/8b7949efc26b4528e662555b02ae73d4?s=256&d=identicon&r=PG",
+        "display_name": "Paul Croarkin",
+        "link": "https://stackoverflow.com/users/18995/paul-croarkin"
+      },
+      "is_answered": true,
+      "view_count": 114314,
+      "protected_date": 1285161641,
+      "accepted_answer_id": 290756,
+      "answer_count": 9,
+      "score": 420,
+      "last_activity_date": 1552132963,
+      "creation_date": 1226621995,
+      "last_edit_date": 1315467413,
+      "question_id": 288861,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/288861/eclipse-optimize-imports-to-include-static-imports",
+      "title": "Eclipse Optimize Imports to Include Static Imports"
+    },
+    {
+      "tags": [
+        "c#",
+        "switch-statement",
+        "system.type"
+      ],
+      "owner": {
+        "account_id": 68,
+        "reputation": 27778,
+        "user_id": 82,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/c705c1d246a9887cbe656dd870a9537a?s=256&d=identicon&r=PG",
+        "display_name": "xyz",
+        "link": "https://stackoverflow.com/users/82/xyz"
+      },
+      "is_answered": true,
+      "view_count": 176037,
+      "accepted_answer_id": 299120,
+      "answer_count": 32,
+      "score": 420,
+      "last_activity_date": 1687168089,
+      "creation_date": 1227020644,
+      "last_edit_date": 1568657300,
+      "question_id": 298976,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/298976/is-there-a-better-alternative-than-this-to-switch-on-type",
+      "title": "Is there a better alternative than this to &#39;switch on type&#39;?"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "database",
+        "entity-framework"
+      ],
+      "owner": {
+        "account_id": 27436,
+        "reputation": 10500,
+        "user_id": 72453,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.sstatic.net/b22lw.jpg?s=256",
+        "display_name": "Sruly",
+        "link": "https://stackoverflow.com/users/72453/sruly"
+      },
+      "is_answered": true,
+      "view_count": 428254,
+      "accepted_answer_id": 683042,
+      "answer_count": 12,
+      "score": 420,
+      "last_activity_date": 1680167421,
+      "creation_date": 1238008663,
+      "last_edit_date": 1680167421,
+      "question_id": 683037,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/683037/how-to-compare-only-date-without-time-in-datetime-types",
+      "title": "How to compare only Date without Time in DateTime types?"
+    },
+    {
+      "tags": [
+        "python",
+        "exception"
+      ],
+      "owner": {
+        "account_id": 26749,
+        "reputation": 42193,
+        "user_id": 69882,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://i.sstatic.net/CSM3c.jpg?s=256",
+        "display_name": "grigoryvp",
+        "link": "https://stackoverflow.com/users/69882/grigoryvp"
+      },
+      "is_answered": true,
+      "view_count": 347778,
+      "accepted_answer_id": 713814,
+      "answer_count": 7,
+      "score": 420,
+      "last_activity_date": 1722553098,
+      "creation_date": 1238763625,
+      "last_edit_date": 1676455896,
+      "question_id": 713794,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/713794/catching-an-exception-while-using-a-python-with-statement",
+      "title": "Catching an exception while using a Python &#39;with&#39; statement"
+    },
+    {
+      "tags": [
+        "html",
+        "iframe",
+        "hyperlink",
+        "html-target"
+      ],
+      "owner": {
+        "account_id": 27987,
+        "reputation": 125118,
+        "user_id": 74314,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/a617e29c27601cb6770a98e9ab945761?s=256&d=identicon&r=PG",
+        "display_name": "Haim Evgi",
+        "link": "https://stackoverflow.com/users/74314/haim-evgi"
+      },
+      "is_answered": true,
+      "view_count": 559743,
+      "accepted_answer_id": 2656798,
+      "answer_count": 14,
+      "score": 420,
+      "last_activity_date": 1663340337,
+      "creation_date": 1245843791,
+      "last_edit_date": 1463314368,
+      "question_id": 1037839,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1037839/how-to-force-link-from-iframe-to-be-opened-in-the-parent-window",
+      "title": "How to force link from iframe to be opened in the parent window"
+    },
+    {
+      "tags": [
+        "python",
+        "exception",
+        "stack-trace",
+        "traceback"
+      ],
+      "owner": {
+        "account_id": 8372,
+        "reputation": 228341,
+        "user_id": 15055,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/7f71287b47b7189d11fe6d3fbc7ed2fe?s=256&d=identicon&r=PG",
+        "display_name": "Claudiu",
+        "link": "https://stackoverflow.com/users/15055/claudiu"
+      },
+      "is_answered": true,
+      "view_count": 476542,
+      "accepted_answer_id": 1278740,
+      "answer_count": 8,
+      "score": 420,
+      "last_activity_date": 1721988771,
+      "creation_date": 1250265734,
+      "last_edit_date": 1585443756,
+      "question_id": 1278705,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1278705/when-i-catch-an-exception-how-do-i-get-the-type-file-and-line-number",
+      "title": "When I catch an exception, how do I get the type, file, and line number?"
+    },
+    {
+      "tags": [
+        "c#",
+        "linq",
+        "list"
+      ],
+      "owner": {
+        "account_id": 30316,
+        "reputation": 11301,
+        "user_id": 82595,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.sstatic.net/TftPM.jpg?s=256",
+        "display_name": "C&#233;dric Boivin",
+        "link": "https://stackoverflow.com/users/82595/c%c3%a9dric-boivin"
+      },
+      "is_answered": true,
+      "view_count": 185979,
+      "accepted_answer_id": 1590739,
+      "answer_count": 5,
+      "score": 420,
+      "last_activity_date": 1611657079,
+      "creation_date": 1255981702,
+      "last_edit_date": 1611657079,
+      "question_id": 1590723,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1590723/flatten-list-in-linq",
+      "title": "Flatten List in LINQ"
+    },
+    {
+      "tags": [
+        "java",
+        "installation"
+      ],
+      "owner": {
+        "account_id": 20091,
+        "reputation": 62746,
+        "user_id": 47633,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/b072fc2897196b3bafcd337bc9c91e2d?s=256&d=identicon&r=PG",
+        "display_name": "opensas",
+        "link": "https://stackoverflow.com/users/47633/opensas"
+      },
+      "is_answered": true,
+      "view_count": 720855,
+      "protected_date": 1535056484,
+      "closed_date": 1510691042,
+      "accepted_answer_id": 1619715,
+      "answer_count": 30,
+      "score": 420,
+      "last_activity_date": 1585634892,
+      "creation_date": 1256433151,
+      "last_edit_date": 1592644375,
+      "question_id": 1619662,
+      "link": "https://stackoverflow.com/questions/1619662/how-can-i-get-the-latest-jre-jdk-as-a-zip-file-rather-than-exe-or-msi-installe",
+      "closed_reason": "Not suitable for this site",
+      "title": "How can I get the latest JRE / JDK as a zip file rather than EXE or MSI installer?"
+    },
+    {
+      "tags": [
+        "c#",
+        "string",
+        "equals"
+      ],
+      "owner": {
+        "account_id": 566723,
+        "reputation": 4703,
+        "user_id": 193909,
+        "user_type": "unregistered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/be21766f09e0e5fd3a2f8cc721ceba2e?s=256&d=identicon&r=PG",
+        "display_name": "JamesBrownIsDead",
+        "link": "https://stackoverflow.com/users/193909/jamesbrownisdead"
+      },
+      "is_answered": true,
+      "view_count": 403332,
+      "closed_date": 1387372697,
+      "answer_count": 8,
+      "score": 420,
+      "last_activity_date": 1657207818,
+      "creation_date": 1257126925,
+      "last_edit_date": 1413827980,
+      "question_id": 1659097,
+      "link": "https://stackoverflow.com/questions/1659097/why-would-you-use-string-equals-over",
+      "closed_reason": "Duplicate",
+      "title": "Why would you use String.Equals over ==?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays"
+      ],
+      "owner": {
+        "account_id": 68024,
+        "reputation": 63358,
+        "user_id": 198729,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/3b104e63986f3650917b545a243a04a4?s=256&d=identicon&r=PG",
+        "display_name": "user198729",
+        "link": "https://stackoverflow.com/users/198729/user198729"
+      },
+      "is_answered": true,
+      "view_count": 452349,
+      "protected_date": 1560893616,
+      "accepted_answer_id": 2003825,
+      "answer_count": 13,
+      "score": 420,
+      "last_activity_date": 1725967031,
+      "creation_date": 1262658869,
+      "last_edit_date": 1584528977,
+      "question_id": 2003815,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2003815/how-to-remove-element-from-an-array-in-javascript",
+      "title": "How to remove element from an array in JavaScript?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "underline"
+      ],
+      "owner": {
+        "account_id": 69579,
+        "reputation": 25164,
+        "user_id": 202335,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/b9f73d3ee864c6495452f0eddb80fb19?s=256&d=identicon&r=PG",
+        "display_name": "Steven",
+        "link": "https://stackoverflow.com/users/202335/steven"
+      },
+      "is_answered": true,
+      "view_count": 712988,
+      "accepted_answer_id": 2041404,
+      "answer_count": 15,
+      "score": 420,
+      "last_activity_date": 1629458082,
+      "creation_date": 1263208146,
+      "last_edit_date": 1480498319,
+      "question_id": 2041388,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2041388/how-to-remove-the-underline-for-anchorslinks",
+      "title": "How to remove the underline for anchors(links)?"
+    },
+    {
+      "tags": [
+        "c",
+        "pointers"
+      ],
+      "owner": {
+        "account_id": 75927,
+        "reputation": 32625,
+        "user_id": 217649,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/6a70e0db4589df727ee35666fd5e6290?s=256&d=identicon&r=PG",
+        "display_name": "Pieter",
+        "link": "https://stackoverflow.com/users/217649/pieter"
+      },
+      "is_answered": true,
+      "view_count": 337339,
+      "protected_date": 1474141949,
+      "accepted_answer_id": 2094715,
+      "answer_count": 10,
+      "score": 420,
+      "last_activity_date": 1687196371,
+      "creation_date": 1263915666,
+      "last_edit_date": 1333842133,
+      "question_id": 2094666,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2094666/pointers-in-c-when-to-use-the-ampersand-and-the-asterisk",
+      "title": "Pointers in C: when to use the ampersand and the asterisk?"
+    },
+    {
+      "tags": [
+        "android",
+        "email"
+      ],
+      "owner": {
+        "account_id": 45817,
+        "reputation": 24565,
+        "user_id": 135199,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://i.sstatic.net/R0j4V.jpg?s=256",
+        "display_name": "Brandon O&#39;Rourke",
+        "link": "https://stackoverflow.com/users/135199/brandon-orourke"
+      },
+      "is_answered": true,
+      "view_count": 276796,
+      "accepted_answer_id": 2175688,
+      "answer_count": 13,
+      "score": 420,
+      "last_activity_date": 1616579774,
+      "creation_date": 1264108480,
+      "last_edit_date": 1450803241,
+      "question_id": 2112965,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2112965/how-to-get-the-android-devices-primary-e-mail-address",
+      "title": "How to get the Android device&#39;s primary e-mail address"
+    },
+    {
+      "tags": [
+        "javascript",
+        "string",
+        "list"
+      ],
+      "owner": {
+        "account_id": 23089,
+        "reputation": 49974,
+        "user_id": 57611,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.sstatic.net/fbIWO.jpg?s=256",
+        "display_name": "ErikE",
+        "link": "https://stackoverflow.com/users/57611/erike"
+      },
+      "is_answered": true,
+      "view_count": 610549,
+      "accepted_answer_id": 2555311,
+      "answer_count": 15,
+      "score": 420,
+      "last_activity_date": 1719237988,
+      "creation_date": 1268358825,
+      "last_edit_date": 1529955133,
+      "question_id": 2430000,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2430000/determine-if-string-is-in-list-in-javascript",
+      "title": "Determine if string is in list in JavaScript"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "string-comparison"
+      ],
+      "owner": {
+        "account_id": 113875,
+        "reputation": 29110,
+        "user_id": 299711,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/f61d00f60af2317ddd079565680d0bc5?s=256&d=identicon&r=PG",
+        "display_name": "arik",
+        "link": "https://stackoverflow.com/users/299711/arik"
+      },
+      "is_answered": true,
+      "view_count": 1281947,
+      "protected_date": 1393882864,
+      "accepted_answer_id": 2602274,
+      "answer_count": 8,
+      "score": 420,
+      "last_activity_date": 1651318994,
+      "creation_date": 1270749085,
+      "last_edit_date": 1632523077,
+      "question_id": 2602252,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2602252/mysql-query-string-contains",
+      "title": "MySQL query String contains"
+    },
+    {
+      "tags": [
+        "github",
+        "privacy",
+        "issue-tracking"
+      ],
+      "owner": {
+        "account_id": 80424,
+        "reputation": 5540,
+        "user_id": 227442,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/53a8a8962e717a4782c48383feef6f43?s=256&d=identicon&r=PG",
+        "display_name": "YGL",
+        "link": "https://stackoverflow.com/users/227442/ygl"
+      },
+      "is_answered": true,
+      "view_count": 97076,
+      "protected_date": 1511744004,
+      "accepted_answer_id": 20652886,
+      "answer_count": 11,
+      "score": 420,
+      "last_activity_date": 1622230391,
+      "creation_date": 1277080373,
+      "last_edit_date": 1439851940,
+      "question_id": 3081521,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/3081521/how-to-completely-remove-an-issue-from-github",
+      "title": "How to completely remove an issue from GitHub?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "callback"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Web Logic"
+      },
+      "is_answered": true,
+      "view_count": 211902,
+      "protected_date": 1391339650,
+      "accepted_answer_id": 3432266,
+      "answer_count": 5,
+      "score": 420,
+      "last_activity_date": 1624380027,
+      "creation_date": 1281219575,
+      "last_edit_date": 1597432863,
+      "question_id": 3432257,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3432257/difference-between-array-map-array-walk-and-array-filter",
+      "title": "Difference between array_map, array_walk and array_filter"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 63162,
+        "reputation": 104319,
+        "user_id": 187141,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/f9e28dc83496320c87c55b3cf988ab60?s=256&d=identicon&r=PG",
+        "display_name": "yegor256",
+        "link": "https://stackoverflow.com/users/187141/yegor256"
+      },
+      "is_answered": true,
+      "view_count": 560546,
+      "accepted_answer_id": 3914498,
+      "answer_count": 24,
+      "score": 420,
+      "last_activity_date": 1679825049,
+      "creation_date": 1286884844,
+      "last_edit_date": 1665990532,
+      "question_id": 3914404,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3914404/how-to-get-current-moment-in-iso-8601-format-with-date-hour-and-minute",
+      "title": "How to get current moment in ISO 8601 format with date, hour, and minute?"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "c#-4.0",
+        "interface",
+        "optional-parameters"
+      ],
+      "owner": {
+        "account_id": 22369,
+        "reputation": 15921,
+        "user_id": 55074,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/0bbaed5a18c131ba152cf566e1becaf8?s=256&d=identicon&r=PG",
+        "display_name": "theburningmonk",
+        "link": "https://stackoverflow.com/users/55074/theburningmonk"
+      },
+      "is_answered": true,
+      "view_count": 151424,
+      "accepted_answer_id": 4923642,
+      "answer_count": 7,
+      "score": 420,
+      "last_activity_date": 1684268261,
+      "creation_date": 1297090750,
+      "last_edit_date": 1684268261,
+      "question_id": 4922714,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4922714/why-are-c-4-optional-parameters-defined-on-interface-not-enforced-on-implementi",
+      "title": "Why are C# 4 optional parameters defined on interface not enforced on implementing class?"
+    },
+    {
+      "tags": [
+        "css"
+      ],
+      "owner": {
+        "account_id": 221852,
+        "reputation": 5429,
+        "user_id": 480059,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/b06d6a4963c5bce457bd1797bc609078?s=256&d=identicon&r=PG",
+        "display_name": "enjoylife",
+        "link": "https://stackoverflow.com/users/480059/enjoylife"
+      },
+      "is_answered": true,
+      "view_count": 697587,
+      "accepted_answer_id": 5577380,
+      "answer_count": 9,
+      "score": 420,
+      "last_activity_date": 1729622131,
+      "creation_date": 1302160724,
+      "last_edit_date": 1582340665,
+      "question_id": 5577364,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5577364/make-the-first-character-uppercase-in-css",
+      "title": "Make the first character Uppercase in CSS"
+    },
+    {
+      "tags": [
+        "python",
+        "json",
+        "parsing"
+      ],
+      "owner": {
+        "account_id": 48458,
+        "reputation": 26650,
+        "user_id": 143979,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/75421fd3db9a08ea2297c0da555a599d?s=256&d=identicon&r=PG",
+        "display_name": "ingh.am",
+        "link": "https://stackoverflow.com/users/143979/ingh-am"
+      },
+      "is_answered": true,
+      "view_count": 725251,
+      "protected_date": 1491961820,
+      "accepted_answer_id": 7771071,
+      "answer_count": 6,
+      "score": 420,
+      "last_activity_date": 1727396205,
+      "creation_date": 1318611625,
+      "last_edit_date": 1678470221,
+      "question_id": 7771011,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/7771011/how-can-i-parse-read-and-use-json-in-python",
+      "title": "How can I parse (read) and use JSON in Python?"
+    },
+    {
+      "tags": [
+        "c#",
+        "list",
+        "collections",
+        ".net-4.0",
+        "tuples"
+      ],
+      "owner": {
+        "account_id": 289676,
+        "reputation": 19062,
+        "user_id": 590790,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/2648f806f3af808a2ed537c8e745558e?s=256&d=identicon&r=PG",
+        "display_name": "Steven Jeuris",
+        "link": "https://stackoverflow.com/users/590790/steven-jeuris"
+      },
+      "is_answered": true,
+      "view_count": 482682,
+      "accepted_answer_id": 43011006,
+      "answer_count": 8,
+      "score": 420,
+      "last_activity_date": 1613032681,
+      "creation_date": 1320357705,
+      "last_edit_date": 1613032681,
+      "question_id": 8002455,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/8002455/how-to-easily-initialize-a-list-of-tuples",
+      "title": "How to easily initialize a list of Tuples?"
+    },
+    {
+      "tags": [
+        "git",
+        "colors",
+        "console"
+      ],
+      "owner": {
+        "account_id": 125181,
+        "reputation": 5153,
+        "user_id": 320791,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.sstatic.net/nQ1Gb.jpg?s=256",
+        "display_name": "MauroPorras",
+        "link": "https://stackoverflow.com/users/320791/mauroporras"
+      },
+      "is_answered": true,
+      "view_count": 229119,
+      "accepted_answer_id": 13075208,
+      "answer_count": 13,
+      "score": 420,
+      "last_activity_date": 1696015215,
+      "creation_date": 1339511400,
+      "last_edit_date": 1531855030,
+      "question_id": 10998792,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/10998792/how-to-color-the-git-console",
+      "title": "How to color the Git console?"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "spring-mvc"
+      ],
+      "owner": {
+        "account_id": 2086260,
+        "reputation": 4211,
+        "user_id": 1857181,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/72584d99acc375d8ecaa8654be5db7fc?s=256&d=identicon&r=PG",
+        "display_name": "user1857181",
+        "link": "https://stackoverflow.com/users/1857181/user1857181"
+      },
+      "is_answered": true,
+      "view_count": 558432,
+      "answer_count": 9,
+      "score": 420,
+      "last_activity_date": 1706385630,
+      "creation_date": 1354677903,
+      "last_edit_date": 1540363252,
+      "question_id": 13715811,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/13715811/requestparam-vs-pathvariable",
+      "title": "@RequestParam vs @PathVariable"
+    },
+    {
+      "tags": [
+        "python",
+        "string",
+        "list",
+        "parsing",
+        "split"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user248237"
+      },
+      "is_answered": true,
+      "view_count": 399141,
+      "accepted_answer_id": 15012237,
+      "answer_count": 3,
+      "score": 420,
+      "last_activity_date": 1651411930,
+      "creation_date": 1361480775,
+      "last_edit_date": 1361481232,
+      "question_id": 15012228,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/15012228/splitting-on-last-delimiter-in-python-string",
+      "title": "Splitting on last delimiter in Python string?"
+    },
+    {
+      "tags": [
+        "python",
+        "opencv"
+      ],
+      "owner": {
+        "account_id": 2319448,
+        "reputation": 4503,
+        "user_id": 2035651,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/b9791620cdb7731c1defe0c3b60e8f68?s=256&d=identicon&r=PG",
+        "display_name": "Nolik",
+        "link": "https://stackoverflow.com/users/2035651/nolik"
+      },
+      "is_answered": true,
+      "view_count": 1041426,
+      "protected_date": 1600357498,
+      "accepted_answer_id": 15589825,
+      "answer_count": 12,
+      "score": 420,
+      "last_activity_date": 1717341853,
+      "creation_date": 1364058043,
+      "last_edit_date": 1392527637,
+      "question_id": 15589517,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/15589517/how-to-crop-an-image-in-opencv-using-python",
+      "title": "How to crop an image in OpenCV using Python"
+    },
+    {
+      "tags": [
+        "git",
+        "git-merge",
+        "git-branch"
+      ],
+      "owner": {
+        "account_id": 1478752,
+        "reputation": 4364,
+        "user_id": 1388534,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3fa73ac861e9a44fb517c05a162ea4fe?s=256&d=identicon&r=PG",
+        "display_name": "Mr. EZEKIEL",
+        "link": "https://stackoverflow.com/users/1388534/mr-ezekiel"
+      },
+      "is_answered": true,
+      "view_count": 618913,
+      "accepted_answer_id": 16330001,
+      "answer_count": 8,
+      "score": 420,
+      "last_activity_date": 1650768209,
+      "creation_date": 1367464517,
+      "last_edit_date": 1617928094,
+      "question_id": 16329776,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/16329776/how-to-keep-a-branch-synchronized-updated-with-master",
+      "title": "How to keep a branch synchronized/updated with master?"
+    },
+    {
+      "tags": [
+        "c#",
+        "asynchronous",
+        "async-await",
+        "task",
+        "task-parallel-library"
+      ],
+      "owner": {
+        "account_id": 57705,
+        "reputation": 68540,
+        "user_id": 172861,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/7b64b4df7e1c9ca6fd953fd8a9a5c82b?s=256&d=identicon&r=PG",
+        "display_name": "Ian Vink",
+        "link": "https://stackoverflow.com/users/172861/ian-vink"
+      },
+      "is_answered": true,
+      "view_count": 221425,
+      "accepted_answer_id": 17197786,
+      "answer_count": 13,
+      "score": 420,
+      "last_activity_date": 1730138420,
+      "creation_date": 1371663412,
+      "last_edit_date": 1659342235,
+      "question_id": 17197699,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/17197699/awaiting-multiple-tasks-with-different-results",
+      "title": "Awaiting multiple Tasks with different results"
+    },
+    {
+      "tags": [
+        "python",
+        "compiler-errors",
+        "virtualenv"
+      ],
+      "owner": {
+        "account_id": 984469,
+        "reputation": 4843,
+        "user_id": 1003338,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/6888fb9c508783eafaa91a50c5b38c89?s=256&d=identicon&r=PG",
+        "display_name": "mik.ro",
+        "link": "https://stackoverflow.com/users/1003338/mik-ro"
+      },
+      "is_answered": true,
+      "view_count": 749959,
+      "answer_count": 15,
+      "score": 420,
+      "last_activity_date": 1722444277,
+      "creation_date": 1383752299,
+      "last_edit_date": 1632665382,
+      "question_id": 19816275,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/19816275/no-acceptable-c-compiler-found-in-path-when-installing-python",
+      "title": "No acceptable C compiler found in $PATH when installing python"
+    },
+    {
+      "tags": [
+        "rust",
+        "rust-cargo"
+      ],
+      "owner": {
+        "account_id": 47235,
+        "reputation": 24297,
+        "user_id": 139802,
+        "user_type": "registered",
+        "accept_rate": 52,
+        "profile_image": "https://www.gravatar.com/avatar/33c5692f72d9da5663651d034c4588b6?s=256&d=identicon&r=PG",
+        "display_name": "Andrew Wagner",
+        "link": "https://stackoverflow.com/users/139802/andrew-wagner"
+      },
+      "is_answered": true,
+      "view_count": 162503,
+      "accepted_answer_id": 26946705,
+      "answer_count": 4,
+      "score": 420,
+      "last_activity_date": 1688519799,
+      "creation_date": 1416060269,
+      "last_edit_date": 1651506778,
+      "question_id": 26946646,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/26946646/package-with-both-a-library-and-a-binary",
+      "title": "Package with both a library and a binary?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "json",
+        "dictionary",
+        "ecmascript-6"
+      ],
+      "owner": {
+        "account_id": 272380,
+        "reputation": 53059,
+        "user_id": 563420,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/715062f31800335c2a33422b311dbb93?s=256&d=identicon&r=PG",
+        "display_name": "rynop",
+        "link": "https://stackoverflow.com/users/563420/rynop"
+      },
+      "is_answered": true,
+      "view_count": 211062,
+      "protected_date": 1683917153,
+      "accepted_answer_id": 56150320,
+      "answer_count": 18,
+      "score": 420,
+      "last_activity_date": 1727256341,
+      "creation_date": 1426533591,
+      "last_edit_date": 1630402804,
+      "question_id": 29085197,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/29085197/how-do-you-json-stringify-an-es6-map",
+      "title": "How do you JSON.stringify an ES6 Map?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "class",
+        "constants",
+        "ecmascript-6"
+      ],
+      "owner": {
+        "account_id": 246686,
+        "reputation": 59306,
+        "user_id": 520957,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.sstatic.net/bLCif.jpg?s=256",
+        "display_name": "J&#233;r&#244;me Verstrynge",
+        "link": "https://stackoverflow.com/users/520957/j%c3%a9r%c3%b4me-verstrynge"
+      },
+      "is_answered": true,
+      "view_count": 421089,
+      "accepted_answer_id": 32647583,
+      "answer_count": 20,
+      "score": 420,
+      "last_activity_date": 1693217552,
+      "creation_date": 1442564539,
+      "last_edit_date": 1442595594,
+      "question_id": 32647215,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/32647215/declaring-static-constants-in-es6-classes",
+      "title": "Declaring static constants in ES6 classes?"
+    },
+    {
+      "tags": [
+        "docker"
+      ],
+      "owner": {
+        "account_id": 1157423,
+        "reputation": 39934,
+        "user_id": 1137669,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://www.gravatar.com/avatar/cc61a5c8f5866597519087e6bdaa240c?s=256&d=identicon&r=PG",
+        "display_name": "basickarl",
+        "link": "https://stackoverflow.com/users/1137669/basickarl"
+      },
+      "is_answered": true,
+      "view_count": 382577,
+      "protected_date": 1630916403,
+      "accepted_answer_id": 33913711,
+      "answer_count": 38,
+      "score": 420,
+      "last_activity_date": 1717486599,
+      "creation_date": 1448444359,
+      "last_edit_date": 1448445654,
+      "question_id": 33913020,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/33913020/docker-remove-none-tag-images",
+      "title": "Docker remove &lt;none&gt; TAG images"
+    },
+    {
+      "tags": [
+        ".net",
+        "asp.net-core"
+      ],
+      "owner": {
+        "account_id": 12585,
+        "reputation": 309440,
+        "user_id": 24874,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/b85169daf0d165b94ea4fa70f409686c?s=256&d=identicon&r=PG",
+        "display_name": "Drew Noakes",
+        "link": "https://stackoverflow.com/users/24874/drew-noakes"
+      },
+      "is_answered": true,
+      "view_count": 448753,
+      "accepted_answer_id": 37365382,
+      "answer_count": 13,
+      "score": 420,
+      "last_activity_date": 1711416081,
+      "creation_date": 1463847165,
+      "last_edit_date": 1619049339,
+      "question_id": 37365277,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/37365277/how-to-specify-the-port-an-asp-net-core-application-is-hosted-on",
+      "title": "How to specify the port an ASP.NET Core application is hosted on?"
+    },
+    {
+      "tags": [
+        "ios",
+        "swift3",
+        "xcode8",
+        "grand-central-dispatch",
+        "dispatch-after"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user4790024"
+      },
+      "is_answered": true,
+      "view_count": 380424,
+      "accepted_answer_id": 37806522,
+      "answer_count": 15,
+      "score": 420,
+      "last_activity_date": 1604603233,
+      "creation_date": 1465890111,
+      "last_edit_date": 1501143579,
+      "question_id": 37805885,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/37805885/how-to-create-dispatch-queue-in-swift-3",
+      "title": "How to create dispatch queue in Swift 3"
+    },
+    {
+      "tags": [
+        "git"
+      ],
+      "owner": {
+        "account_id": 952494,
+        "reputation": 9777,
+        "user_id": 978360,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://i.sstatic.net/J7u43.jpg?s=256",
+        "display_name": "TieDad",
+        "link": "https://stackoverflow.com/users/978360/tiedad"
+      },
+      "is_answered": true,
+      "view_count": 226306,
+      "accepted_answer_id": 43535203,
+      "answer_count": 12,
+      "score": 420,
+      "last_activity_date": 1716978145,
+      "creation_date": 1492754891,
+      "last_edit_date": 1513005661,
+      "question_id": 43535132,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/43535132/given-a-commit-id-how-to-determine-if-current-branch-contains-the-commit",
+      "title": "Given a commit id, how to determine if current branch contains the commit?"
+    },
+    {
+      "tags": [
+        "macos",
+        "google-chrome",
+        "ssl",
+        "localhost",
+        "macos-catalina"
+      ],
+      "owner": {
+        "account_id": 4297682,
+        "reputation": 4249,
+        "user_id": 3512280,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/xSd1I.jpg?s=256",
+        "display_name": "DarioSoller",
+        "link": "https://stackoverflow.com/users/3512280/dariosoller"
+      },
+      "is_answered": true,
+      "view_count": 355608,
+      "protected_date": 1650512123,
+      "answer_count": 15,
+      "score": 420,
+      "last_activity_date": 1702459850,
+      "creation_date": 1573480567,
+      "question_id": 58802767,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/58802767/no-proceed-anyway-option-on-neterr-cert-invalid-in-chrome-on-macos",
+      "title": "No \u201cProceed Anyway\u201d option on NET::ERR_CERT_INVALID in Chrome on MacOS"
+    },
+    {
+      "tags": [
+        "unit-testing",
+        "testing",
+        "language-agnostic"
+      ],
+      "owner": {
+        "account_id": 7901,
+        "reputation": 140263,
+        "user_id": 13913,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://lh5.googleusercontent.com/-xn3EmGLx_Lk/AAAAAAAAAAI/AAAAAAAAAQg/5MDUFEahst8/photo.jpg?sz=256",
+        "display_name": "Patrick Desjardins",
+        "link": "https://stackoverflow.com/users/13913/patrick-desjardins"
+      },
+      "is_answered": true,
+      "view_count": 165141,
+      "protected_date": 1437660652,
+      "closed_date": 1560133626,
+      "accepted_answer_id": 105021,
+      "answer_count": 31,
+      "score": 419,
+      "last_activity_date": 1600682522,
+      "creation_date": 1221854180,
+      "last_edit_date": 1495540510,
+      "question_id": 105007,
+      "link": "https://stackoverflow.com/questions/105007/should-i-test-private-methods-or-only-public-ones",
+      "closed_reason": "Opinion-based",
+      "title": "Should I test private methods or only public ones?"
+    },
+    {
+      "tags": [
+        "windows",
+        "batch-file"
+      ],
+      "owner": {
+        "account_id": 261,
+        "reputation": 18622,
+        "user_id": 322,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/cb77a675b8fdc07459304ef682a30ef2?s=256&d=identicon&r=PG",
+        "display_name": "Chris Smith",
+        "link": "https://stackoverflow.com/users/322/chris-smith"
+      },
+      "is_answered": true,
+      "view_count": 444862,
+      "accepted_answer_id": 112135,
+      "answer_count": 9,
+      "score": 419,
+      "last_activity_date": 1640016128,
+      "creation_date": 1222029679,
+      "last_edit_date": 1475597490,
+      "question_id": 112055,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/112055/what-does-d0-mean-in-a-windows-batch-file",
+      "title": "What does %~d0 mean in a Windows batch file?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "safari",
+        "mobile-safari"
+      ],
+      "owner": {
+        "account_id": 6494,
+        "reputation": 84088,
+        "user_id": 10947,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/ab1d14914503d2d7f3279c3f2db4c245?s=256&d=identicon&r=PG",
+        "display_name": "benzado",
+        "link": "https://stackoverflow.com/users/10947/benzado"
+      },
+      "is_answered": true,
+      "view_count": 332474,
+      "protected_date": 1445629075,
+      "accepted_answer_id": 227238,
+      "answer_count": 25,
+      "score": 419,
+      "last_activity_date": 1678475470,
+      "creation_date": 1224687644,
+      "question_id": 226131,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari",
+      "title": "How to disable phone number linking in Mobile Safari?"
+    },
+    {
+      "tags": [
+        "git",
+        "deployment",
+        "webserver",
+        "githooks"
+      ],
+      "owner": {
+        "account_id": 508,
+        "reputation": 78805,
+        "user_id": 658,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/325e29323813381fff4f0ed5c986c98b?s=256&d=identicon&r=PG",
+        "display_name": "Kyle Cronin",
+        "link": "https://stackoverflow.com/users/658/kyle-cronin"
+      },
+      "is_answered": true,
+      "view_count": 128589,
+      "protected_date": 1370302480,
+      "accepted_answer_id": 327315,
+      "answer_count": 19,
+      "score": 419,
+      "last_activity_date": 1585123254,
+      "creation_date": 1226351091,
+      "last_edit_date": 1433636237,
+      "question_id": 279169,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/279169/deploy-a-project-using-git-push",
+      "title": "Deploy a project using Git push"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net"
+      ],
+      "owner": {
+        "account_id": 3862,
+        "reputation": 7283,
+        "user_id": 5648,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/ed2fb2cdad86f2ff31f86a8a099cd4a6?s=256&d=identicon&r=PG",
+        "display_name": "Roberto Bonini",
+        "link": "https://stackoverflow.com/users/5648/roberto-bonini"
+      },
+      "is_answered": true,
+      "view_count": 485276,
+      "accepted_answer_id": 381529,
+      "answer_count": 9,
+      "score": 419,
+      "last_activity_date": 1713195825,
+      "creation_date": 1229705519,
+      "last_edit_date": 1229705858,
+      "question_id": 381508,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/381508/can-a-byte-array-be-written-to-a-file-in-c",
+      "title": "Can a Byte[] Array be written to a file in C#?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "css"
+      ],
+      "owner": {
+        "account_id": 17640,
+        "reputation": 265936,
+        "user_id": 39677,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/77aa7bc1ace6e4b0b49a2102e4fa4059?s=256&d=identicon&r=PG",
+        "display_name": "Blankman",
+        "link": "https://stackoverflow.com/users/39677/blankman"
+      },
+      "is_answered": true,
+      "view_count": 749698,
+      "protected_date": 1507906337,
+      "accepted_answer_id": 512067,
+      "answer_count": 11,
+      "score": 419,
+      "last_activity_date": 1633139350,
+      "creation_date": 1233763939,
+      "last_edit_date": 1418730997,
+      "question_id": 512054,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/512054/setting-background-image-using-jquery-css-property",
+      "title": "Setting background-image using jQuery CSS property"
+    },
+    {
+      "tags": [
+        "java",
+        "priority-queue"
+      ],
+      "owner": {
+        "account_id": 17529,
+        "reputation": 157234,
+        "user_id": 39321,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/71eb4a5d5d669a228debe86b9ae79bf0?s=256&d=identicon&r=PG",
+        "display_name": "Svish",
+        "link": "https://stackoverflow.com/users/39321/svish"
+      },
+      "is_answered": true,
+      "view_count": 685150,
+      "protected_date": 1430342409,
+      "accepted_answer_id": 683049,
+      "answer_count": 13,
+      "score": 419,
+      "last_activity_date": 1682620819,
+      "creation_date": 1238008718,
+      "last_edit_date": 1499779503,
+      "question_id": 683041,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/683041/how-do-i-use-a-priorityqueue",
+      "title": "How do I use a PriorityQueue?"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "idisposable",
+        "finalizer"
+      ],
+      "owner": {
+        "account_id": 27050,
+        "reputation": 22494,
+        "user_id": 70942,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/9f7667844c54af07fbb1a85592137cd4?s=256&d=identicon&r=PG",
+        "display_name": "ant2009",
+        "link": "https://stackoverflow.com/users/70942/ant2009"
+      },
+      "is_answered": true,
+      "view_count": 206179,
+      "accepted_answer_id": 898867,
+      "answer_count": 13,
+      "score": 419,
+      "last_activity_date": 1574692976,
+      "creation_date": 1243010685,
+      "last_edit_date": 1574692976,
+      "question_id": 898828,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/898828/use-of-finalize-dispose-method-in-c",
+      "title": "Use of Finalize/Dispose method in C#"
+    },
+    {
+      "tags": [
+        "c#"
+      ],
+      "owner": {
+        "account_id": 57807,
+        "reputation": 13004,
+        "user_id": 173197,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.sstatic.net/TXCix.jpg?s=256",
+        "display_name": "Dale",
+        "link": "https://stackoverflow.com/users/173197/dale"
+      },
+      "is_answered": true,
+      "view_count": 214798,
+      "accepted_answer_id": 1516890,
+      "answer_count": 17,
+      "score": 419,
+      "last_activity_date": 1575584547,
+      "creation_date": 1254675730,
+      "last_edit_date": 1536937888,
+      "question_id": 1516876,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1516876/when-to-use-in-vs-ref-vs-out",
+      "title": "When to use in vs ref vs out"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9846
+}

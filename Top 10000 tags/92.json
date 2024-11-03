@@ -1,0 +1,1153 @@
+{
+  "items": [
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "ptrace"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "eclipse-pde"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "submission"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "zend-studio"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "dyld"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "checkedlistbox"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "nettcpbinding"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "jsessionid"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "fixed-width"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "stun"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "orc"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 472,
+      "name": "typo3-10.x"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "f#-interactive"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "game-maker"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "hstore"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "imessage"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "start-activity"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "dialogfragment"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "aws-deeplens",
+            "aws-fargate",
+            "amazon-cognito",
+            "amazon-kinesis-video-streams",
+            "aws-sdk-java",
+            "aws-sdk",
+            "amazon-web-services",
+            "amazon-managed-blockchain",
+            "aws-mobilehub",
+            "aws-appsync",
+            "aws-nlb",
+            "aws-codepipeline",
+            "aws-sdk-android",
+            "amazon-s3-select",
+            "aws-cdk",
+            "amazon-emr",
+            "amazon-dynamodb",
+            "amazon-kinesis-firehose",
+            "amazon-connect",
+            "aws-cloudmap",
+            "aws-vpn",
+            "aws-iot-greengrass",
+            "amazon-ebs",
+            "aws-certificate-manager",
+            "aws-batch",
+            "amazon-kinesis",
+            "alexa-sdk-python",
+            "amazon-route53",
+            "aws-codeguru",
+            "aws-sdk-ruby",
+            "amazon-athena",
+            "amazon-swf",
+            "amazon-opensearch",
+            "alexa-skills-kit",
+            "aws-secrets-manager",
+            "aws-iot-analytics",
+            "amazon-cloudwatch",
+            "aws-iot-events",
+            "aws-ssm",
+            "amazon-sqs",
+            "aws-pinpoint",
+            "amazon-textract",
+            "amazon-ecs",
+            "amazon-kinesis-analytics",
+            "aws-mediatailor",
+            "amazon-translate",
+            "amazon-ec2-spot-market",
+            "alexa-interaction-model",
+            "amazon-transcribe",
+            "aws-amplify",
+            "aws-resource-group",
+            "amazon-lex",
+            "aws-service-catalog",
+            "amazon-lightsail",
+            "aws-data-exchange",
+            "aws-iot",
+            "amazon-cloudtrail",
+            "amazon-q-developer",
+            "aws-sdk-java-2.0",
+            "aws-device-farm",
+            "aws-sdk-rust",
+            "aws-app-mesh",
+            "aws-security-hub",
+            "amazon-guardduty",
+            "aws-application-load-balancer",
+            "amazon-cloudwatchlogs",
+            "amazon-polly",
+            "amazon-eks",
+            "aws-lambda-powertools",
+            "amazon-vpc",
+            "amazon-personalize",
+            "aws-sdk-net",
+            "aws-copilot",
+            "amazon-elasticsearch",
+            "aws-sdk-nodejs",
+            "aws-sso",
+            "aws-copilot-cli",
+            "aws-code-deploy",
+            "aws-mediapackage",
+            "amazon-mq",
+            "aws-elastictranscoder",
+            "amazon-inspector",
+            "amazon-fsx",
+            "amazon-glacier",
+            "amazon-imagebuilder",
+            "amazon-memory-db",
+            "aws-graviton",
+            "amazon-efs",
+            "amazon-sagemaker",
+            "amazon-honeycode",
+            "amazon-ami",
+            "amazon-redshift-spectrum",
+            "aws-codecatalyst",
+            "aws-sdk-go-v2",
+            "amazon-elb",
+            "amazon-location-service",
+            "amazon-elastic-beanstalk",
+            "aws-codecommit",
+            "aws-transfer-family",
+            "amazon-s3",
+            "aws-acm",
+            "aws-event-bridge",
+            "amazon-iam",
+            "alexa-smapi",
+            "amazon-comprehend",
+            "aws-storage-gateway",
+            "aws-sdk-ios",
+            "amazon-bedrock",
+            "aws-appstream",
+            "aws-codestar",
+            "amazon-workmail",
+            "amazon-qldb",
+            "aws-config",
+            "amazon-sagemaker-compilers",
+            "amazon-neptune",
+            "aws-elb",
+            "aws-iot-core",
+            "aws-parameter-store",
+            "aws-cloudformation",
+            "amazon-kms",
+            "elastic-ip",
+            "aws-snowball",
+            "aws-security-group",
+            "aws-elemental",
+            "aws-iot-sitewise",
+            "aws-lake-formation",
+            "aws-lambda-edge",
+            "aws-backup",
+            "aws-reserved-instances",
+            "aws-global-accelerator",
+            "aws-dms",
+            "amazon-macie",
+            "aws-private-link",
+            "amazon-appflow",
+            "aws-auto-scaling",
+            "aws-iam-identity-center",
+            "aws-organizations",
+            "aws-cli",
+            "amazon-elastic-transcoder",
+            "aws-cloudshell",
+            "amazon-waf",
+            "amazon-timestream",
+            "aws-xray",
+            "alexa-account-linking",
+            "aws-databrew",
+            "aws-datasync",
+            "amazon-keyspaces",
+            "amazon-app-runner",
+            "amazon-ses",
+            "amazon-ivs",
+            "amazon-dynamodb-dax",
+            "amazon-elasticache",
+            "aws-sdk-go",
+            "aws-sam",
+            "amazon-codewhisperer",
+            "aws-sdk-js",
+            "amazon-gamelift",
+            "amazon-cloudhsm",
+            "amazon-forecast",
+            "aws-sdk-comprehend",
+            "alexa-presentation-language",
+            "aws-app-config",
+            "aws-sdk-cpp",
+            "amazon-rds",
+            "amazon-kendra",
+            "amazon-cloudsearch",
+            "aws-mediastore",
+            "amazon-ecr",
+            "aws-mediaconnect",
+            "alexa-smart-home-skill",
+            "aws-lambda",
+            "aws-billing",
+            "alexa-flash-briefing-skill",
+            "aws-sct",
+            "amazon-ec2",
+            "aws-media-convert",
+            "amazon-sns",
+            "amazon-aurora",
+            "amazon-data-pipeline",
+            "amazon-workdocs",
+            "aws-sdk-js-v3",
+            "aws-control-tower",
+            "aws-sam-cli",
+            "amazon-quicksight",
+            "aws-api-gateway",
+            "amazon-redshift",
+            "aws-opsworks",
+            "aws-step-functions",
+            "aws-chatbot",
+            "aws-documentdb",
+            "aws-fis",
+            "aws-directory-services",
+            "amazon-rekognition",
+            "aws-cloud9",
+            "amazon-cloudfront",
+            "aws-msk",
+            "amazon-simpledb",
+            "aws-codebuild",
+            "amazon-sumerian",
+            "amazon-workspaces",
+            "aws-serverless",
+            "aws-media-live",
+            "aws-glue",
+            "aws-sdk-mock",
+            "aws-codeartifact",
+            "aws-direct-connect",
+            "alexa-sdk-nodejs"
+          ],
+          "external_links": [
+            {
+              "type": "website",
+              "link": "https://aws.amazon.com"
+            },
+            {
+              "type": "support",
+              "link": "mailto:awscollective@amazon.com"
+            },
+            {
+              "type": "twitter",
+              "link": "https://twitter.com/awsdevelopers"
+            },
+            {
+              "type": "github",
+              "link": "https://github.com/aws"
+            },
+            {
+              "type": "facebook",
+              "link": "https://facebook.com/amazonwebservices"
+            },
+            {
+              "type": "instagram",
+              "link": "https://instagram.com/amazonwebservices"
+            }
+          ],
+          "description": "Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. The AWS Collective is a community-driven site with resources for  developers.",
+          "link": "/collectives/aws",
+          "name": "AWS",
+          "slug": "aws"
+        }
+      ],
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "amazon-data-pipeline"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "nextflow"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "mrtk"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 471,
+      "name": "office-scripts"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "poker"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "mathml"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "data-retrieval"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "polygons"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "htmlspecialchars"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "ucanaccess"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "anychart"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "nswag"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "postman-collection-runner"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 470,
+      "name": "c++23"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 469,
+      "name": "ipod-touch"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 469,
+      "name": "grails-controller"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 469,
+      "name": "capybara-webkit"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 469,
+      "name": "openresty"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 469,
+      "name": "queryselector"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "imaging"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "cfc"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "internet-connection"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "smpp"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "sha512"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "strophe"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "spatstat"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "input-field"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "caanimation"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "eclipse-luna"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "google-cloud-visualstudio",
+            "google-cloud-data-fusion",
+            "firebase-app-distribution",
+            "firebase",
+            "google-cloud-dataflow",
+            "google-cloud-repository",
+            "firebase-notifications",
+            "google-cloud-talent-solution",
+            "google-cloud-automl-nl",
+            "google-cloud-cpp",
+            "firebasesimplelogin",
+            "google-cloud-dataproc",
+            "firebase-analytics",
+            "firebase-ab-testing",
+            "firebase-invites",
+            "google-dataflow",
+            "jib",
+            "google-cloud-vision",
+            "google-cloud-sdk",
+            "google-translate",
+            "google-cloud-console",
+            "google-cloud-dataprep",
+            "google-cloud-datalab",
+            "google-cloud-http-load-balancer",
+            "firebase-authentication",
+            "react-native-firebase",
+            "google-cloud-build",
+            "google-cloud-node",
+            "google-cloud-tpu",
+            "dialogflow-cx",
+            "google-cloud-endpoints-v2",
+            "google-container-os",
+            "google-cloud-test-lab",
+            "google-cloud-source-repos",
+            "google-cloud-ml-engine",
+            "google-cloud-php-client",
+            "google-cloud-speech",
+            "gcloud",
+            "google-cloud-python",
+            "google-cloud-resource-manager",
+            "firebase-console",
+            "google-cloud-dns",
+            "firebase-mlkit",
+            "firebase-util",
+            "firebase-hosting",
+            "google-cloud-pubsub",
+            "google-cloud-tools",
+            "google-app-engine-patch",
+            "google-cloud-vertex-ai",
+            "firebase-crash-reporting",
+            "google-cloud-networking",
+            "google-cloud-code",
+            "google-cloud-api-gateway",
+            "google-cloud-dataproc-metastore",
+            "google-analytics-firebase",
+            "firebase-machine-learning",
+            "google-cloud-endpoints",
+            "google-cloud-sql",
+            "firebase-security",
+            "apigee-baas",
+            "google-cloud-healthcare",
+            "firebase-app-check",
+            "google-bigquery",
+            "google-cloud-tasks",
+            "google-cloud-deploy",
+            "google-cloud-identity",
+            "firebase-extensions",
+            "firebase-cli",
+            "stackdriver",
+            "google-cloud-vpn",
+            "google-cloud-data-transfer",
+            "google-migrate-for-compute-engine",
+            "firebase-remote-config",
+            "google-cloud-ai-platform-pipelines",
+            "google-cloud-pubsublite",
+            "cordova-plugin-firebasex",
+            "google-cloud-debugger",
+            "google-cloud-platform",
+            "google-cloud-shell-editor",
+            "google-cloud-trace",
+            "google-cloud-recommendation",
+            "firebase-admin",
+            "google-container-registry",
+            "bigtable",
+            "google-cloud-identity-aware-proxy",
+            "google-cloud-spanner-emulator",
+            "firebase-admob",
+            "google-cloud-error-reporting",
+            "google-cloud-metrics",
+            "firebase-assistant",
+            "google-cloud-stackdriver",
+            "rest-firebase",
+            "firebase-app-indexing",
+            "google-cloud-workstations",
+            "google-cloud-composer",
+            "firebase-queue",
+            "google-cloud-ops-agent",
+            "vertex-ai-search",
+            "firebaseui",
+            "google-cloud-dlp",
+            "google-cloud-iam",
+            "recaptcha-enterprise",
+            "google-cloud-cdn",
+            "google-cloud-intellij",
+            "google-cloud-internal-load-balancer",
+            "looker",
+            "google-fusion-tables",
+            "maven-jib",
+            "google-prediction",
+            "google-container-builder",
+            "google-cloud-logging",
+            "google-cloud-storage",
+            "google-app-engine-launch",
+            "firebase-performance",
+            "nativescript-firebase",
+            "google-cloud-registry",
+            "google-cloud-instance-template",
+            "google-cloud-monitoring",
+            "google-cloud-interconnect",
+            "firebase-dynamic-links",
+            "google-cloud-translate",
+            "firebase-cloud-messaging",
+            "google-cloud-messaging",
+            "google-compute-engine",
+            "google-cloud-load-balancer",
+            "dialogflow-es-fulfillment",
+            "google-cloud-billing",
+            "google-cloud-robotics",
+            "firebase-test-lab",
+            "firebase-polymer",
+            "google-anthos",
+            "google-cloud-instances",
+            "google-cloud-ai",
+            "google-cloud-profiler",
+            "google-cloud-armor",
+            "google-cloud-print",
+            "apigee",
+            "looker-studio",
+            "google-cloud-transcoder",
+            "dialogflow-es",
+            "google-cloud-shell",
+            "google-app-engine-go",
+            "google-cloud-language",
+            "firebase-job-dispatcher",
+            "google-cloud-nl",
+            "google-cloud-webrisk",
+            "google-cloud-proxy",
+            "google-app-engine-deploy",
+            "cloud-document-ai",
+            "firebase-tools",
+            "google-cloud-marketplace",
+            "google-container-optimized-os",
+            "google-cloud-automl",
+            "google-kubernetes-engine",
+            "google-cloud-url-maps",
+            "redux-saga-firebase",
+            "google-cloud-router",
+            "google-cloud-network-load-balancer",
+            "google-cloud-functions",
+            "firebase-predictions",
+            "google-cloud-asset-inventory",
+            "google-cloud-datastore",
+            "google-cloud-spanner",
+            "google-app-engine-python",
+            "google-cloud-kms",
+            "google-cloud-bigtable",
+            "google-cloud-search",
+            "google-cloud-save",
+            "react-redux-firebase",
+            "firebase-database",
+            "google-cloud-powershell",
+            "google-cloud-iot",
+            "firebase-realtime-database",
+            "google-cloud-print-privet",
+            "firebase-in-app-messaging",
+            "google-cloud-launcher",
+            "firebase-storage",
+            "google-cloud-firestore",
+            "google-cloud-memorystore",
+            "google-app-engine-golang",
+            "google-app-engine",
+            "google-app-engine-php",
+            "google-cloud-storage-r",
+            "google-cloud-run",
+            "google-cloud-filestore",
+            "google-cloud-scheduler",
+            "google-cloud-ml"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective for developers who utilize Google Cloud\u2019s infrastructure and platform capabilities. This collective is organized and managed by the Stack Overflow community.",
+          "link": "/collectives/google-cloud",
+          "name": "Google Cloud",
+          "slug": "google-cloud"
+        }
+      ],
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "google-cloud-datalab"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "ssrs-2016"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "onelogin"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "jackson2"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 468,
+      "name": "react-final-form"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "fedex"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "intercept"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "intl"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "jsr223"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "git-filter-branch"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "nodatime"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "angularjs-ng-include"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "mobilefirst-server"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "pandas-datareader"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "code-splitting"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "clang-tidy"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 467,
+      "name": "use-reducer"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "etw"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "slash"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "confirmation"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "precompiled-headers"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "gauge"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "frama-c"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "plantuml"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "webpack-style-loader"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "esp-idf"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 466,
+      "name": "macos-monterey"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "su"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "codepages"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "localtime"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "dimensional-modeling"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "writer"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "autofocus"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "rss-reader"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "spring-scheduled"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "openerp-8"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "react-highcharts"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 465,
+      "name": "imagepicker"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "redundancy"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "clisp"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "ddd-repositories"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "folding"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "hour"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "depth-buffer"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "dotnetzip"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "layoutparams"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "onpause"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "haskell-lens"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "excel-charts"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "skmaps"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "laravel-queue"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "google-slides-api"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 464,
+      "name": "google-smart-home"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9932
+}

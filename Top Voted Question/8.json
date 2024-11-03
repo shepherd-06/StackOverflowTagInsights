@@ -1,0 +1,2993 @@
+{
+  "items": [
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "npm"
+      ],
+      "owner": {
+        "account_id": 95995,
+        "reputation": 42152,
+        "user_id": 1247659,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.sstatic.net/HH3MT.png?s=256",
+        "display_name": "Dominic Tancredi",
+        "link": "https://stackoverflow.com/users/1247659/dominic-tancredi"
+      },
+      "is_answered": true,
+      "view_count": 2933817,
+      "protected_date": 1465446223,
+      "accepted_answer_id": 11178106,
+      "answer_count": 34,
+      "score": 1775,
+      "last_activity_date": 1720168715,
+      "creation_date": 1340545256,
+      "last_edit_date": 1589453367,
+      "question_id": 11177954,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11177954/how-do-i-completely-uninstall-node-js-and-reinstall-from-beginning-mac-os-x",
+      "title": "How do I completely uninstall Node.js, and reinstall from beginning (Mac OS X)"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "select",
+        "indexing"
+      ],
+      "owner": {
+        "account_id": 529574,
+        "reputation": 23487,
+        "user_id": 1610626,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/d4738de350bcaf1777b12e8b77f7d018?s=256&d=identicon&r=PG",
+        "display_name": "user1234440",
+        "link": "https://stackoverflow.com/users/1610626/user1234440"
+      },
+      "is_answered": true,
+      "view_count": 4145568,
+      "protected_date": 1514966488,
+      "accepted_answer_id": 11287278,
+      "answer_count": 22,
+      "score": 1775,
+      "last_activity_date": 1699054427,
+      "creation_date": 1341176596,
+      "last_edit_date": 1681107774,
+      "question_id": 11285613,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe",
+      "title": "Selecting multiple columns in a Pandas dataframe"
+    },
+    {
+      "tags": [
+        "git"
+      ],
+      "owner": {
+        "account_id": 1533361,
+        "reputation": 17690,
+        "user_id": 1429990,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/f722ffee05b1d0647861faa2ed21a89f?s=256&d=identicon&r=PG",
+        "display_name": "Ankit Suri",
+        "link": "https://stackoverflow.com/users/1429990/ankit-suri"
+      },
+      "is_answered": true,
+      "view_count": 2033536,
+      "protected_date": 1571764689,
+      "accepted_answer_id": 11647899,
+      "answer_count": 24,
+      "score": 1775,
+      "last_activity_date": 1713262483,
+      "creation_date": 1343206697,
+      "last_edit_date": 1467174267,
+      "question_id": 11646107,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/11646107/you-have-not-concluded-your-merge-merge-head-exists",
+      "title": "You have not concluded your merge (MERGE_HEAD exists)"
+    },
+    {
+      "tags": [
+        "c#",
+        "enums",
+        "flags"
+      ],
+      "owner": {
+        "account_id": 453,
+        "reputation": 35337,
+        "user_id": 580,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/7eb788f6132eac5f7b8ca5b43924ad42?s=256&d=identicon&r=PG",
+        "display_name": "Brian Leahy",
+        "link": "https://stackoverflow.com/users/580/brian-leahy"
+      },
+      "is_answered": true,
+      "view_count": 687302,
+      "protected_date": 1550756751,
+      "accepted_answer_id": 8480,
+      "answer_count": 15,
+      "score": 1774,
+      "last_activity_date": 1722339703,
+      "creation_date": 1218514156,
+      "last_edit_date": 1586164700,
+      "question_id": 8447,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/8447/what-does-the-flags-enum-attribute-mean-in-c",
+      "title": "What does the [Flags] Enum Attribute mean in C#?"
+    },
+    {
+      "tags": [
+        "python",
+        "list",
+        "dictionary"
+      ],
+      "owner": {
+        "account_id": 7198,
+        "reputation": 47555,
+        "user_id": 12388,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/2193230b4b56f0b0559ecce8955c3857?s=256&d=identicon&r=PG",
+        "display_name": "Guido",
+        "link": "https://stackoverflow.com/users/12388/guido"
+      },
+      "is_answered": true,
+      "view_count": 1353236,
+      "protected_date": 1563784896,
+      "accepted_answer_id": 209854,
+      "answer_count": 21,
+      "score": 1773,
+      "last_activity_date": 1709731267,
+      "creation_date": 1224183947,
+      "last_edit_date": 1700184251,
+      "question_id": 209840,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/209840/make-a-dictionary-dict-from-separate-lists-of-keys-and-values",
+      "title": "Make a dictionary (dict) from separate lists of keys and values"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2008",
+        "inner-join",
+        "sql-delete"
+      ],
+      "owner": {
+        "account_id": 1695449,
+        "reputation": 18303,
+        "user_id": 1556907,
+        "user_type": "registered",
+        "accept_rate": 52,
+        "profile_image": "https://www.gravatar.com/avatar/d64a60c8cf3e79e6b0cc98c33abdc29a?s=256&d=identicon&r=PG",
+        "display_name": "nettoon493",
+        "link": "https://stackoverflow.com/users/1556907/nettoon493"
+      },
+      "is_answered": true,
+      "view_count": 2201503,
+      "protected_date": 1433194439,
+      "accepted_answer_id": 16481475,
+      "answer_count": 14,
+      "score": 1771,
+      "last_activity_date": 1633270059,
+      "creation_date": 1368185901,
+      "last_edit_date": 1633159060,
+      "question_id": 16481379,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/16481379/how-can-i-delete-using-inner-join-with-sql-server",
+      "title": "How can I delete using INNER JOIN with SQL Server?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "date"
+      ],
+      "owner": {
+        "account_id": 7413,
+        "reputation": 17785,
+        "user_id": 12872,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ed283db194eca5dcc41b9718abb4deca?s=256&d=identicon&r=PG",
+        "display_name": "Ashesh",
+        "link": "https://stackoverflow.com/users/12872/ashesh"
+      },
+      "is_answered": true,
+      "view_count": 2310016,
+      "protected_date": 1555272065,
+      "answer_count": 55,
+      "score": 1770,
+      "last_activity_date": 1677765481,
+      "creation_date": 1235001440,
+      "last_edit_date": 1643924746,
+      "question_id": 563406,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/563406/how-to-add-days-to-date",
+      "title": "How to add days to Date?"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "enums",
+        "language-features"
+      ],
+      "owner": {
+        "account_id": 37002,
+        "reputation": 23049,
+        "user_id": 105685,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/8f6da89cf561a26421afb781a516647f?s=256&d=identicon&r=PG",
+        "display_name": "divinci",
+        "link": "https://stackoverflow.com/users/105685/divinci"
+      },
+      "is_answered": true,
+      "view_count": 1007625,
+      "closed_date": 1728890571,
+      "accepted_answer_id": 972323,
+      "answer_count": 8,
+      "score": 1770,
+      "last_activity_date": 1728890594,
+      "creation_date": 1244579104,
+      "last_edit_date": 1728890594,
+      "question_id": 972307,
+      "link": "https://stackoverflow.com/questions/972307/how-to-loop-through-all-enum-values-in-c",
+      "closed_reason": "Duplicate",
+      "title": "How to loop through all enum values in C#?"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib",
+        "savefig"
+      ],
+      "owner": {
+        "account_id": 516016,
+        "reputation": 67888,
+        "user_id": 962891,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://i.sstatic.net/7Bcxm.png?s=256",
+        "display_name": "Homunculus Reticulli",
+        "link": "https://stackoverflow.com/users/962891/homunculus-reticulli"
+      },
+      "is_answered": true,
+      "view_count": 3072675,
+      "protected_date": 1532688246,
+      "accepted_answer_id": 9890599,
+      "answer_count": 25,
+      "score": 1770,
+      "last_activity_date": 1723653383,
+      "creation_date": 1331228290,
+      "last_edit_date": 1701726571,
+      "question_id": 9622163,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/9622163/save-plot-to-image-file-instead-of-displaying-it",
+      "title": "Save plot to image file instead of displaying it"
+    },
+    {
+      "tags": [
+        "java",
+        "jsp",
+        "scriptlet"
+      ],
+      "owner": {
+        "account_id": 34076,
+        "reputation": 18644,
+        "user_id": 95914,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/043703d9aa973023306d6562404804b7?s=256&d=identicon&r=PG",
+        "display_name": "chmoelders",
+        "link": "https://stackoverflow.com/users/95914/chmoelders"
+      },
+      "is_answered": true,
+      "view_count": 321532,
+      "protected_date": 1310383056,
+      "accepted_answer_id": 3180202,
+      "answer_count": 31,
+      "score": 1769,
+      "last_activity_date": 1672736007,
+      "creation_date": 1278314646,
+      "last_edit_date": 1672271077,
+      "question_id": 3177733,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3177733/how-can-i-avoid-java-code-in-jsp-files-using-jsp-2",
+      "title": "How can I avoid Java code in JSP files, using JSP 2?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "void"
+      ],
+      "owner": {
+        "account_id": 36460,
+        "reputation": 139392,
+        "user_id": 104015,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/946c085c383cc406907c2bbf809917c3?s=256&d=identicon&r=PG",
+        "display_name": "omg",
+        "link": "https://stackoverflow.com/users/104015/omg"
+      },
+      "is_answered": true,
+      "view_count": 2708927,
+      "protected_date": 1348693272,
+      "accepted_answer_id": 1291950,
+      "answer_count": 14,
+      "score": 1768,
+      "last_activity_date": 1722175040,
+      "creation_date": 1250572813,
+      "last_edit_date": 1630310495,
+      "question_id": 1291942,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1291942/what-does-javascriptvoid0-mean",
+      "title": "What does &quot;javascript:void(0)&quot; mean?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "json",
+        "serialization"
+      ],
+      "owner": {
+        "account_id": 16215,
+        "reputation": 8174,
+        "user_id": 35091,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/c148357506bfb42d0c4db54df626b1c6?s=256&d=identicon&r=PG",
+        "display_name": "Yisroel",
+        "link": "https://stackoverflow.com/users/35091/yisroel"
+      },
+      "is_answered": true,
+      "view_count": 1101149,
+      "protected_date": 1401481127,
+      "accepted_answer_id": 1186309,
+      "answer_count": 58,
+      "community_owned_date": 1381072611,
+      "score": 1766,
+      "last_activity_date": 1711793082,
+      "creation_date": 1248615594,
+      "last_edit_date": 1535170639,
+      "question_id": 1184624,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1184624/convert-form-data-to-javascript-object-with-jquery",
+      "title": "Convert form data to JavaScript object with jQuery"
+    },
+    {
+      "tags": [
+        "c++",
+        "lambda",
+        "c++11",
+        "c++-faq"
+      ],
+      "owner": {
+        "account_id": 181638,
+        "reputation": 360348,
+        "user_id": 415784,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.sstatic.net/2WX9Z.jpg?s=256",
+        "display_name": "Sarfaraz Nawaz",
+        "link": "https://stackoverflow.com/users/415784/sarfaraz-nawaz"
+      },
+      "is_answered": true,
+      "view_count": 684637,
+      "protected_date": 1474461100,
+      "accepted_answer_id": 7627218,
+      "answer_count": 11,
+      "score": 1766,
+      "last_activity_date": 1713951056,
+      "creation_date": 1317567492,
+      "last_edit_date": 1695769774,
+      "question_id": 7627098,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/7627098/what-is-a-lambda-expression-and-when-should-i-use-one",
+      "title": "What is a lambda expression, and when should I use one?"
+    },
+    {
+      "tags": [
+        "android-studio"
+      ],
+      "owner": {
+        "account_id": 968368,
+        "reputation": 17830,
+        "user_id": 991396,
+        "user_type": "registered",
+        "accept_rate": 35,
+        "profile_image": "https://www.gravatar.com/avatar/ab4bae448b8051965d805aec3772d7b0?s=256&d=identicon&r=PG",
+        "display_name": "ramzixp",
+        "link": "https://stackoverflow.com/users/991396/ramzixp"
+      },
+      "is_answered": true,
+      "view_count": 1349287,
+      "protected_date": 1494671048,
+      "accepted_answer_id": 29092698,
+      "answer_count": 58,
+      "score": 1764,
+      "last_activity_date": 1723570250,
+      "creation_date": 1369790689,
+      "last_edit_date": 1551276256,
+      "question_id": 16804093,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/16804093/rename-package-in-android-studio",
+      "title": "Rename package in Android Studio"
+    },
+    {
+      "tags": [
+        "javascript",
+        "forms",
+        "post",
+        "submit"
+      ],
+      "owner": {
+        "account_id": 9237,
+        "reputation": 20908,
+        "user_id": 16981,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/adc9730f540d5a3e9fbf80b359f7ee4b?s=256&d=identicon&r=PG",
+        "display_name": "Joseph Holsten",
+        "link": "https://stackoverflow.com/users/16981/joseph-holsten"
+      },
+      "is_answered": true,
+      "view_count": 1872592,
+      "protected_date": 1338318688,
+      "accepted_answer_id": 133997,
+      "answer_count": 32,
+      "score": 1763,
+      "last_activity_date": 1718202464,
+      "creation_date": 1222355743,
+      "last_edit_date": 1672170704,
+      "question_id": 133925,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/133925/javascript-post-request-like-a-form-submit",
+      "title": "JavaScript post request like a form submit"
+    },
+    {
+      "tags": [
+        "javascript",
+        "json",
+        "parsing"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user605334"
+      },
+      "is_answered": true,
+      "view_count": 2023238,
+      "closed_date": 1437183994,
+      "accepted_answer_id": 4935684,
+      "answer_count": 16,
+      "score": 1762,
+      "last_activity_date": 1608299433,
+      "creation_date": 1297182843,
+      "last_edit_date": 1490199452,
+      "question_id": 4935632,
+      "link": "https://stackoverflow.com/questions/4935632/parse-json-in-javascript",
+      "closed_reason": "Duplicate",
+      "title": "Parse JSON in JavaScript?"
+    },
+    {
+      "tags": [
+        "git"
+      ],
+      "owner": {
+        "account_id": 27678,
+        "reputation": 70828,
+        "user_id": 73297,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://i.sstatic.net/GhFGC.jpg?s=256",
+        "display_name": "Ben Zotto",
+        "link": "https://stackoverflow.com/users/73297/ben-zotto"
+      },
+      "is_answered": true,
+      "view_count": 1278352,
+      "protected_date": 1545281455,
+      "accepted_answer_id": 5772882,
+      "answer_count": 29,
+      "score": 1758,
+      "last_activity_date": 1707743266,
+      "creation_date": 1303667461,
+      "last_edit_date": 1496082102,
+      "question_id": 5772192,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin",
+      "title": "How can I reconcile detached HEAD with master/origin?"
+    },
+    {
+      "tags": [
+        "git",
+        "gitignore"
+      ],
+      "owner": {
+        "account_id": 176119,
+        "reputation": 24628,
+        "user_id": 406592,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://i.sstatic.net/c5f4Q.jpg?s=256",
+        "display_name": "Matt Parkins",
+        "link": "https://stackoverflow.com/users/406592/matt-parkins"
+      },
+      "is_answered": true,
+      "view_count": 1005036,
+      "protected_date": 1548548396,
+      "accepted_answer_id": 11451916,
+      "answer_count": 38,
+      "score": 1758,
+      "last_activity_date": 1690892039,
+      "creation_date": 1342094996,
+      "last_edit_date": 1548979841,
+      "question_id": 11451535,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11451535/gitignore-is-ignored-by-git",
+      "title": ".gitignore is ignored by Git"
+    },
+    {
+      "tags": [
+        "sed"
+      ],
+      "owner": {
+        "account_id": 54832,
+        "reputation": 52562,
+        "user_id": 164148,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/3136ba30520def1db4638c67888552f5?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "hhh",
+        "link": "https://stackoverflow.com/users/164148/hhh"
+      },
+      "is_answered": true,
+      "view_count": 2364878,
+      "protected_date": 1347897694,
+      "accepted_answer_id": 1252191,
+      "answer_count": 40,
+      "score": 1756,
+      "last_activity_date": 1730136917,
+      "creation_date": 1249845010,
+      "last_edit_date": 1641476846,
+      "question_id": 1251999,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1251999/how-can-i-replace-each-newline-n-with-a-space-using-sed",
+      "title": "How can I replace each newline (\\n) with a space using sed?"
+    },
+    {
+      "tags": [
+        "java",
+        "stringbuilder",
+        "stringbuffer"
+      ],
+      "owner": {
+        "account_id": 19217,
+        "reputation": 19157,
+        "user_id": 44848,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a403164937a20394c497791a71a551c0?s=256&d=identicon&r=PG",
+        "display_name": "blacktiger",
+        "link": "https://stackoverflow.com/users/44848/blacktiger"
+      },
+      "is_answered": true,
+      "view_count": 895535,
+      "protected_date": 1372687121,
+      "accepted_answer_id": 355092,
+      "answer_count": 33,
+      "score": 1752,
+      "last_activity_date": 1650934506,
+      "creation_date": 1228883666,
+      "last_edit_date": 1462868428,
+      "question_id": 355089,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/355089/difference-between-stringbuilder-and-stringbuffer",
+      "title": "Difference between StringBuilder and StringBuffer"
+    },
+    {
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "owner": {
+        "account_id": 5559,
+        "reputation": 544969,
+        "user_id": 9021,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/f092dfd45793e9483281d4205b674823?s=256&d=identicon&r=PG",
+        "display_name": "nickf",
+        "link": "https://stackoverflow.com/users/9021/nickf"
+      },
+      "is_answered": true,
+      "view_count": 1102476,
+      "protected_date": 1565675305,
+      "accepted_answer_id": 432503,
+      "answer_count": 23,
+      "score": 1751,
+      "last_activity_date": 1714597819,
+      "creation_date": 1231658480,
+      "last_edit_date": 1674329093,
+      "question_id": 432493,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/432493/how-do-you-access-the-matched-groups-in-a-javascript-regular-expression",
+      "title": "How do you access the matched groups in a JavaScript regular expression?"
+    },
+    {
+      "tags": [
+        "java",
+        "jvm",
+        "incompatibility",
+        "unsupported-class-version"
+      ],
+      "owner": {
+        "account_id": 483169,
+        "reputation": 24382,
+        "user_id": 898042,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://i.sstatic.net/3QYVI.jpg?s=256",
+        "display_name": "ERJAN",
+        "link": "https://stackoverflow.com/users/898042/erjan"
+      },
+      "is_answered": true,
+      "view_count": 2369300,
+      "protected_date": 1411403422,
+      "accepted_answer_id": 11432195,
+      "answer_count": 52,
+      "score": 1751,
+      "last_activity_date": 1730221557,
+      "creation_date": 1335785304,
+      "last_edit_date": 1726132069,
+      "question_id": 10382929,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/10382929/how-to-fix-java-lang-unsupportedclassversionerror-unsupported-major-minor-versi",
+      "title": "How to fix java.lang.UnsupportedClassVersionError: Unsupported major.minor version"
+    },
+    {
+      "tags": [
+        "git"
+      ],
+      "owner": {
+        "account_id": 358051,
+        "reputation": 19200,
+        "user_id": 698583,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/e856bc0ddf6d12d48ca9e3f43c30b85f?s=256&d=identicon&r=PG",
+        "display_name": "wullxz",
+        "link": "https://stackoverflow.com/users/698583/wullxz"
+      },
+      "is_answered": true,
+      "view_count": 1827167,
+      "accepted_answer_id": 12254105,
+      "answer_count": 15,
+      "score": 1751,
+      "last_activity_date": 1687465046,
+      "creation_date": 1346706857,
+      "last_edit_date": 1565562337,
+      "question_id": 12254076,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/12254076/how-do-i-show-my-global-git-configuration",
+      "title": "How do I show my global Git configuration?"
+    },
+    {
+      "tags": [
+        "python",
+        "string",
+        "path"
+      ],
+      "owner": {
+        "account_id": 21350,
+        "reputation": 328940,
+        "user_id": 51816,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/0e54bb28182bcd9df39704751306df27?s=256&d=identicon&r=PG",
+        "display_name": "Joan Venge",
+        "link": "https://stackoverflow.com/users/51816/joan-venge"
+      },
+      "is_answered": true,
+      "view_count": 2273248,
+      "protected_date": 1548288962,
+      "accepted_answer_id": 678242,
+      "answer_count": 33,
+      "score": 1749,
+      "last_activity_date": 1728326585,
+      "creation_date": 1237912863,
+      "last_edit_date": 1649491825,
+      "question_id": 678236,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/678236/how-do-i-get-the-filename-without-the-extension-from-a-path-in-python",
+      "title": "How do I get the filename without the extension from a path in Python?"
+    },
+    {
+      "tags": [
+        "git",
+        "github",
+        "github-api",
+        "git-pull",
+        "personal-access-token"
+      ],
+      "owner": {
+        "account_id": 21178924,
+        "reputation": 16437,
+        "user_id": 15573670,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7c3ce61face1ab49d68c0c33599dd62a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Daemes",
+        "link": "https://stackoverflow.com/users/15573670/daemes"
+      },
+      "is_answered": true,
+      "view_count": 2264047,
+      "protected_date": 1629481564,
+      "answer_count": 51,
+      "score": 1749,
+      "last_activity_date": 1730070353,
+      "creation_date": 1628873374,
+      "last_edit_date": 1690466816,
+      "question_id": 68775869,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed",
+      "title": "Message &quot;Support for password authentication was removed.&quot;"
+    },
+    {
+      "tags": [
+        "javascript",
+        "url",
+        "url-parameters"
+      ],
+      "owner": {
+        "account_id": 41447,
+        "reputation": 35057,
+        "user_id": 120457,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/56abbd59ee5a0cd86c8c14a4664dd83e?s=256&d=identicon&r=PG",
+        "display_name": "joe",
+        "link": "https://stackoverflow.com/users/120457/joe"
+      },
+      "is_answered": true,
+      "view_count": 2878324,
+      "protected_date": 1380983224,
+      "closed_date": 1638857297,
+      "accepted_answer_id": 979995,
+      "answer_count": 63,
+      "score": 1747,
+      "last_activity_date": 1659686563,
+      "creation_date": 1244709169,
+      "last_edit_date": 1633534614,
+      "question_id": 979975,
+      "link": "https://stackoverflow.com/questions/979975/get-the-values-from-the-get-parameters-javascript",
+      "closed_reason": "Duplicate",
+      "title": "Get the values from the &quot;GET&quot; parameters (JavaScript)"
+    },
+    {
+      "tags": [
+        "python",
+        "syntax",
+        "namespaces"
+      ],
+      "owner": {
+        "account_id": 1343,
+        "reputation": 17893,
+        "user_id": 1794,
+        "user_type": "registered",
+        "accept_rate": 40,
+        "profile_image": "https://www.gravatar.com/avatar/a5061ac6baf0b57c941cedffb340563d?s=256&d=identicon&r=PG",
+        "display_name": "varikin",
+        "link": "https://stackoverflow.com/users/1794/varikin"
+      },
+      "is_answered": true,
+      "view_count": 676185,
+      "protected_date": 1458516693,
+      "accepted_answer_id": 44842,
+      "answer_count": 10,
+      "score": 1746,
+      "last_activity_date": 1688654718,
+      "creation_date": 1220563698,
+      "last_edit_date": 1649490271,
+      "question_id": 44834,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/44834/what-does-all-mean-in-python",
+      "title": "What does __all__ mean in Python?"
+    },
+    {
+      "tags": [
+        "vim",
+        "sudo"
+      ],
+      "owner": {
+        "account_id": 27865,
+        "reputation": 20655,
+        "user_id": 73955,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/befc3f0636481cd1e0ec5fc3b1a4cffa?s=256&d=identicon&r=PG",
+        "display_name": "Doppelganger",
+        "link": "https://stackoverflow.com/users/73955/doppelganger"
+      },
+      "is_answered": true,
+      "view_count": 565798,
+      "accepted_answer_id": 7078429,
+      "answer_count": 11,
+      "score": 1744,
+      "last_activity_date": 1719216066,
+      "creation_date": 1270737410,
+      "last_edit_date": 1351620168,
+      "question_id": 2600783,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work",
+      "title": "How does the vim &quot;write with sudo&quot; trick work?"
+    },
+    {
+      "tags": [
+        "css",
+        "image",
+        "vertical-alignment"
+      ],
+      "owner": {
+        "account_id": 280900,
+        "reputation": 99673,
+        "user_id": 576875,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://i.sstatic.net/WNlaL.jpg?s=256",
+        "display_name": "Arnaud Le Blanc",
+        "link": "https://stackoverflow.com/users/576875/arnaud-le-blanc"
+      },
+      "is_answered": true,
+      "view_count": 2101715,
+      "protected_date": 1394026736,
+      "accepted_answer_id": 7310398,
+      "answer_count": 37,
+      "score": 1743,
+      "last_activity_date": 1654848981,
+      "creation_date": 1314894351,
+      "last_edit_date": 1592644375,
+      "question_id": 7273338,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/7273338/how-to-vertically-align-an-image-inside-a-div",
+      "title": "How to vertically align an image inside a div"
+    },
+    {
+      "tags": [
+        "html",
+        "internet-explorer",
+        "browser",
+        "x-ua-compatible"
+      ],
+      "owner": {
+        "account_id": 13193,
+        "reputation": 75730,
+        "user_id": 26349,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/0f47e514351f802b3c70eaacfe6ff492?s=256&d=identicon&r=PG",
+        "display_name": "Morgan Cheng",
+        "link": "https://stackoverflow.com/users/26349/morgan-cheng"
+      },
+      "is_answered": true,
+      "view_count": 1532609,
+      "protected_date": 1389729978,
+      "accepted_answer_id": 6771584,
+      "answer_count": 12,
+      "score": 1742,
+      "last_activity_date": 1637088284,
+      "creation_date": 1311222583,
+      "last_edit_date": 1573223863,
+      "question_id": 6771258,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do",
+      "title": "What does &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt; do?"
+    },
+    {
+      "tags": [
+        "http",
+        "post",
+        "parameters",
+        "request",
+        "uri"
+      ],
+      "owner": {
+        "account_id": 42600,
+        "reputation": 37768,
+        "user_id": 124119,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/14570e9514625800a440f40fec36ed6e?s=256&d=identicon&r=PG",
+        "display_name": "Camilo Martin",
+        "link": "https://stackoverflow.com/users/124119/camilo-martin"
+      },
+      "is_answered": true,
+      "view_count": 2821353,
+      "protected_date": 1403560835,
+      "accepted_answer_id": 14551320,
+      "answer_count": 10,
+      "score": 1742,
+      "last_activity_date": 1715589517,
+      "creation_date": 1359314347,
+      "last_edit_date": 1481970099,
+      "question_id": 14551194,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/14551194/how-are-parameters-sent-in-an-http-post-request",
+      "title": "How are parameters sent in an HTTP POST request?"
+    },
+    {
+      "tags": [
+        "android",
+        "http",
+        "https"
+      ],
+      "owner": {
+        "account_id": 3439177,
+        "reputation": 17628,
+        "user_id": 2881509,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fcccd4203e8944bf6c8a6408fec6395a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "david.s",
+        "link": "https://stackoverflow.com/users/2881509/david-s"
+      },
+      "is_answered": true,
+      "view_count": 1584416,
+      "protected_date": 1543171745,
+      "accepted_answer_id": 50834600,
+      "answer_count": 40,
+      "score": 1740,
+      "last_activity_date": 1724846510,
+      "creation_date": 1504014486,
+      "question_id": 45940861,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted",
+      "title": "Android 8: Cleartext HTTP traffic not permitted"
+    },
+    {
+      "tags": [
+        "google-chrome",
+        "caching",
+        "browser",
+        "google-chrome-devtools",
+        "browser-cache"
+      ],
+      "owner": {
+        "account_id": 250054,
+        "reputation": 23280,
+        "user_id": 526518,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/6d1a74b05c371163b43398b61ec3f85f?s=256&d=identicon&r=PG",
+        "display_name": "tomermes",
+        "link": "https://stackoverflow.com/users/526518/tomermes"
+      },
+      "is_answered": true,
+      "view_count": 874220,
+      "protected_date": 1444036811,
+      "accepted_answer_id": 7000899,
+      "answer_count": 35,
+      "score": 1738,
+      "last_activity_date": 1696332151,
+      "creation_date": 1302995449,
+      "last_edit_date": 1480990929,
+      "question_id": 5690269,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development",
+      "title": "Disabling Chrome cache for website development"
+    },
+    {
+      "tags": [
+        "sql-server",
+        "varchar",
+        "nvarchar"
+      ],
+      "owner": {
+        "account_id": 290,
+        "reputation": 43928,
+        "user_id": 361,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/932a90d841204bed64a5165e591c5332?s=256&d=identicon&r=PG",
+        "display_name": "stimms",
+        "link": "https://stackoverflow.com/users/361/stimms"
+      },
+      "is_answered": true,
+      "view_count": 1601999,
+      "protected_date": 1387539948,
+      "accepted_answer_id": 147302,
+      "answer_count": 23,
+      "score": 1735,
+      "last_activity_date": 1727976221,
+      "creation_date": 1222544040,
+      "last_edit_date": 1316461024,
+      "question_id": 144283,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/144283/what-is-the-difference-between-varchar-and-nvarchar",
+      "title": "What is the difference between varchar and nvarchar?"
+    },
+    {
+      "tags": [
+        "java",
+        "stack-trace",
+        "tostring"
+      ],
+      "owner": {
+        "account_id": 6636,
+        "reputation": 229004,
+        "user_id": 11236,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/40656706454dcbdbcec125b85b01f1e4?s=256&d=identicon&r=PG",
+        "display_name": "ripper234",
+        "link": "https://stackoverflow.com/users/11236/ripper234"
+      },
+      "is_answered": true,
+      "view_count": 780755,
+      "protected_date": 1532630814,
+      "accepted_answer_id": 2109985,
+      "answer_count": 33,
+      "score": 1735,
+      "last_activity_date": 1713553406,
+      "creation_date": 1248003103,
+      "last_edit_date": 1457726677,
+      "question_id": 1149703,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1149703/how-can-i-convert-a-stack-trace-to-a-string",
+      "title": "How can I convert a stack trace to a string?"
+    },
+    {
+      "tags": [
+        "python",
+        "singleton",
+        "decorator",
+        "base-class",
+        "metaclass"
+      ],
+      "owner": {
+        "account_id": 330968,
+        "reputation": 21789,
+        "user_id": 655372,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/0c85ef5eb7678857e2a6b793dfe055a3?s=256&d=identicon&r=PG",
+        "display_name": "theheadofabroom",
+        "link": "https://stackoverflow.com/users/655372/theheadofabroom"
+      },
+      "is_answered": true,
+      "view_count": 769622,
+      "protected_date": 1424825743,
+      "accepted_answer_id": 73988733,
+      "answer_count": 44,
+      "score": 1734,
+      "last_activity_date": 1728331251,
+      "creation_date": 1311158877,
+      "last_edit_date": 1703694190,
+      "question_id": 6760685,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/6760685/what-is-the-best-way-of-implementing-singleton-in-python",
+      "title": "What is the best way of implementing singleton in Python"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "list",
+        "oop",
+        "inheritance"
+      ],
+      "owner": {
+        "account_id": 1035027,
+        "reputation": 26432,
+        "user_id": 1042555,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/93ad97cd6d264067b56ee1e08fa0b73d?s=256&d=identicon&r=PG",
+        "display_name": "Superbest",
+        "link": "https://stackoverflow.com/users/1042555/superbest"
+      },
+      "is_answered": true,
+      "view_count": 254894,
+      "protected_date": 1643639984,
+      "accepted_answer_id": 21694054,
+      "answer_count": 29,
+      "score": 1733,
+      "last_activity_date": 1699019368,
+      "creation_date": 1392087696,
+      "last_edit_date": 1543367913,
+      "question_id": 21692193,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/21692193/why-not-inherit-from-listt",
+      "title": "Why not inherit from List&lt;T&gt;?"
+    },
+    {
+      "tags": [
+        "java",
+        "foreach",
+        "syntactic-sugar"
+      ],
+      "owner": {
+        "account_id": 3517,
+        "reputation": 32141,
+        "user_id": 5074,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/5ed19e00dca9ce442f9d057337a5634f?s=256&d=identicon&r=PG",
+        "display_name": "Jay R.",
+        "link": "https://stackoverflow.com/users/5074/jay-r"
+      },
+      "is_answered": true,
+      "view_count": 2936272,
+      "protected_date": 1406360427,
+      "accepted_answer_id": 85206,
+      "answer_count": 29,
+      "score": 1727,
+      "last_activity_date": 1712332760,
+      "creation_date": 1221669872,
+      "last_edit_date": 1697225111,
+      "question_id": 85190,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/85190/in-detail-how-does-the-for-each-loop-work-in-java",
+      "title": "In detail, how does the &#39;for each&#39; loop work in Java?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "dom-manipulation"
+      ],
+      "owner": {
+        "account_id": 17640,
+        "reputation": 265936,
+        "user_id": 39677,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/77aa7bc1ace6e4b0b49a2102e4fa4059?s=256&d=identicon&r=PG",
+        "display_name": "Blankman",
+        "link": "https://stackoverflow.com/users/39677/blankman"
+      },
+      "is_answered": true,
+      "view_count": 2728486,
+      "protected_date": 1414103150,
+      "accepted_answer_id": 507157,
+      "answer_count": 28,
+      "score": 1727,
+      "last_activity_date": 1702452064,
+      "creation_date": 1233669240,
+      "last_edit_date": 1613433576,
+      "question_id": 507138,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/507138/how-to-add-a-class-to-a-given-element",
+      "title": "How to add a class to a given element?"
+    },
+    {
+      "tags": [
+        "python",
+        "performance",
+        "optimization",
+        "time-complexity",
+        "profiling"
+      ],
+      "owner": {
+        "account_id": 11097,
+        "reputation": 48692,
+        "user_id": 21245,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/77a3d97a2dab188e5a351bfbd4482912?s=256&d=identicon&r=PG",
+        "display_name": "Chris Lawlor",
+        "link": "https://stackoverflow.com/users/21245/chris-lawlor"
+      },
+      "is_answered": true,
+      "view_count": 893823,
+      "protected_date": 1533137601,
+      "accepted_answer_id": 582337,
+      "answer_count": 34,
+      "score": 1726,
+      "last_activity_date": 1721200327,
+      "creation_date": 1235491286,
+      "last_edit_date": 1649488840,
+      "question_id": 582336,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/582336/how-do-i-profile-a-python-script",
+      "title": "How do I profile a Python script?"
+    },
+    {
+      "tags": [
+        "underscore.js",
+        "javascript",
+        "lodash"
+      ],
+      "owner": {
+        "account_id": 10223,
+        "reputation": 83480,
+        "user_id": 19212,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/3aefe160da30caa0d7ea0f922f94c257?s=256&d=identicon&r=PG",
+        "display_name": "Brian M. Hunt",
+        "link": "https://stackoverflow.com/users/19212/brian-m-hunt"
+      },
+      "is_answered": true,
+      "view_count": 369262,
+      "closed_date": 1548026737,
+      "accepted_answer_id": 13898916,
+      "answer_count": 12,
+      "score": 1726,
+      "last_activity_date": 1665774481,
+      "creation_date": 1355072916,
+      "last_edit_date": 1665774481,
+      "question_id": 13789618,
+      "link": "https://stackoverflow.com/questions/13789618/differences-between-lodash-and-underscore-js",
+      "closed_reason": "Opinion-based",
+      "title": "Differences between Lodash and Underscore.js"
+    },
+    {
+      "tags": [
+        "oop",
+        "language-agnostic",
+        "abstract",
+        "virtual-functions"
+      ],
+      "owner": {
+        "account_id": 13567,
+        "reputation": 18542,
+        "user_id": 1409636,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.sstatic.net/jKfnB.png?s=256",
+        "display_name": "Moran Helman",
+        "link": "https://stackoverflow.com/users/1409636/moran-helman"
+      },
+      "is_answered": true,
+      "view_count": 655486,
+      "protected_date": 1545281472,
+      "accepted_answer_id": 391492,
+      "answer_count": 27,
+      "score": 1725,
+      "last_activity_date": 1680082883,
+      "creation_date": 1230127903,
+      "last_edit_date": 1620904098,
+      "question_id": 391483,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/391483/what-is-the-difference-between-an-abstract-method-and-a-virtual-method",
+      "title": "What is the difference between an abstract method and a virtual method?"
+    },
+    {
+      "tags": [
+        "php",
+        "html",
+        "css",
+        "pdf",
+        "pdf-generation"
+      ],
+      "owner": {
+        "account_id": 9867,
+        "reputation": 623947,
+        "user_id": 18393,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/2f364c2e36b52bc80296cbf23da8b231?s=256&d=identicon&r=PG",
+        "display_name": "cletus",
+        "link": "https://stackoverflow.com/users/18393/cletus"
+      },
+      "is_answered": true,
+      "view_count": 960042,
+      "protected_date": 1306029549,
+      "closed_date": 1476901512,
+      "accepted_answer_id": 434827,
+      "answer_count": 30,
+      "community_owned_date": 1386500962,
+      "score": 1724,
+      "last_activity_date": 1683150831,
+      "creation_date": 1230106460,
+      "last_edit_date": 1617628007,
+      "question_id": 391005,
+      "link": "https://stackoverflow.com/questions/391005/how-can-i-add-html-and-css-into-pdf",
+      "closed_reason": "Not suitable for this site",
+      "title": "How Can I add HTML And CSS Into PDF"
+    },
+    {
+      "tags": [
+        "javascript"
+      ],
+      "owner": {
+        "account_id": 360576,
+        "reputation": 61227,
+        "user_id": 702638,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/892f65bc0a8a0949ab88598de7d83cab?s=256&d=identicon&r=PG",
+        "display_name": "Hunter McMillen",
+        "link": "https://stackoverflow.com/users/702638/hunter-mcmillen"
+      },
+      "is_answered": true,
+      "view_count": 1442144,
+      "protected_date": 1678226831,
+      "closed_date": 1716472031,
+      "accepted_answer_id": 11508490,
+      "answer_count": 9,
+      "score": 1722,
+      "last_activity_date": 1695079706,
+      "creation_date": 1342455863,
+      "last_edit_date": 1538993438,
+      "question_id": 11508463,
+      "link": "https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable",
+      "closed_reason": "Duplicate",
+      "title": "JavaScript set object key by variable"
+    },
+    {
+      "tags": [
+        "git",
+        "git-branch",
+        "git-workflow",
+        "git-flow"
+      ],
+      "owner": {
+        "account_id": 680066,
+        "reputation": 17283,
+        "user_id": 528127,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/76ff6a90760b60f67025c81897210c87?s=256&d=identicon&r=PG",
+        "display_name": "revohsalf",
+        "link": "https://stackoverflow.com/users/528127/revohsalf"
+      },
+      "is_answered": true,
+      "view_count": 3268913,
+      "accepted_answer_id": 4470822,
+      "answer_count": 12,
+      "score": 1721,
+      "last_activity_date": 1706746851,
+      "creation_date": 1292589543,
+      "last_edit_date": 1668028429,
+      "question_id": 4470523,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4470523/create-a-branch-in-git-from-another-branch",
+      "title": "Create a branch in Git from another branch"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "functional-programming"
+      ],
+      "owner": {
+        "account_id": 15143,
+        "reputation": 488592,
+        "user_id": 31671,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://i.sstatic.net/xEJu4.jpg?s=256",
+        "display_name": "alex",
+        "link": "https://stackoverflow.com/users/31671/alex"
+      },
+      "is_answered": true,
+      "view_count": 1628142,
+      "protected_date": 1533987253,
+      "accepted_answer_id": 3895521,
+      "answer_count": 96,
+      "score": 1720,
+      "last_activity_date": 1729419691,
+      "creation_date": 1286591849,
+      "last_edit_date": 1575223538,
+      "question_id": 3895478,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3895478/does-javascript-have-a-method-like-range-to-generate-a-range-within-the-supp",
+      "title": "Does JavaScript have a method like &quot;range()&quot; to generate a range within the supplied bounds?"
+    },
+    {
+      "tags": [
+        "git",
+        "patch",
+        "format-patch"
+      ],
+      "owner": {
+        "account_id": 772127,
+        "reputation": 17235,
+        "user_id": 816159,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/747ed706cb222549b4eda87c5484b499?s=256&d=identicon&r=PG",
+        "display_name": "elle",
+        "link": "https://stackoverflow.com/users/816159/elle"
+      },
+      "is_answered": true,
+      "view_count": 1114765,
+      "answer_count": 12,
+      "score": 1720,
+      "last_activity_date": 1726836108,
+      "creation_date": 1310430955,
+      "last_edit_date": 1694291376,
+      "question_id": 6658313,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/6658313/how-can-i-generate-a-git-patch-for-a-specific-commit",
+      "title": "How can I generate a Git patch for a specific commit?"
+    },
+    {
+      "tags": [
+        "sql-server",
+        "t-sql"
+      ],
+      "owner": {
+        "account_id": 42289,
+        "reputation": 19082,
+        "user_id": 123170,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/908d3d0ff46cc24e74716393fc0da068?s=256&d=identicon&r=PG",
+        "display_name": "Eric",
+        "link": "https://stackoverflow.com/users/123170/eric"
+      },
+      "is_answered": true,
+      "view_count": 2271351,
+      "protected_date": 1449940020,
+      "accepted_answer_id": 7892349,
+      "answer_count": 28,
+      "score": 1719,
+      "last_activity_date": 1697100319,
+      "creation_date": 1319559274,
+      "last_edit_date": 1469826864,
+      "question_id": 7892334,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/7892334/get-size-of-all-tables-in-database",
+      "title": "Get size of all tables in database"
+    },
+    {
+      "tags": [
+        "python",
+        "switch-statement"
+      ],
+      "owner": {
+        "account_id": 3401,
+        "reputation": 17948,
+        "user_id": 4907,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/6379f08b10ce091d27f31743e01220d7?s=256&d=identicon&r=PG",
+        "display_name": "Michael Schneider",
+        "link": "https://stackoverflow.com/users/4907/michael-schneider"
+      },
+      "is_answered": true,
+      "view_count": 2315025,
+      "protected_date": 1439722689,
+      "accepted_answer_id": 60211,
+      "answer_count": 44,
+      "score": 1716,
+      "locked_date": 1558813002,
+      "last_activity_date": 1728990001,
+      "creation_date": 1221266190,
+      "last_edit_date": 1538155002,
+      "question_id": 60208,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python",
+      "title": "Replacements for switch statement in Python?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "sorting"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "TomHankers"
+      },
+      "is_answered": true,
+      "view_count": 1605458,
+      "protected_date": 1444035786,
+      "accepted_answer_id": 979289,
+      "answer_count": 27,
+      "community_owned_date": 1375689018,
+      "score": 1715,
+      "last_activity_date": 1720596075,
+      "creation_date": 1244692794,
+      "last_edit_date": 1574353048,
+      "question_id": 979256,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/979256/sorting-an-array-of-objects-by-property-values",
+      "title": "Sorting an array of objects by property values"
+    },
+    {
+      "tags": [
+        "git",
+        "commit",
+        "git-revert"
+      ],
+      "owner": {
+        "account_id": 43397,
+        "reputation": 45707,
+        "user_id": 126855,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://i.sstatic.net/XbCBl.jpg?s=256",
+        "display_name": "Bill",
+        "link": "https://stackoverflow.com/users/126855/bill"
+      },
+      "is_answered": true,
+      "view_count": 1277011,
+      "accepted_answer_id": 1470452,
+      "answer_count": 19,
+      "score": 1715,
+      "last_activity_date": 1719641043,
+      "creation_date": 1253665634,
+      "last_edit_date": 1652557620,
+      "question_id": 1463340,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1463340/how-can-i-revert-multiple-git-commits",
+      "title": "How can I revert multiple Git commits?"
+    },
+    {
+      "tags": [
+        "python",
+        "list",
+        "list-comprehension"
+      ],
+      "owner": {
+        "account_id": 99085,
+        "reputation": 93347,
+        "user_id": 267831,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/8c8bbcdad511dd10864846ac30af1b06?s=256&d=identicon&r=PG",
+        "display_name": "AP257",
+        "link": "https://stackoverflow.com/users/267831/ap257"
+      },
+      "is_answered": true,
+      "view_count": 2096670,
+      "protected_date": 1561856281,
+      "accepted_answer_id": 4260304,
+      "answer_count": 13,
+      "score": 1715,
+      "last_activity_date": 1715290952,
+      "creation_date": 1290542204,
+      "last_edit_date": 1702164879,
+      "question_id": 4260280,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4260280/if-else-in-a-list-comprehension",
+      "title": "if/else in a list comprehension"
+    },
+    {
+      "tags": [
+        "sql",
+        "union",
+        "union-all"
+      ],
+      "owner": {
+        "account_id": 2311,
+        "reputation": 54792,
+        "user_id": 3208,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/8092a4ad249c669a8e833fe49f4b4052?s=256&d=identicon&r=PG",
+        "display_name": "Brian G",
+        "link": "https://stackoverflow.com/users/3208/brian-g"
+      },
+      "is_answered": true,
+      "view_count": 1601001,
+      "protected_date": 1398454989,
+      "accepted_answer_id": 49928,
+      "answer_count": 19,
+      "score": 1714,
+      "last_activity_date": 1721506946,
+      "creation_date": 1220887173,
+      "last_edit_date": 1522047021,
+      "question_id": 49925,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/49925/what-is-the-difference-between-union-and-union-all",
+      "title": "What is the difference between UNION and UNION ALL?"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "constants",
+        "readonly"
+      ],
+      "owner": {
+        "account_id": 3385,
+        "reputation": 353578,
+        "user_id": 4883,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/a92525f049e20db8f4ce3d62f3f0bb2b?s=256&d=identicon&r=PG",
+        "display_name": "readonly",
+        "link": "https://stackoverflow.com/users/4883/readonly"
+      },
+      "is_answered": true,
+      "view_count": 526279,
+      "protected_date": 1403147822,
+      "accepted_answer_id": 56024,
+      "answer_count": 30,
+      "score": 1714,
+      "last_activity_date": 1669190763,
+      "creation_date": 1221120139,
+      "last_edit_date": 1569536645,
+      "question_id": 55984,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/55984/what-is-the-difference-between-const-and-readonly-in-c",
+      "title": "What is the difference between const and readonly in C#?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "comparison-operators",
+        "equality-operator",
+        "identity-operator"
+      ],
+      "owner": {
+        "account_id": 21277,
+        "reputation": 18275,
+        "user_id": 51570,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3e4e1dddbad4ecece8be45caf506825d?s=256&d=identicon&r=PG",
+        "display_name": "Shiva",
+        "link": "https://stackoverflow.com/users/51570/shiva"
+      },
+      "is_answered": true,
+      "view_count": 1046808,
+      "closed_date": 1573309859,
+      "accepted_answer_id": 523647,
+      "answer_count": 2,
+      "score": 1711,
+      "last_activity_date": 1622262684,
+      "creation_date": 1234007584,
+      "last_edit_date": 1573309869,
+      "question_id": 523643,
+      "link": "https://stackoverflow.com/questions/523643/difference-between-and-in-javascript",
+      "closed_reason": "Duplicate",
+      "title": "Difference between == and === in JavaScript"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "debugging",
+        "google-chrome-devtools"
+      ],
+      "owner": {
+        "account_id": 44123,
+        "reputation": 29063,
+        "user_id": 129322,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/a6d98536d90d2987d40a6abe731805ca?s=256&d=identicon&r=PG",
+        "display_name": "Fabian Jakobs",
+        "link": "https://stackoverflow.com/users/129322/fabian-jakobs"
+      },
+      "is_answered": true,
+      "view_count": 554914,
+      "protected_date": 1406809277,
+      "accepted_answer_id": 2536734,
+      "answer_count": 42,
+      "score": 1711,
+      "last_activity_date": 1687717741,
+      "creation_date": 1260917407,
+      "last_edit_date": 1450606743,
+      "question_id": 1911015,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1911015/how-do-i-debug-node-js-applications",
+      "title": "How do I debug Node.js applications?"
+    },
+    {
+      "tags": [
+        "git",
+        "delete-file"
+      ],
+      "owner": {
+        "account_id": 102030,
+        "reputation": 33524,
+        "user_id": 274117,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/068caa36478a8ffcff64b0b1cf573cd9?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Sahat Yalkabov",
+        "link": "https://stackoverflow.com/users/274117/sahat-yalkabov"
+      },
+      "is_answered": true,
+      "view_count": 2089948,
+      "protected_date": 1503788302,
+      "accepted_answer_id": 6313301,
+      "answer_count": 16,
+      "score": 1709,
+      "last_activity_date": 1669103214,
+      "creation_date": 1307750093,
+      "last_edit_date": 1662483528,
+      "question_id": 6313126,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/6313126/how-do-i-remove-a-directory-from-a-git-repository",
+      "title": "How do I remove a directory from a Git repository?"
+    },
+    {
+      "tags": [
+        "favicon"
+      ],
+      "owner": {
+        "account_id": 12256,
+        "reputation": 80531,
+        "user_id": 24039,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://www.gravatar.com/avatar/56e7993be670c363354b696cff311172?s=256&d=identicon&r=PG",
+        "display_name": "Simon",
+        "link": "https://stackoverflow.com/users/24039/simon"
+      },
+      "is_answered": true,
+      "view_count": 867412,
+      "protected_date": 1425348795,
+      "accepted_answer_id": 7116701,
+      "answer_count": 37,
+      "score": 1707,
+      "last_activity_date": 1718068649,
+      "creation_date": 1265389743,
+      "last_edit_date": 1535938782,
+      "question_id": 2208933,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2208933/how-do-i-force-a-favicon-refresh",
+      "title": "How do I force a favicon refresh?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "null",
+        "undefined"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user605334"
+      },
+      "is_answered": true,
+      "view_count": 710761,
+      "protected_date": 1435122190,
+      "accepted_answer_id": 5076962,
+      "answer_count": 39,
+      "score": 1704,
+      "last_activity_date": 1720218665,
+      "creation_date": 1298370610,
+      "last_edit_date": 1720218665,
+      "question_id": 5076944,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5076944/what-is-the-difference-between-null-and-undefined-in-javascript",
+      "title": "What is the difference between null and undefined in JavaScript?"
+    },
+    {
+      "tags": [
+        "python",
+        "class",
+        "oop",
+        "object",
+        "inheritance"
+      ],
+      "owner": {
+        "account_id": 148102,
+        "reputation": 17921,
+        "user_id": 359640,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/UaVZu.png?s=256",
+        "display_name": "tjvr",
+        "link": "https://stackoverflow.com/users/359640/tjvr"
+      },
+      "is_answered": true,
+      "view_count": 453875,
+      "protected_date": 1557129901,
+      "accepted_answer_id": 45062077,
+      "answer_count": 6,
+      "score": 1703,
+      "last_activity_date": 1649488903,
+      "creation_date": 1288016126,
+      "last_edit_date": 1649488903,
+      "question_id": 4015417,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4015417/why-do-python-classes-inherit-object",
+      "title": "Why do Python classes inherit object?"
+    },
+    {
+      "tags": [
+        "php",
+        "string"
+      ],
+      "owner": {
+        "account_id": 20530,
+        "reputation": 266439,
+        "user_id": 49153,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/833df8cee775eea743cb1172dfcd3809?s=256&d=identicon&r=PG",
+        "display_name": "Ali",
+        "link": "https://stackoverflow.com/users/49153/ali"
+      },
+      "is_answered": true,
+      "view_count": 998466,
+      "protected_date": 1362053845,
+      "accepted_answer_id": 834355,
+      "answer_count": 37,
+      "score": 1701,
+      "last_activity_date": 1722528082,
+      "creation_date": 1241698467,
+      "last_edit_date": 1517675497,
+      "question_id": 834303,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/834303/startswith-and-endswith-functions-in-php",
+      "title": "startsWith() and endsWith() functions in PHP"
+    },
+    {
+      "tags": [
+        "haskell",
+        "functional-programming",
+        "monads",
+        "terminology"
+      ],
+      "owner": {
+        "account_id": 2434,
+        "reputation": 37719,
+        "user_id": 3394,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/e7bb5c2cbba09b8430f4faa32adf7a56?s=256&d=identicon&r=PG",
+        "display_name": "ljs",
+        "link": "https://stackoverflow.com/users/3394/ljs"
+      },
+      "is_answered": true,
+      "view_count": 336958,
+      "protected_date": 1401329841,
+      "answer_count": 48,
+      "community_owned_date": 1334921206,
+      "score": 1699,
+      "last_activity_date": 1700024606,
+      "creation_date": 1220570804,
+      "last_edit_date": 1440781519,
+      "question_id": 44965,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/44965/what-is-a-monad",
+      "title": "What is a monad?"
+    },
+    {
+      "tags": [
+        "c++",
+        "c++11",
+        "expression",
+        "c++-faq",
+        "value-categories"
+      ],
+      "owner": {
+        "account_id": 50706,
+        "reputation": 354109,
+        "user_id": 151292,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.sstatic.net/AQNZx.jpg?s=256",
+        "display_name": "James McNellis",
+        "link": "https://stackoverflow.com/users/151292/james-mcnellis"
+      },
+      "is_answered": true,
+      "view_count": 276776,
+      "protected_date": 1563541202,
+      "answer_count": 16,
+      "score": 1694,
+      "last_activity_date": 1719587265,
+      "creation_date": 1283180561,
+      "last_edit_date": 1696332565,
+      "question_id": 3601602,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues",
+      "title": "What are rvalues, lvalues, xvalues, glvalues, and prvalues?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "account_id": 71884,
+        "reputation": 53270,
+        "user_id": 207752,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/b8e8bce142e9137b585b3aa712128ca5?s=256&d=identicon&r=PG",
+        "display_name": "fearofawhackplanet",
+        "link": "https://stackoverflow.com/users/207752/fearofawhackplanet"
+      },
+      "is_answered": true,
+      "view_count": 2724327,
+      "protected_date": 1563636942,
+      "accepted_answer_id": 3239600,
+      "answer_count": 20,
+      "score": 1690,
+      "last_activity_date": 1660719547,
+      "creation_date": 1279041110,
+      "last_edit_date": 1494857793,
+      "question_id": 3239598,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/3239598/how-can-i-get-the-id-of-an-element-using-jquery",
+      "title": "How can I get the ID of an element using jQuery?"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "git-log"
+      ],
+      "owner": {
+        "account_id": 34362,
+        "reputation": 147294,
+        "user_id": 97101,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.sstatic.net/Zqls7PmS.jpg?s=256",
+        "display_name": "markdorison",
+        "link": "https://stackoverflow.com/users/97101/markdorison"
+      },
+      "is_answered": true,
+      "view_count": 859958,
+      "accepted_answer_id": 4262780,
+      "answer_count": 16,
+      "score": 1690,
+      "last_activity_date": 1656947603,
+      "creation_date": 1290540702,
+      "last_edit_date": 1477576308,
+      "question_id": 4259996,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/4259996/how-can-i-view-a-git-log-of-just-one-users-commits",
+      "title": "How can I view a git log of just one user&#39;s commits?"
+    },
+    {
+      "tags": [
+        "python",
+        "math",
+        "nan"
+      ],
+      "owner": {
+        "account_id": 29714,
+        "reputation": 20741,
+        "user_id": 80500,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/97316c9a9172ab6eeb19c77dd4bf0c95?s=256&d=identicon&r=PG",
+        "display_name": "Jack Ha",
+        "link": "https://stackoverflow.com/users/80500/jack-ha"
+      },
+      "is_answered": true,
+      "view_count": 3006198,
+      "protected_date": 1531806256,
+      "accepted_answer_id": 944733,
+      "answer_count": 20,
+      "score": 1683,
+      "last_activity_date": 1715968781,
+      "creation_date": 1244035194,
+      "last_edit_date": 1689291004,
+      "question_id": 944700,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/944700/how-to-check-for-nan-values",
+      "title": "How to check for NaN values"
+    },
+    {
+      "tags": [
+        "http",
+        "post",
+        "http-headers"
+      ],
+      "owner": {
+        "account_id": 20608,
+        "reputation": 29856,
+        "user_id": 49407,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/ac1e94537ee54758bb954a6d1306be2a?s=256&d=identicon&r=PG",
+        "display_name": "max",
+        "link": "https://stackoverflow.com/users/49407/max"
+      },
+      "is_answered": true,
+      "view_count": 1965244,
+      "protected_date": 1433945318,
+      "accepted_answer_id": 4073451,
+      "answer_count": 7,
+      "score": 1683,
+      "last_activity_date": 1656649253,
+      "creation_date": 1287918721,
+      "question_id": 4007969,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/4007969/application-x-www-form-urlencoded-or-multipart-form-data",
+      "title": "application/x-www-form-urlencoded or multipart/form-data?"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "git-reset"
+      ],
+      "owner": {
+        "account_id": 70,
+        "reputation": 65270,
+        "user_id": 85,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/5c7275ea283346eae2128a7b47587d79?s=256&d=identicon&r=PG",
+        "display_name": "Paul Wicks",
+        "link": "https://stackoverflow.com/users/85/paul-wicks"
+      },
+      "is_answered": true,
+      "view_count": 906611,
+      "protected_date": 1553714533,
+      "accepted_answer_id": 21778,
+      "answer_count": 21,
+      "score": 1681,
+      "last_activity_date": 1719829278,
+      "creation_date": 1218151371,
+      "last_edit_date": 1419090083,
+      "question_id": 5473,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/5473/how-can-i-undo-git-reset-hard-head1",
+      "title": "How can I undo git reset --hard HEAD~1?"
+    },
+    {
+      "tags": [
+        "git",
+        "git-init"
+      ],
+      "owner": {
+        "account_id": 37042,
+        "reputation": 17359,
+        "user_id": 105813,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://www.gravatar.com/avatar/0efa6190e89467ac231437909e0d6196?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "user105813",
+        "link": "https://stackoverflow.com/users/105813/user105813"
+      },
+      "is_answered": true,
+      "view_count": 1855331,
+      "protected_date": 1585961147,
+      "accepted_answer_id": 1213446,
+      "answer_count": 17,
+      "score": 1681,
+      "last_activity_date": 1728573625,
+      "creation_date": 1249056380,
+      "last_edit_date": 1473806936,
+      "question_id": 1213430,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1213430/how-to-fully-delete-a-git-repository-created-with-init",
+      "title": "How to fully delete a git repository created with init?"
+    },
+    {
+      "tags": [
+        ".net",
+        "algorithm",
+        "hashcode",
+        "gethashcode"
+      ],
+      "owner": {
+        "account_id": 2982,
+        "reputation": 49479,
+        "user_id": 4227,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/db3dbf59a3772da9555829eefe237751?s=256&d=identicon&r=PG",
+        "display_name": "bitbonk",
+        "link": "https://stackoverflow.com/users/4227/bitbonk"
+      },
+      "is_answered": true,
+      "view_count": 302176,
+      "protected_date": 1332453804,
+      "accepted_answer_id": 263416,
+      "answer_count": 23,
+      "score": 1680,
+      "last_activity_date": 1724974854,
+      "creation_date": 1225831999,
+      "last_edit_date": 1568829312,
+      "question_id": 263400,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/263400/what-is-the-best-algorithm-for-overriding-gethashcode",
+      "title": "What is the best algorithm for overriding GetHashCode?"
+    },
+    {
+      "tags": [
+        "python",
+        "string"
+      ],
+      "owner": {
+        "account_id": 5755,
+        "reputation": 39993,
+        "user_id": 9435,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/cb70e8f4f71602cc39528b6e75c64d89?s=256&d=identicon&r=PG",
+        "display_name": "oneself",
+        "link": "https://stackoverflow.com/users/9435/oneself"
+      },
+      "is_answered": true,
+      "view_count": 1646280,
+      "protected_date": 1365668977,
+      "accepted_answer_id": 931095,
+      "answer_count": 14,
+      "score": 1680,
+      "last_activity_date": 1703315488,
+      "creation_date": 1243735810,
+      "last_edit_date": 1703315488,
+      "question_id": 931092,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/931092/how-do-i-reverse-a-string-in-python",
+      "title": "How do I reverse a string in Python?"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib",
+        "seaborn",
+        "legend"
+      ],
+      "owner": {
+        "account_id": 696056,
+        "reputation": 16819,
+        "user_id": 576840,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/2e28a4d2652bcfca0b2802777b6ec944?s=256&d=identicon&r=PG",
+        "display_name": "pottigopi",
+        "link": "https://stackoverflow.com/users/576840/pottigopi"
+      },
+      "is_answered": true,
+      "view_count": 1990342,
+      "protected_date": 1530966982,
+      "accepted_answer_id": 4700674,
+      "answer_count": 18,
+      "score": 1680,
+      "last_activity_date": 1727760283,
+      "creation_date": 1295107803,
+      "last_edit_date": 1676413350,
+      "question_id": 4700614,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4700614/how-to-put-the-legend-outside-the-plot",
+      "title": "How to put the legend outside the plot"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "alignment",
+        "vertical-alignment",
+        "centering"
+      ],
+      "owner": {
+        "account_id": 20592,
+        "reputation": 19959,
+        "user_id": 49380,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://i.sstatic.net/wHoor.png?s=256",
+        "display_name": "Burak Erdem",
+        "link": "https://stackoverflow.com/users/49380/burak-erdem"
+      },
+      "is_answered": true,
+      "view_count": 1889023,
+      "protected_date": 1394932210,
+      "accepted_answer_id": 6182661,
+      "answer_count": 50,
+      "score": 1677,
+      "last_activity_date": 1709496094,
+      "creation_date": 1230469036,
+      "last_edit_date": 1649713733,
+      "question_id": 396145,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/396145/how-can-i-vertically-center-a-div-element-for-all-browsers-using-css",
+      "title": "How can I vertically center a div element for all browsers using CSS?"
+    },
+    {
+      "tags": [
+        "git",
+        "push",
+        "commit"
+      ],
+      "owner": {
+        "account_id": 94082,
+        "reputation": 17452,
+        "user_id": 257065,
+        "user_type": "registered",
+        "accept_rate": 48,
+        "profile_image": "https://www.gravatar.com/avatar/241be4b2d05d2595322bc3e2e2bca839?s=256&d=identicon&r=PG",
+        "display_name": "K_U",
+        "link": "https://stackoverflow.com/users/257065/k-u"
+      },
+      "is_answered": true,
+      "view_count": 1233910,
+      "accepted_answer_id": 8981216,
+      "answer_count": 21,
+      "score": 1677,
+      "last_activity_date": 1719484487,
+      "creation_date": 1327370305,
+      "last_edit_date": 1434528893,
+      "question_id": 8981194,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote",
+      "title": "Changing git commit message after push (given that no one pulled from remote)"
+    },
+    {
+      "tags": [
+        "c++",
+        "performance",
+        "visual-studio-2010",
+        "compilation",
+        "floating-point"
+      ],
+      "owner": {
+        "account_id": 1254438,
+        "reputation": 14981,
+        "user_id": 1214219,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/108e0f542061720793bffdfed4c25458?s=256&d=identicon&r=PG",
+        "display_name": "GlassFish",
+        "link": "https://stackoverflow.com/users/1214219/glassfish"
+      },
+      "is_answered": true,
+      "view_count": 164922,
+      "protected_date": 1545281174,
+      "accepted_answer_id": 9314926,
+      "answer_count": 7,
+      "score": 1677,
+      "last_activity_date": 1678779703,
+      "creation_date": 1329407919,
+      "last_edit_date": 1575127893,
+      "question_id": 9314534,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/9314534/why-does-changing-0-1f-to-0-slow-down-performance-by-10x",
+      "title": "Why does changing 0.1f to 0 slow down performance by 10x?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "events",
+        "unobtrusive-javascript"
+      ],
+      "owner": {
+        "account_id": 13661,
+        "reputation": 99018,
+        "user_id": 27580,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/f198305bbd04f5fd7c49051dd6e77782?s=256&d=identicon&r=PG",
+        "display_name": "Eli",
+        "link": "https://stackoverflow.com/users/27580/eli"
+      },
+      "is_answered": true,
+      "view_count": 1093585,
+      "protected_date": 1395655750,
+      "accepted_answer_id": 1207393,
+      "answer_count": 23,
+      "score": 1674,
+      "locked_date": 1529684683,
+      "last_activity_date": 1628153283,
+      "creation_date": 1224026719,
+      "last_edit_date": 1480674460,
+      "question_id": 203198,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/203198/event-binding-on-dynamically-created-elements",
+      "title": "Event binding on dynamically created elements?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "date",
+        "time",
+        "time-format"
+      ],
+      "owner": {
+        "account_id": 20752,
+        "reputation": 30528,
+        "user_id": 49887,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/6d1aecf834e6b735d393f503d502f1aa?s=256&d=identicon&r=PG",
+        "display_name": "roflwaffle",
+        "link": "https://stackoverflow.com/users/49887/roflwaffle"
+      },
+      "is_answered": true,
+      "view_count": 2605174,
+      "protected_date": 1345201215,
+      "accepted_answer_id": 847196,
+      "answer_count": 35,
+      "score": 1673,
+      "last_activity_date": 1707135200,
+      "creation_date": 1242030208,
+      "last_edit_date": 1621917810,
+      "question_id": 847185,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/847185/convert-a-unix-timestamp-to-time-in-javascript",
+      "title": "Convert a Unix timestamp to time in JavaScript"
+    },
+    {
+      "tags": [
+        "postgresql"
+      ],
+      "owner": {
+        "account_id": 99085,
+        "reputation": 93347,
+        "user_id": 267831,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/8c8bbcdad511dd10864846ac30af1b06?s=256&d=identicon&r=PG",
+        "display_name": "AP257",
+        "link": "https://stackoverflow.com/users/267831/ap257"
+      },
+      "is_answered": true,
+      "view_count": 1440093,
+      "protected_date": 1624128434,
+      "answer_count": 34,
+      "score": 1672,
+      "last_activity_date": 1729507396,
+      "creation_date": 1280013845,
+      "last_edit_date": 1549551461,
+      "question_id": 3327312,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3327312/how-can-i-drop-all-the-tables-in-a-postgresql-database",
+      "title": "How can I drop all the tables in a PostgreSQL database?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "aggregate-functions",
+        "greatest-n-per-group",
+        "groupwise-maximum"
+      ],
+      "owner": {
+        "account_id": 25788,
+        "reputation": 30132,
+        "user_id": 66580,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.sstatic.net/6ySFl.png?s=256",
+        "display_name": "Majid Fouladpour",
+        "link": "https://stackoverflow.com/users/66580/majid-fouladpour"
+      },
+      "is_answered": true,
+      "view_count": 2146888,
+      "protected_date": 1444036919,
+      "closed_date": 1553041150,
+      "accepted_answer_id": 7745635,
+      "answer_count": 27,
+      "score": 1671,
+      "last_activity_date": 1724952860,
+      "creation_date": 1318448527,
+      "last_edit_date": 1633339836,
+      "question_id": 7745609,
+      "link": "https://stackoverflow.com/questions/7745609/sql-select-only-rows-with-max-value-on-a-column",
+      "closed_reason": "Duplicate",
+      "title": "SQL select only rows with max value on a column"
+    },
+    {
+      "tags": [
+        "python",
+        "macos",
+        "pip",
+        "installation"
+      ],
+      "owner": {
+        "account_id": 2933789,
+        "reputation": 16751,
+        "user_id": 2513263,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3ce3bddca4b9cbdae44ade5945c4f959?s=256&d=identicon&r=PG",
+        "display_name": "The System",
+        "link": "https://stackoverflow.com/users/2513263/the-system"
+      },
+      "is_answered": true,
+      "view_count": 3009275,
+      "protected_date": 1429812198,
+      "answer_count": 21,
+      "score": 1671,
+      "locked_date": 1525910899,
+      "last_activity_date": 1726994839,
+      "creation_date": 1372063470,
+      "last_edit_date": 1491668487,
+      "question_id": 17271319,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/17271319/how-do-i-install-pip-on-macos-or-os-x",
+      "title": "How do I install pip on macOS or OS X?"
+    },
+    {
+      "tags": [
+        "java",
+        "dictionary",
+        "collections",
+        "initialization"
+      ],
+      "owner": {
+        "account_id": 317806,
+        "reputation": 17405,
+        "user_id": 634682,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/3dac2305819692d324865b7039f7f9fe?s=256&d=identicon&r=PG",
+        "display_name": "jens",
+        "link": "https://stackoverflow.com/users/634682/jens"
+      },
+      "is_answered": true,
+      "view_count": 2026757,
+      "accepted_answer_id": 6802502,
+      "answer_count": 23,
+      "score": 1667,
+      "last_activity_date": 1728762652,
+      "creation_date": 1311446433,
+      "last_edit_date": 1522695073,
+      "question_id": 6802483,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/6802483/how-to-directly-initialize-a-hashmap-in-a-literal-way",
+      "title": "How to directly initialize a HashMap (in a literal way)?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "typescript"
+      ],
+      "owner": {
+        "account_id": 1785535,
+        "reputation": 25185,
+        "user_id": 1627079,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/1960a1a40295b3057f6ed54e36f175f9?s=256&d=identicon&r=PG",
+        "display_name": "Paul0515",
+        "link": "https://stackoverflow.com/users/1627079/paul0515"
+      },
+      "is_answered": true,
+      "view_count": 2652294,
+      "protected_date": 1561014989,
+      "accepted_answer_id": 14668510,
+      "answer_count": 22,
+      "score": 1667,
+      "last_activity_date": 1725773245,
+      "creation_date": 1359848058,
+      "last_edit_date": 1721076821,
+      "question_id": 14667713,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/14667713/how-to-convert-a-string-to-number-in-typescript",
+      "title": "How to convert a string to number in TypeScript?"
+    },
+    {
+      "tags": [
+        "datetime",
+        "math",
+        "language-agnostic"
+      ],
+      "owner": {
+        "account_id": 1557,
+        "reputation": 58515,
+        "user_id": 2084,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/6ee555fc9a5128f16bde5ad00d735319?s=256&d=identicon&r=PG",
+        "display_name": "Ian Nelson",
+        "link": "https://stackoverflow.com/users/2084/ian-nelson"
+      },
+      "is_answered": true,
+      "view_count": 679476,
+      "protected_date": 1430021552,
+      "accepted_answer_id": 325964,
+      "answer_count": 40,
+      "score": 1666,
+      "last_activity_date": 1695512441,
+      "creation_date": 1227883715,
+      "last_edit_date": 1422497254,
+      "question_id": 325933,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/325933/determine-whether-two-date-ranges-overlap",
+      "title": "Determine Whether Two Date Ranges Overlap"
+    },
+    {
+      "tags": [
+        "c#",
+        "overriding",
+        "hashcode"
+      ],
+      "owner": {
+        "account_id": 1798,
+        "reputation": 73101,
+        "user_id": 2469,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/200cc24cc0555d1c6bd14b5a7fe8f852?s=256&d=identicon&r=PG",
+        "display_name": "David Basarab",
+        "link": "https://stackoverflow.com/users/2469/david-basarab"
+      },
+      "is_answered": true,
+      "view_count": 478111,
+      "protected_date": 1432182052,
+      "accepted_answer_id": 371348,
+      "answer_count": 16,
+      "score": 1665,
+      "last_activity_date": 1716044943,
+      "creation_date": 1229434878,
+      "last_edit_date": 1562254622,
+      "question_id": 371328,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/371328/why-is-it-important-to-override-gethashcode-when-equals-method-is-overridden",
+      "title": "Why is it important to override GetHashCode when Equals method is overridden?"
+    },
+    {
+      "tags": [
+        "c++",
+        "polymorphism",
+        "virtual-functions"
+      ],
+      "owner": {
+        "account_id": 57536,
+        "reputation": 90803,
+        "user_id": 172350,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/35d28880fc9719ab3ee24270b5386eb5?s=256&d=identicon&r=PG",
+        "display_name": "Jake Wilson",
+        "link": "https://stackoverflow.com/users/172350/jake-wilson"
+      },
+      "is_answered": true,
+      "view_count": 712783,
+      "protected_date": 1529957572,
+      "accepted_answer_id": 2391781,
+      "answer_count": 28,
+      "score": 1665,
+      "last_activity_date": 1694257082,
+      "creation_date": 1267859435,
+      "last_edit_date": 1694250150,
+      "question_id": 2391679,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2391679/why-do-we-need-virtual-functions-in-c",
+      "title": "Why do we need virtual functions in C++?"
+    },
+    {
+      "tags": [
+        "java",
+        "maven",
+        "dependencies",
+        "libraries",
+        "mvn-repo"
+      ],
+      "owner": {
+        "account_id": 178608,
+        "reputation": 19427,
+        "user_id": 410693,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://i.sstatic.net/QUapZ.png?s=256",
+        "display_name": "Praneel PIDIKITI",
+        "link": "https://stackoverflow.com/users/410693/praneel-pidikiti"
+      },
+      "is_answered": true,
+      "view_count": 1782601,
+      "protected_date": 1540539685,
+      "accepted_answer_id": 4955695,
+      "answer_count": 35,
+      "score": 1665,
+      "last_activity_date": 1728652954,
+      "creation_date": 1297332206,
+      "last_edit_date": 1579625418,
+      "question_id": 4955635,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4955635/how-to-add-local-jar-files-to-a-maven-project",
+      "title": "How to add local jar files to a Maven project?"
+    },
+    {
+      "tags": [
+        "html",
+        "meta-tags",
+        "doctype"
+      ],
+      "owner": {
+        "account_id": 153018,
+        "reputation": 34045,
+        "user_id": 367985,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/761edb9c3cf7a0a643e73ef40666a1f7?s=256&d=identicon&r=PG",
+        "display_name": "CuriousMind",
+        "link": "https://stackoverflow.com/users/367985/curiousmind"
+      },
+      "is_answered": true,
+      "view_count": 1207014,
+      "protected_date": 1371922180,
+      "accepted_answer_id": 4696517,
+      "answer_count": 8,
+      "score": 1664,
+      "last_activity_date": 1724178625,
+      "creation_date": 1295042807,
+      "last_edit_date": 1446196219,
+      "question_id": 4696499,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/4696499/meta-charset-utf-8-vs-meta-http-equiv-content-type",
+      "title": "&lt;meta charset=&quot;utf-8&quot;&gt; vs &lt;meta http-equiv=&quot;Content-Type&quot;&gt;"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "git-push"
+      ],
+      "owner": {
+        "account_id": 132516,
+        "reputation": 72092,
+        "user_id": 333255,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/62b31c477800ec6ce1fd133f885a8e6e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Marko",
+        "link": "https://stackoverflow.com/users/333255/marko"
+      },
+      "is_answered": true,
+      "view_count": 259957,
+      "protected_date": 1436187442,
+      "accepted_answer_id": 13148313,
+      "answer_count": 5,
+      "score": 1664,
+      "last_activity_date": 1600176620,
+      "creation_date": 1351633696,
+      "last_edit_date": 1582728305,
+      "question_id": 13148066,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/13148066/warning-push-default-is-unset-its-implicit-value-is-changing-in-git-2-0",
+      "title": "Warning: push.default is unset; its implicit value is changing in Git 2.0"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "sorting",
+        "indexing"
+      ],
+      "owner": {
+        "account_id": 921423,
+        "reputation": 16845,
+        "user_id": 1772165,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6f3cb304671ae5b6ea04dfe0e7948651?s=256&d=identicon&r=PG",
+        "display_name": "Timmie",
+        "link": "https://stackoverflow.com/users/1772165/timmie"
+      },
+      "is_answered": true,
+      "view_count": 2599488,
+      "protected_date": 1519817800,
+      "answer_count": 43,
+      "score": 1664,
+      "last_activity_date": 1702381586,
+      "creation_date": 1351635779,
+      "last_edit_date": 1701900581,
+      "question_id": 13148429,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns",
+      "title": "How to change the order of DataFrame columns?"
+    },
+    {
+      "tags": [
+        "docker"
+      ],
+      "owner": {
+        "account_id": 3210808,
+        "reputation": 19033,
+        "user_id": 2710873,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://i.sstatic.net/pBhk3Luf.jpg?s=256",
+        "display_name": "Pavan Gupta",
+        "link": "https://stackoverflow.com/users/2710873/pavan-gupta"
+      },
+      "is_answered": true,
+      "view_count": 1586166,
+      "accepted_answer_id": 35595021,
+      "answer_count": 10,
+      "score": 1664,
+      "last_activity_date": 1720089958,
+      "creation_date": 1456295868,
+      "last_edit_date": 1639645384,
+      "question_id": 35594987,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/35594987/how-to-force-docker-for-a-clean-build-of-an-image",
+      "title": "How to force Docker for a clean build of an image"
+    },
+    {
+      "tags": [
+        "java",
+        "field",
+        "transient"
+      ],
+      "owner": {
+        "account_id": 39046,
+        "reputation": 16918,
+        "user_id": 112532,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9db5833f02d63552977138795c00ebea?s=256&d=identicon&r=PG",
+        "display_name": "Animesh",
+        "link": "https://stackoverflow.com/users/112532/animesh"
+      },
+      "is_answered": true,
+      "view_count": 798108,
+      "protected_date": 1397130703,
+      "accepted_answer_id": 910522,
+      "answer_count": 15,
+      "score": 1663,
+      "last_activity_date": 1667353147,
+      "creation_date": 1243339896,
+      "last_edit_date": 1462536312,
+      "question_id": 910374,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/910374/why-does-java-have-transient-fields",
+      "title": "Why does Java have transient fields?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "keyword",
+        "ecmascript-5"
+      ],
+      "owner": {
+        "account_id": 39779,
+        "reputation": 77163,
+        "user_id": 114916,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/566bb1dcfcfe99bc2d3babc14a0417b5?s=256&d=identicon&r=PG",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/114916/alex"
+      },
+      "is_answered": true,
+      "view_count": 332962,
+      "protected_date": 1400709182,
+      "accepted_answer_id": 1470494,
+      "answer_count": 19,
+      "score": 1663,
+      "last_activity_date": 1629904440,
+      "creation_date": 1253782444,
+      "last_edit_date": 1518028003,
+      "question_id": 1470488,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1470488/what-is-the-purpose-of-the-var-keyword-and-when-should-i-use-it-or-omit-it",
+      "title": "What is the purpose of the var keyword and when should I use it (or omit it)?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "owner": {
+        "account_id": 13104,
+        "reputation": 21072,
+        "user_id": 26140,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/91e2fe0b37bed4d97f70d57297b8a0ab?s=256&d=identicon&r=PG",
+        "display_name": "Tony Peterson",
+        "link": "https://stackoverflow.com/users/26140/tony-peterson"
+      },
+      "is_answered": true,
+      "view_count": 945456,
+      "accepted_answer_id": 497108,
+      "answer_count": 22,
+      "score": 1662,
+      "last_activity_date": 1728952973,
+      "creation_date": 1233346891,
+      "last_edit_date": 1536834329,
+      "question_id": 497094,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/497094/how-do-i-find-out-which-dom-element-has-the-focus",
+      "title": "How do I find out which DOM element has the focus?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "t-sql",
+        "sql-server-2005",
+        "sql-update"
+      ],
+      "owner": {
+        "account_id": 35098,
+        "reputation": 21037,
+        "user_id": 99297,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/7f8d2d0094ffe98f841e0b4bec8a5cc5?s=256&d=identicon&r=PG",
+        "display_name": "Ant Swift",
+        "link": "https://stackoverflow.com/users/99297/ant-swift"
+      },
+      "is_answered": true,
+      "view_count": 2274214,
+      "protected_date": 1401294911,
+      "accepted_answer_id": 1293347,
+      "answer_count": 19,
+      "score": 1661,
+      "last_activity_date": 1698387134,
+      "creation_date": 1250595607,
+      "last_edit_date": 1586772315,
+      "question_id": 1293330,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1293330/how-can-i-do-an-update-statement-with-join-in-sql-server",
+      "title": "How can I do an UPDATE statement with JOIN in SQL Server?"
+    },
+    {
+      "tags": [
+        "c#",
+        "arrays",
+        "hex"
+      ],
+      "owner": {
+        "account_id": 10379,
+        "reputation": 4662,
+        "user_id": 19582,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/050df708a1488201b43c435ccdc1fe00?s=256&d=identicon&r=PG",
+        "display_name": "alextansc",
+        "link": "https://stackoverflow.com/users/19582/alextansc"
+      },
+      "is_answered": true,
+      "view_count": 1217886,
+      "protected_date": 1423217035,
+      "accepted_answer_id": 311179,
+      "answer_count": 53,
+      "community_owned_date": 1382608408,
+      "score": 1657,
+      "last_activity_date": 1687423853,
+      "creation_date": 1227348193,
+      "last_edit_date": 1662715213,
+      "question_id": 311165,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/311165/how-do-you-convert-a-byte-array-to-a-hexadecimal-string-and-vice-versa",
+      "title": "How do you convert a byte array to a hexadecimal string, and vice versa?"
+    },
+    {
+      "tags": [
+        "c#",
+        "generics",
+        "list",
+        "sorting"
+      ],
+      "owner": {
+        "account_id": 17899,
+        "reputation": 218204,
+        "user_id": 40521,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/8faa5e8a474933dd207c86fb886a7f28?s=256&d=identicon&r=PG",
+        "display_name": "Shyju",
+        "link": "https://stackoverflow.com/users/40521/shyju"
+      },
+      "is_answered": true,
+      "view_count": 1864021,
+      "protected_date": 1391285235,
+      "accepted_answer_id": 3309230,
+      "answer_count": 24,
+      "score": 1657,
+      "last_activity_date": 1687353494,
+      "creation_date": 1279804405,
+      "last_edit_date": 1686218876,
+      "question_id": 3309188,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3309188/how-to-sort-a-listt-by-a-property-in-the-object",
+      "title": "How to Sort a List&lt;T&gt; by a property in the object"
+    },
+    {
+      "tags": [
+        "c#",
+        "datetime",
+        "time",
+        "datediff",
+        "relative-time-span"
+      ],
+      "owner": {
+        "account_id": 1,
+        "reputation": 63898,
+        "user_id": 1,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/51d623f33f8b83095db84ff35e15dbe8?s=256&d=identicon&r=PG",
+        "display_name": "Jeff Atwood",
+        "link": "https://stackoverflow.com/users/1/jeff-atwood"
+      },
+      "is_answered": true,
+      "view_count": 204368,
+      "protected_date": 1297862094,
+      "accepted_answer_id": 1248,
+      "answer_count": 42,
+      "community_owned_date": 1252070159,
+      "score": 1656,
+      "last_activity_date": 1701179680,
+      "creation_date": 1217548537,
+      "last_edit_date": 1657412395,
+      "question_id": 11,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11/calculate-relative-time-in-c",
+      "title": "Calculate relative time in C#"
+    },
+    {
+      "tags": [
+        "bash",
+        "shebang"
+      ],
+      "owner": {
+        "account_id": 107120,
+        "reputation": 18825,
+        "user_id": 284981,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/a8c11d3a42f8e681ba2680ce39e9a79c?s=256&d=identicon&r=PG",
+        "display_name": "bgibson",
+        "link": "https://stackoverflow.com/users/284981/bgibson"
+      },
+      "is_answered": true,
+      "view_count": 824357,
+      "protected_date": 1533070457,
+      "answer_count": 8,
+      "score": 1655,
+      "last_activity_date": 1714245429,
+      "creation_date": 1335735420,
+      "last_edit_date": 1662321416,
+      "question_id": 10376206,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/10376206/what-is-the-preferred-bash-shebang",
+      "title": "What is the preferred Bash shebang (&quot;#!&quot;)?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "auto-increment"
+      ],
+      "owner": {
+        "account_id": 919418,
+        "reputation": 20635,
+        "user_id": 3426825,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.sstatic.net/6DcUx.png?s=256",
+        "display_name": "homerun",
+        "link": "https://stackoverflow.com/users/3426825/homerun"
+      },
+      "is_answered": true,
+      "view_count": 1945523,
+      "protected_date": 1399220597,
+      "accepted_answer_id": 8923132,
+      "answer_count": 27,
+      "score": 1654,
+      "last_activity_date": 1720784895,
+      "creation_date": 1326962269,
+      "last_edit_date": 1628188109,
+      "question_id": 8923114,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/8923114/how-to-reset-auto-increment-in-mysql",
+      "title": "How to reset AUTO_INCREMENT in MySQL"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "append",
+        "jquery-append"
+      ],
+      "owner": {
+        "account_id": 29561,
+        "reputation": 29446,
+        "user_id": 79980,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/09bbc36d6eb2bfdc5b54cf56f73e88f2?s=256&d=identicon&r=PG",
+        "display_name": "useranon",
+        "link": "https://stackoverflow.com/users/79980/useranon"
+      },
+      "is_answered": true,
+      "view_count": 1984303,
+      "protected_date": 1393890937,
+      "closed_date": 1512600481,
+      "accepted_answer_id": 867981,
+      "answer_count": 24,
+      "score": 1651,
+      "last_activity_date": 1631010925,
+      "creation_date": 1242383424,
+      "last_edit_date": 1453493943,
+      "question_id": 867916,
+      "link": "https://stackoverflow.com/questions/867916/creating-a-div-element-in-jquery",
+      "closed_reason": "Duplicate",
+      "title": "Creating a div element in jQuery"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9916
+}

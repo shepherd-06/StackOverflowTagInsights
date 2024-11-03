@@ -1,0 +1,1236 @@
+{
+  "items": [
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1291,
+      "name": "bottom-sheet"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1290,
+      "name": "slickgrid"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1289,
+      "name": "data-access-layer"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1289,
+      "name": "nameerror"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1289,
+      "name": "activiti"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1289,
+      "name": "ngrx-store"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1288,
+      "name": ".net-4.8"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1287,
+      "name": "type-traits"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1287,
+      "name": "informatica-powercenter"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1287,
+      "name": "app-engine-ndb"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1286,
+      "name": "wcf-security"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1286,
+      "name": "facebook-messenger"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1286,
+      "name": "strongloop"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1285,
+      "name": "normal-distribution"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1285,
+      "name": "self-join"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1285,
+      "name": "session-timeout"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1285,
+      "name": "smtpclient"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1285,
+      "name": "php-5.3"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1284,
+      "name": "angularjs-routing"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1283,
+      "name": "windows-server"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1283,
+      "name": "cytoscape.js"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1283,
+      "name": "haskell-stack"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1282,
+      "name": "generic-programming"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1281,
+      "name": "qtableview"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1281,
+      "name": "uitoolbar"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1279,
+      "name": "nopcommerce"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1279,
+      "name": "inertiajs"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1278,
+      "name": "designer"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1278,
+      "name": "event-log"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1277,
+      "name": "slug"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1277,
+      "name": "typeahead.js"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1276,
+      "name": "repaint"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1276,
+      "name": "unicorn"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1276,
+      "name": "visual-studio-cordova"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1276,
+      "name": "es6-class"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1275,
+      "name": "survey"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1275,
+      "name": "upsert"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1275,
+      "name": "android-sdk-tools"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1275,
+      "name": "express-session"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1274,
+      "name": "cairo"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1274,
+      "name": "wif"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "aws-application-load-balancer",
+            "amazon-sagemaker",
+            "amazon-sagemaker-compilers",
+            "alexa-presentation-language",
+            "amazon-personalize",
+            "amazon-ebs",
+            "aws-step-functions",
+            "aws-sdk-java-2.0",
+            "amazon-quicksight",
+            "aws-iot-sitewise",
+            "aws-private-link",
+            "aws-iot",
+            "aws-copilot-cli",
+            "aws-media-convert",
+            "aws-sdk-comprehend",
+            "alexa-skills-kit",
+            "alexa-sdk-nodejs",
+            "amazon-cloudfront",
+            "aws-sdk",
+            "amazon-codewhisperer",
+            "aws-databrew",
+            "amazon-rds",
+            "aws-lake-formation",
+            "aws-codebuild",
+            "amazon-polly",
+            "amazon-neptune",
+            "amazon-managed-blockchain",
+            "amazon-elastic-transcoder",
+            "amazon-app-runner",
+            "aws-sdk-js-v3",
+            "amazon-ec2",
+            "amazon-efs",
+            "alexa-smapi",
+            "amazon-kms",
+            "aws-lambda-edge",
+            "aws-sam-cli",
+            "aws-cloudmap",
+            "aws-cloud9",
+            "amazon-aurora",
+            "amazon-transcribe",
+            "amazon-guardduty",
+            "aws-iam-identity-center",
+            "amazon-ami",
+            "aws-storage-gateway",
+            "amazon-ecr",
+            "aws-sdk-go",
+            "amazon-sns",
+            "aws-cloudshell",
+            "amazon-cloudwatchlogs",
+            "aws-acm",
+            "aws-batch",
+            "aws-xray",
+            "aws-sso",
+            "aws-mediapackage",
+            "aws-codecommit",
+            "aws-elemental",
+            "aws-iot-analytics",
+            "aws-security-hub",
+            "aws-opsworks",
+            "aws-vpn",
+            "aws-resource-group",
+            "alexa-interaction-model",
+            "amazon-opensearch",
+            "amazon-sqs",
+            "aws-code-deploy",
+            "aws-fargate",
+            "amazon-kinesis-firehose",
+            "aws-sdk-net",
+            "amazon-simpledb",
+            "amazon-kinesis",
+            "aws-codeartifact",
+            "amazon-gamelift",
+            "aws-app-mesh",
+            "amazon-vpc",
+            "amazon-qldb",
+            "aws-sct",
+            "amazon-q-developer",
+            "amazon-location-service",
+            "aws-directory-services",
+            "alexa-flash-briefing-skill",
+            "aws-event-bridge",
+            "amazon-mq",
+            "amazon-translate",
+            "aws-auto-scaling",
+            "amazon-cognito",
+            "amazon-glacier",
+            "amazon-workmail",
+            "amazon-s3-select",
+            "aws-mobilehub",
+            "amazon-kendra",
+            "aws-device-farm",
+            "amazon-dynamodb",
+            "aws-cloudformation",
+            "aws-mediatailor",
+            "amazon-inspector",
+            "aws-cdk",
+            "amazon-lightsail",
+            "aws-certificate-manager",
+            "amazon-cloudhsm",
+            "amazon-rekognition",
+            "amazon-memory-db",
+            "amazon-kinesis-video-streams",
+            "aws-fis",
+            "aws-elb",
+            "aws-data-exchange",
+            "aws-sdk-android",
+            "amazon-elasticache",
+            "aws-copilot",
+            "elastic-ip",
+            "amazon-ivs",
+            "aws-codeguru",
+            "aws-direct-connect",
+            "aws-organizations",
+            "aws-pinpoint",
+            "aws-sdk-mock",
+            "aws-codecatalyst",
+            "amazon-sumerian",
+            "aws-msk",
+            "amazon-emr",
+            "aws-datasync",
+            "amazon-timestream",
+            "amazon-ses",
+            "aws-nlb",
+            "aws-security-group",
+            "aws-appsync",
+            "aws-dms",
+            "aws-appstream",
+            "alexa-sdk-python",
+            "aws-config",
+            "aws-sdk-ruby",
+            "amazon-keyspaces",
+            "aws-iot-core",
+            "aws-media-live",
+            "amazon-fsx",
+            "amazon-workdocs",
+            "amazon-forecast",
+            "amazon-cloudtrail",
+            "aws-sdk-java",
+            "aws-billing",
+            "aws-sam",
+            "aws-parameter-store",
+            "aws-snowball",
+            "aws-iot-greengrass",
+            "aws-service-catalog",
+            "amazon-web-services",
+            "aws-iot-events",
+            "aws-lambda-powertools",
+            "aws-mediastore",
+            "amazon-ec2-spot-market",
+            "aws-sdk-go-v2",
+            "aws-backup",
+            "amazon-iam",
+            "aws-sdk-js",
+            "aws-sdk-ios",
+            "aws-sdk-rust",
+            "aws-cli",
+            "aws-chatbot",
+            "amazon-connect",
+            "aws-documentdb",
+            "amazon-elb",
+            "aws-sdk-cpp",
+            "alexa-smart-home-skill",
+            "aws-graviton",
+            "amazon-imagebuilder",
+            "amazon-athena",
+            "amazon-route53",
+            "aws-mediaconnect",
+            "amazon-eks",
+            "aws-glue",
+            "aws-sdk-nodejs",
+            "amazon-lex",
+            "amazon-dynamodb-dax",
+            "aws-app-config",
+            "aws-codestar",
+            "aws-ssm",
+            "aws-api-gateway",
+            "amazon-cloudsearch",
+            "amazon-honeycode",
+            "aws-lambda",
+            "amazon-comprehend",
+            "aws-control-tower",
+            "amazon-elastic-beanstalk",
+            "amazon-workspaces",
+            "amazon-ecs",
+            "aws-global-accelerator",
+            "amazon-appflow",
+            "aws-elastictranscoder",
+            "amazon-s3",
+            "amazon-redshift-spectrum",
+            "amazon-swf",
+            "amazon-waf",
+            "aws-serverless",
+            "amazon-kinesis-analytics",
+            "amazon-textract",
+            "amazon-elasticsearch",
+            "aws-deeplens",
+            "amazon-cloudwatch",
+            "aws-transfer-family",
+            "alexa-account-linking",
+            "aws-secrets-manager",
+            "amazon-macie",
+            "aws-reserved-instances",
+            "amazon-redshift",
+            "aws-amplify",
+            "amazon-bedrock",
+            "amazon-data-pipeline",
+            "aws-codepipeline"
+          ],
+          "external_links": [
+            {
+              "type": "website",
+              "link": "https://aws.amazon.com"
+            },
+            {
+              "type": "support",
+              "link": "mailto:awscollective@amazon.com"
+            },
+            {
+              "type": "twitter",
+              "link": "https://twitter.com/awsdevelopers"
+            },
+            {
+              "type": "github",
+              "link": "https://github.com/aws"
+            },
+            {
+              "type": "facebook",
+              "link": "https://facebook.com/amazonwebservices"
+            },
+            {
+              "type": "instagram",
+              "link": "https://instagram.com/amazonwebservices"
+            }
+          ],
+          "description": "Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. The AWS Collective is a community-driven site with resources for  developers.",
+          "link": "/collectives/aws",
+          "name": "AWS",
+          "slug": "aws"
+        }
+      ],
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1274,
+      "name": "aws-iot"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1274,
+      "name": "quarto"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1273,
+      "name": "authorize.net"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1273,
+      "name": "rubymine"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1273,
+      "name": "shiro"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1273,
+      "name": "gradlew"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1272,
+      "name": "unsigned"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1272,
+      "name": "memorystream"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1272,
+      "name": "mkannotation"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1272,
+      "name": "hashicorp-vault"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1271,
+      "name": "backpropagation"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1271,
+      "name": "django-staticfiles"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1270,
+      "name": "clean-architecture"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1270,
+      "name": "rails-activestorage"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1269,
+      "name": "createjs"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1268,
+      "name": "toad"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1268,
+      "name": "loopback"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1268,
+      "name": "spring-roo"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1268,
+      "name": "powershell-remoting"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1268,
+      "name": "uisearchcontroller"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1266,
+      "name": "loadrunner"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1266,
+      "name": "subroutine"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1266,
+      "name": "android-menu"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1266,
+      "name": "uiactivityviewcontroller"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1266,
+      "name": "angular2-nativescript"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1265,
+      "name": "subview"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1265,
+      "name": "string-literals"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1265,
+      "name": "pysimplegui"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1264,
+      "name": "shutdown"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1264,
+      "name": "restlet"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1264,
+      "name": "nsxmlparser"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1264,
+      "name": "vsix"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1262,
+      "name": "keyevent"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1261,
+      "name": "spring-ws"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1261,
+      "name": "struts-1"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1261,
+      "name": "mouselistener"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1260,
+      "name": "expressionengine"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1260,
+      "name": "quill"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1259,
+      "name": "comparable"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1259,
+      "name": "bundling-and-minification"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1258,
+      "name": "objective-c++"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1258,
+      "name": "gxt"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1258,
+      "name": "avcapturesession"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1258,
+      "name": "tensorflow-serving"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "aws-application-load-balancer",
+            "amazon-sagemaker",
+            "amazon-sagemaker-compilers",
+            "alexa-presentation-language",
+            "amazon-personalize",
+            "amazon-ebs",
+            "aws-step-functions",
+            "aws-sdk-java-2.0",
+            "amazon-quicksight",
+            "aws-iot-sitewise",
+            "aws-private-link",
+            "aws-iot",
+            "aws-copilot-cli",
+            "aws-media-convert",
+            "aws-sdk-comprehend",
+            "alexa-skills-kit",
+            "alexa-sdk-nodejs",
+            "amazon-cloudfront",
+            "aws-sdk",
+            "amazon-codewhisperer",
+            "aws-databrew",
+            "amazon-rds",
+            "aws-lake-formation",
+            "aws-codebuild",
+            "amazon-polly",
+            "amazon-neptune",
+            "amazon-managed-blockchain",
+            "amazon-elastic-transcoder",
+            "amazon-app-runner",
+            "aws-sdk-js-v3",
+            "amazon-ec2",
+            "amazon-efs",
+            "alexa-smapi",
+            "amazon-kms",
+            "aws-lambda-edge",
+            "aws-sam-cli",
+            "aws-cloudmap",
+            "aws-cloud9",
+            "amazon-aurora",
+            "amazon-transcribe",
+            "amazon-guardduty",
+            "aws-iam-identity-center",
+            "amazon-ami",
+            "aws-storage-gateway",
+            "amazon-ecr",
+            "aws-sdk-go",
+            "amazon-sns",
+            "aws-cloudshell",
+            "amazon-cloudwatchlogs",
+            "aws-acm",
+            "aws-batch",
+            "aws-xray",
+            "aws-sso",
+            "aws-mediapackage",
+            "aws-codecommit",
+            "aws-elemental",
+            "aws-iot-analytics",
+            "aws-security-hub",
+            "aws-opsworks",
+            "aws-vpn",
+            "aws-resource-group",
+            "alexa-interaction-model",
+            "amazon-opensearch",
+            "amazon-sqs",
+            "aws-code-deploy",
+            "aws-fargate",
+            "amazon-kinesis-firehose",
+            "aws-sdk-net",
+            "amazon-simpledb",
+            "amazon-kinesis",
+            "aws-codeartifact",
+            "amazon-gamelift",
+            "aws-app-mesh",
+            "amazon-vpc",
+            "amazon-qldb",
+            "aws-sct",
+            "amazon-q-developer",
+            "amazon-location-service",
+            "aws-directory-services",
+            "alexa-flash-briefing-skill",
+            "aws-event-bridge",
+            "amazon-mq",
+            "amazon-translate",
+            "aws-auto-scaling",
+            "amazon-cognito",
+            "amazon-glacier",
+            "amazon-workmail",
+            "amazon-s3-select",
+            "aws-mobilehub",
+            "amazon-kendra",
+            "aws-device-farm",
+            "amazon-dynamodb",
+            "aws-cloudformation",
+            "aws-mediatailor",
+            "amazon-inspector",
+            "aws-cdk",
+            "amazon-lightsail",
+            "aws-certificate-manager",
+            "amazon-cloudhsm",
+            "amazon-rekognition",
+            "amazon-memory-db",
+            "amazon-kinesis-video-streams",
+            "aws-fis",
+            "aws-elb",
+            "aws-data-exchange",
+            "aws-sdk-android",
+            "amazon-elasticache",
+            "aws-copilot",
+            "elastic-ip",
+            "amazon-ivs",
+            "aws-codeguru",
+            "aws-direct-connect",
+            "aws-organizations",
+            "aws-pinpoint",
+            "aws-sdk-mock",
+            "aws-codecatalyst",
+            "amazon-sumerian",
+            "aws-msk",
+            "amazon-emr",
+            "aws-datasync",
+            "amazon-timestream",
+            "amazon-ses",
+            "aws-nlb",
+            "aws-security-group",
+            "aws-appsync",
+            "aws-dms",
+            "aws-appstream",
+            "alexa-sdk-python",
+            "aws-config",
+            "aws-sdk-ruby",
+            "amazon-keyspaces",
+            "aws-iot-core",
+            "aws-media-live",
+            "amazon-fsx",
+            "amazon-workdocs",
+            "amazon-forecast",
+            "amazon-cloudtrail",
+            "aws-sdk-java",
+            "aws-billing",
+            "aws-sam",
+            "aws-parameter-store",
+            "aws-snowball",
+            "aws-iot-greengrass",
+            "aws-service-catalog",
+            "amazon-web-services",
+            "aws-iot-events",
+            "aws-lambda-powertools",
+            "aws-mediastore",
+            "amazon-ec2-spot-market",
+            "aws-sdk-go-v2",
+            "aws-backup",
+            "amazon-iam",
+            "aws-sdk-js",
+            "aws-sdk-ios",
+            "aws-sdk-rust",
+            "aws-cli",
+            "aws-chatbot",
+            "amazon-connect",
+            "aws-documentdb",
+            "amazon-elb",
+            "aws-sdk-cpp",
+            "alexa-smart-home-skill",
+            "aws-graviton",
+            "amazon-imagebuilder",
+            "amazon-athena",
+            "amazon-route53",
+            "aws-mediaconnect",
+            "amazon-eks",
+            "aws-glue",
+            "aws-sdk-nodejs",
+            "amazon-lex",
+            "amazon-dynamodb-dax",
+            "aws-app-config",
+            "aws-codestar",
+            "aws-ssm",
+            "aws-api-gateway",
+            "amazon-cloudsearch",
+            "amazon-honeycode",
+            "aws-lambda",
+            "amazon-comprehend",
+            "aws-control-tower",
+            "amazon-elastic-beanstalk",
+            "amazon-workspaces",
+            "amazon-ecs",
+            "aws-global-accelerator",
+            "amazon-appflow",
+            "aws-elastictranscoder",
+            "amazon-s3",
+            "amazon-redshift-spectrum",
+            "amazon-swf",
+            "amazon-waf",
+            "aws-serverless",
+            "amazon-kinesis-analytics",
+            "amazon-textract",
+            "amazon-elasticsearch",
+            "aws-deeplens",
+            "amazon-cloudwatch",
+            "aws-transfer-family",
+            "alexa-account-linking",
+            "aws-secrets-manager",
+            "amazon-macie",
+            "aws-reserved-instances",
+            "amazon-redshift",
+            "aws-amplify",
+            "amazon-bedrock",
+            "amazon-data-pipeline",
+            "aws-codepipeline"
+          ],
+          "external_links": [
+            {
+              "type": "website",
+              "link": "https://aws.amazon.com"
+            },
+            {
+              "type": "support",
+              "link": "mailto:awscollective@amazon.com"
+            },
+            {
+              "type": "twitter",
+              "link": "https://twitter.com/awsdevelopers"
+            },
+            {
+              "type": "github",
+              "link": "https://github.com/aws"
+            },
+            {
+              "type": "facebook",
+              "link": "https://facebook.com/amazonwebservices"
+            },
+            {
+              "type": "instagram",
+              "link": "https://instagram.com/amazonwebservices"
+            }
+          ],
+          "description": "Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. The AWS Collective is a community-driven site with resources for  developers.",
+          "link": "/collectives/aws",
+          "name": "AWS",
+          "slug": "aws"
+        }
+      ],
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1258,
+      "name": "aws-serverless"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1257,
+      "name": "reddit"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1257,
+      "name": "smartgwt"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1257,
+      "name": "lattice"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "tidyverse",
+            "shinydashboard",
+            "rlang",
+            "r",
+            "forcats",
+            "purrr",
+            "shiny-server",
+            "r-package",
+            "lubridate",
+            "dtplyr",
+            "ggplot2",
+            "readr",
+            "shiny",
+            "plyr",
+            "data.table",
+            "r-raster",
+            "tidyr",
+            "rvest",
+            "knitr",
+            "rstudio",
+            "quantmod",
+            "zoo",
+            "dplyr",
+            "shinyapps",
+            "tibble",
+            "r-caret",
+            "stringr"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective where data scientists and AI researchers gather to find, share, and learn about R and other subtags like knitr and dplyr.",
+          "link": "/collectives/r-language",
+          "name": "R Language",
+          "slug": "r-language"
+        }
+      ],
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1257,
+      "name": "r-raster"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1257,
+      "name": "logstash-configuration"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1256,
+      "name": "argv"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1256,
+      "name": "solrcloud"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1255,
+      "name": "modbus"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1255,
+      "name": "attr"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1255,
+      "name": "visual-foxpro"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1255,
+      "name": "c++-concepts"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1255,
+      "name": "rider"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1253,
+      "name": "chef-recipe"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1253,
+      "name": "dynamics-365"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9977
+}

@@ -1,0 +1,1058 @@
+{
+  "items": [
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3369,
+      "name": "esp32"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3365,
+      "name": "next.js13"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3364,
+      "name": "magento-1.7"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3359,
+      "name": "project-reactor"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3358,
+      "name": "aspectj"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3352,
+      "name": "root"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3351,
+      "name": "basic-authentication"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3349,
+      "name": "slf4j"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3349,
+      "name": "android-espresso"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3348,
+      "name": "uipickerview"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3347,
+      "name": "perforce"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3345,
+      "name": "sybase"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3345,
+      "name": "recurrent-neural-network"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3342,
+      "name": "tls1.2"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3341,
+      "name": "arkit"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3339,
+      "name": "vpn"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3338,
+      "name": "eclipse-cdt"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3337,
+      "name": "regex-lookarounds"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3335,
+      "name": "zeromq"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3330,
+      "name": "mstest"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3330,
+      "name": "compiler-optimization"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3329,
+      "name": "uuid"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3328,
+      "name": "here-api"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3326,
+      "name": "turtle-graphics"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3325,
+      "name": "spring-data-mongodb"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3317,
+      "name": "xunit"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3304,
+      "name": "use-state"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "topic-modeling",
+            "spacy",
+            "spacy-3",
+            "named-entity-recognition",
+            "tf-idf",
+            "sentiment-analysis",
+            "nlp-question-answering",
+            "word2vec",
+            "nltk",
+            "gensim",
+            "huggingface-transformers",
+            "word-embedding",
+            "nlp",
+            "opennlp",
+            "bert-language-model",
+            "stanford-nlp"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective focused on NLP (natural language processing), the transformation or extraction of useful information from natural language data.",
+          "link": "/collectives/nlp",
+          "name": "NLP",
+          "slug": "nlp"
+        }
+      ],
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3303,
+      "name": "stanford-nlp"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3302,
+      "name": "entity-framework-migrations"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3300,
+      "name": "tweepy"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3298,
+      "name": "connection-pooling"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3295,
+      "name": "grammar"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3294,
+      "name": "android-custom-view"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3291,
+      "name": "cloud-foundry"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "bitbucket-pipelines",
+            "jenkins",
+            "jenkins-plugins",
+            "cicd",
+            "continuous-testing",
+            "hudson",
+            "octopus-deploy",
+            "jenkins-pipeline",
+            "github-actions",
+            "google-cloud-build",
+            "jenkins-groovy",
+            "argocd",
+            "azure-pipelines",
+            "tfsbuild",
+            "gitlab-ci-runner",
+            "continuous-integration",
+            "codemagic",
+            "continuous-delivery",
+            "teamcity",
+            "continuous-deployment",
+            "circleci",
+            "gitlab-ci"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective where developers focused on continuous integration, delivery, and deployment can find, share, and learn about simultaneous development.",
+          "link": "/collectives/ci-cd",
+          "name": "CI/CD",
+          "slug": "ci-cd"
+        }
+      ],
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3287,
+      "name": "tfsbuild"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3287,
+      "name": "array-formulas"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3287,
+      "name": "gtk3"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3284,
+      "name": "vertical-alignment"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3282,
+      "name": "git-branch"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3280,
+      "name": "bufferedreader"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3279,
+      "name": "box2d"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "aws-xray",
+            "amazon-dynamodb-dax",
+            "amazon-imagebuilder",
+            "aws-mediapackage",
+            "aws-sct",
+            "aws-sdk-go",
+            "aws-sdk-mock",
+            "aws-auto-scaling",
+            "aws-mediastore",
+            "alexa-flash-briefing-skill",
+            "amazon-athena",
+            "amazon-neptune",
+            "aws-sdk-comprehend",
+            "aws-direct-connect",
+            "aws-step-functions",
+            "amazon-cloudhsm",
+            "amazon-swf",
+            "aws-parameter-store",
+            "aws-elastictranscoder",
+            "amazon-aurora",
+            "aws-transfer-family",
+            "aws-acm",
+            "amazon-waf",
+            "amazon-web-services",
+            "aws-codecommit",
+            "amazon-cloudtrail",
+            "amazon-memory-db",
+            "aws-control-tower",
+            "aws-codebuild",
+            "aws-databrew",
+            "amazon-kms",
+            "aws-fis",
+            "amazon-translate",
+            "alexa-interaction-model",
+            "amazon-cloudfront",
+            "aws-sdk-net",
+            "aws-dms",
+            "amazon-connect",
+            "aws-storage-gateway",
+            "amazon-ecr",
+            "amazon-honeycode",
+            "amazon-workmail",
+            "amazon-elasticache",
+            "aws-iam-identity-center",
+            "amazon-kendra",
+            "amazon-location-service",
+            "aws-application-load-balancer",
+            "aws-sdk-ruby",
+            "aws-nlb",
+            "aws-appstream",
+            "aws-sdk",
+            "amazon-elastic-transcoder",
+            "amazon-route53",
+            "aws-cli",
+            "aws-sam",
+            "aws-media-convert",
+            "amazon-timestream",
+            "aws-sdk-go-v2",
+            "aws-cloudmap",
+            "aws-opsworks",
+            "aws-cloudshell",
+            "aws-mediaconnect",
+            "amazon-gamelift",
+            "amazon-sns",
+            "amazon-elasticsearch",
+            "aws-app-config",
+            "aws-elemental",
+            "aws-chatbot",
+            "amazon-forecast",
+            "amazon-data-pipeline",
+            "aws-sdk-java",
+            "elastic-ip",
+            "amazon-sagemaker-compilers",
+            "amazon-workspaces",
+            "alexa-account-linking",
+            "amazon-q-developer",
+            "aws-snowball",
+            "alexa-smart-home-skill",
+            "aws-sso",
+            "aws-api-gateway",
+            "amazon-ebs",
+            "aws-vpn",
+            "aws-codestar",
+            "aws-lake-formation",
+            "aws-service-catalog",
+            "aws-data-exchange",
+            "amazon-iam",
+            "amazon-mq",
+            "amazon-lex",
+            "aws-code-deploy",
+            "aws-sdk-rust",
+            "amazon-inspector",
+            "aws-cloud9",
+            "amazon-ec2",
+            "amazon-emr",
+            "amazon-efs",
+            "aws-organizations",
+            "aws-secrets-manager",
+            "amazon-kinesis",
+            "amazon-macie",
+            "aws-iot-events",
+            "alexa-presentation-language",
+            "aws-ssm",
+            "amazon-keyspaces",
+            "amazon-cloudwatchlogs",
+            "aws-mediatailor",
+            "amazon-simpledb",
+            "alexa-sdk-python",
+            "aws-sdk-android",
+            "amazon-dynamodb",
+            "aws-config",
+            "amazon-lightsail",
+            "amazon-s3",
+            "amazon-polly",
+            "amazon-redshift-spectrum",
+            "aws-media-live",
+            "aws-security-hub",
+            "aws-iot-sitewise",
+            "aws-batch",
+            "amazon-cloudsearch",
+            "aws-serverless",
+            "amazon-kinesis-video-streams",
+            "amazon-transcribe",
+            "aws-fargate",
+            "aws-cdk",
+            "amazon-ami",
+            "aws-event-bridge",
+            "aws-backup",
+            "amazon-ivs",
+            "aws-sdk-js",
+            "amazon-opensearch",
+            "amazon-app-runner",
+            "aws-app-mesh",
+            "aws-mobilehub",
+            "amazon-eks",
+            "amazon-ec2-spot-market",
+            "aws-global-accelerator",
+            "aws-sdk-js-v3",
+            "amazon-elastic-beanstalk",
+            "aws-appsync",
+            "amazon-personalize",
+            "amazon-rds",
+            "alexa-smapi",
+            "amazon-fsx",
+            "aws-lambda-edge",
+            "amazon-sumerian",
+            "amazon-quicksight",
+            "aws-device-farm",
+            "aws-datasync",
+            "amazon-workdocs",
+            "amazon-sagemaker",
+            "aws-sdk-java-2.0",
+            "aws-codecatalyst",
+            "amazon-ses",
+            "aws-sam-cli",
+            "amazon-elb",
+            "aws-documentdb",
+            "aws-billing",
+            "amazon-cloudwatch",
+            "amazon-comprehend",
+            "amazon-qldb",
+            "alexa-sdk-nodejs",
+            "aws-lambda-powertools",
+            "amazon-guardduty",
+            "aws-iot",
+            "aws-codeguru",
+            "aws-cloudformation",
+            "amazon-kinesis-analytics",
+            "aws-msk",
+            "amazon-managed-blockchain",
+            "amazon-vpc",
+            "aws-codeartifact",
+            "amazon-appflow",
+            "aws-pinpoint",
+            "amazon-cognito",
+            "aws-iot-core",
+            "amazon-rekognition",
+            "alexa-skills-kit",
+            "amazon-textract",
+            "amazon-ecs",
+            "aws-iot-analytics",
+            "aws-graviton",
+            "amazon-kinesis-firehose",
+            "aws-amplify",
+            "amazon-redshift",
+            "aws-sdk-nodejs",
+            "aws-elb",
+            "amazon-glacier",
+            "aws-sdk-ios",
+            "amazon-codewhisperer",
+            "aws-deeplens",
+            "aws-glue",
+            "amazon-bedrock",
+            "aws-certificate-manager",
+            "aws-iot-greengrass",
+            "aws-resource-group",
+            "aws-directory-services",
+            "aws-security-group",
+            "aws-private-link",
+            "aws-reserved-instances",
+            "aws-codepipeline",
+            "aws-sdk-cpp",
+            "amazon-s3-select",
+            "amazon-sqs",
+            "aws-copilot",
+            "aws-copilot-cli",
+            "aws-lambda"
+          ],
+          "external_links": [
+            {
+              "type": "website",
+              "link": "https://aws.amazon.com"
+            },
+            {
+              "type": "support",
+              "link": "mailto:awscollective@amazon.com"
+            },
+            {
+              "type": "twitter",
+              "link": "https://twitter.com/awsdevelopers"
+            },
+            {
+              "type": "github",
+              "link": "https://github.com/aws"
+            },
+            {
+              "type": "facebook",
+              "link": "https://facebook.com/amazonwebservices"
+            },
+            {
+              "type": "instagram",
+              "link": "https://instagram.com/amazonwebservices"
+            }
+          ],
+          "description": "Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. The AWS Collective is a community-driven site with resources for  developers.",
+          "link": "/collectives/aws",
+          "name": "AWS",
+          "slug": "aws"
+        }
+      ],
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3279,
+      "name": "alexa-skills-kit"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3277,
+      "name": "google-forms"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3273,
+      "name": "actionbarsherlock"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3271,
+      "name": "indentation"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3270,
+      "name": "auth0"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3270,
+      "name": "slack"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3269,
+      "name": "jlabel"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3269,
+      "name": "whatsapp"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3268,
+      "name": "webpack-dev-server"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3267,
+      "name": "updatepanel"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3267,
+      "name": "blender"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3265,
+      "name": "hibernate-mapping"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3262,
+      "name": "android-constraintlayout"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3260,
+      "name": "quicksort"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3258,
+      "name": "multer"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3255,
+      "name": "custom-post-type"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3254,
+      "name": "httpurlconnection"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3248,
+      "name": "multilingual"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3247,
+      "name": "asp.net-membership"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3246,
+      "name": "presto"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3245,
+      "name": "windows-mobile"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3244,
+      "name": "glob"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3244,
+      "name": "watchkit"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3242,
+      "name": "lwjgl"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3241,
+      "name": "associative-array"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3241,
+      "name": "libcurl"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3241,
+      "name": "key-value"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3239,
+      "name": "mod-wsgi"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3238,
+      "name": "nested-lists"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3234,
+      "name": "cart"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3232,
+      "name": "sql-like"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3228,
+      "name": "partitioning"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3227,
+      "name": "geocoding"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3227,
+      "name": "guice"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3227,
+      "name": "repository-pattern"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3224,
+      "name": "mysql-python"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3223,
+      "name": "microsoft-dynamics"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3223,
+      "name": "jpa-2.0"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "bitbucket-pipelines",
+            "jenkins",
+            "jenkins-plugins",
+            "cicd",
+            "continuous-testing",
+            "hudson",
+            "octopus-deploy",
+            "jenkins-pipeline",
+            "github-actions",
+            "google-cloud-build",
+            "jenkins-groovy",
+            "argocd",
+            "azure-pipelines",
+            "tfsbuild",
+            "gitlab-ci-runner",
+            "continuous-integration",
+            "codemagic",
+            "continuous-delivery",
+            "teamcity",
+            "continuous-deployment",
+            "circleci",
+            "gitlab-ci"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective where developers focused on continuous integration, delivery, and deployment can find, share, and learn about simultaneous development.",
+          "link": "/collectives/ci-cd",
+          "name": "CI/CD",
+          "slug": "ci-cd"
+        }
+      ],
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3219,
+      "name": "gitlab-ci-runner"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3216,
+      "name": "vmware"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3215,
+      "name": "sleep"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3212,
+      "name": "destructor"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3212,
+      "name": "background-process"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3212,
+      "name": "android-contentprovider"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3211,
+      "name": "x509certificate"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3208,
+      "name": "doxygen"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3207,
+      "name": "docker-swarm"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3206,
+      "name": "gif"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3204,
+      "name": "require"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3203,
+      "name": "android-source"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3202,
+      "name": "normalization"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3202,
+      "name": "dagger-2"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3200,
+      "name": "encode"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3199,
+      "name": "forms-authentication"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3198,
+      "name": "visibility"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3197,
+      "name": "mamp"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3197,
+      "name": "git-submodules"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3196,
+      "name": "nest"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 3195,
+      "name": "edit"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 263
+}

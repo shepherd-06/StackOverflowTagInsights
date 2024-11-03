@@ -1,0 +1,1116 @@
+{
+  "items": [
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1144,
+      "name": "fileinputstream"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1144,
+      "name": "dask-distributed"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1143,
+      "name": "isabelle"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1142,
+      "name": "sharepoint-designer"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1142,
+      "name": "with-statement"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1142,
+      "name": "uinavigationitem"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1141,
+      "name": "autoconf"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1141,
+      "name": "system.drawing"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1141,
+      "name": "appsettings"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1139,
+      "name": "nat"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1139,
+      "name": "filewriter"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1139,
+      "name": "python-3.3"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1139,
+      "name": "ckeditor5"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1138,
+      "name": "sqldatareader"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1138,
+      "name": "mediastore"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1138,
+      "name": "xlwings"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1138,
+      "name": "ios14"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1137,
+      "name": "python-c-api"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1137,
+      "name": "mobile-development"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1136,
+      "name": "lighttpd"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1136,
+      "name": "bpmn"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "azure-acs",
+            "azure-data-studio",
+            "azure-private-dns-zone",
+            "azure-blockchain-workbench",
+            "azure-machine-learning-service",
+            "azure-python-sdk",
+            "azure-ad-b2c",
+            "azure-scheduler",
+            "azure-iot-hub-device-management",
+            "azure-analysis-services",
+            "azure-deployment",
+            "azure-pipelines-release-pipeline",
+            "azure-mysql-database",
+            "azure-arc",
+            "azure-authentication",
+            "azure-functions-proxies",
+            "azure-managed-grafana",
+            "azure-service-fabric",
+            "azure-load-balancer",
+            "azure-promptflow",
+            "azure-ml-pipelines",
+            "azure-app-configuration",
+            "azure-files",
+            "azure-notificationhub",
+            "azure-media-services",
+            "azure-database-postgresql",
+            "passport-azure-ad",
+            "azure-triggers",
+            "azure-application-insights-profiler",
+            "azure-compliance-policy",
+            "azure-metrics-advisor",
+            "azure-durable-functions",
+            "azure-rm",
+            "azure-worker-roles",
+            "azure-http-trigger",
+            "azure-virtual-network",
+            "azure-web-roles",
+            "azure-service-plan",
+            "azure-ad-verifiable-credentials",
+            "azure-ml-component",
+            "microsoft-entra-external-id",
+            "azure-security-center",
+            "azure-ase",
+            "azure-auto-ml",
+            "azure-anomaly-detector",
+            "azure-media-player",
+            "azure-databricks",
+            "azure-advisor",
+            "microsoft-custom-vision",
+            "azure-functions-docker",
+            "azure-webjobs-triggered",
+            "azure-sdk-ruby",
+            "azure-application-roles",
+            "azure-blockchain-service",
+            "azure-sql",
+            "azure-gov",
+            "azure-ad-v2",
+            "azure-vm-templates",
+            "azure-ad-msal",
+            "azure-data-sync",
+            "azure-blueprints",
+            "azure-web-pubsub",
+            "azure-mapping-data-flow",
+            "azure-cli2",
+            "azure-text-translation",
+            "azure-integration-account",
+            "azure-service-runtime",
+            "adal",
+            "sitecore-azure",
+            "azure-emulator",
+            "azuremlsdk",
+            "sql-azure-alerts",
+            "azure-rm-template",
+            "sql-azure-federations",
+            "azure-ai",
+            "azure-storage",
+            "azure-table-storage",
+            "azure-webapps",
+            "azure-logic-app-standard",
+            "azure-notebooks",
+            "azure-ddos",
+            "azure-ad-b2b",
+            "azure-cost-calculation",
+            "azure-migrate",
+            "azure-monitoring",
+            "azure-container-apps",
+            "azure-ilb",
+            "azure-webhooks",
+            "azure-site-recovery",
+            "rebus-azureservicebus",
+            "azure-logic-apps",
+            "azure-custom-providers",
+            "azure-iot-dps",
+            "azure-ad-domain-services",
+            "azure-keyvault",
+            "azure-acr",
+            "pulumi-azure",
+            "azure",
+            "azure-redis-cache",
+            "azure-appfabric",
+            "azure-tablequery",
+            "azure-disk",
+            "azure-vpn",
+            "azure-container-service",
+            "azure-store",
+            "azure-sas",
+            "azure-servicebus-queues",
+            "azure-vm-scale-set",
+            "azure-cognitive-search",
+            "azure-sql-database",
+            "microsoft-entra-private-access",
+            "azure-speech",
+            "azure-database-mysql",
+            "microsoft-entra-id",
+            "azure-cdn",
+            "azure-pack",
+            "azure-container-instances",
+            "azure-china",
+            "azure-java-tools",
+            "azure-synapse-link",
+            "azure-app-service-plans",
+            "azure-packaging",
+            "azure-static-web-app",
+            "azure-mobile-services",
+            "azure-cosmosdb-sqlapi",
+            "azure-vm",
+            "azure-cosmosdb-tables",
+            "azure-compute-emulator",
+            "azure-ai-translator",
+            "azure-regions",
+            "azurerm-app-service",
+            "azure-mobile-engagement",
+            "azure-function-async",
+            "azure-sql-server",
+            "azure-monitor-workbooks",
+            "azure-dsvm",
+            "azure-fluent-api",
+            "azure-cloud-shell",
+            "azure-feature-manager",
+            "azure-bastion",
+            "azure-management",
+            "azure-app-service-envrmnt",
+            "azure-calculator",
+            "azure-function-http",
+            "azure-policy",
+            "azure-connect",
+            "azure-language-understanding",
+            "azure-agent",
+            "azure-diagnostics",
+            "azure-app-api",
+            "azure-linux",
+            "azure-postgresql",
+            "azurekinect",
+            "azure-availability-set",
+            "azure-dns",
+            "azure-cosmosdb-gremlinapi",
+            "azure-digital-twins",
+            "azure-application-registration",
+            "azure-dev-spaces",
+            "azure-clouddrive",
+            "azure-nsg",
+            "azure-cosmosdb-emulator",
+            "azure-ad-b2c-custom-policy",
+            "azure-batch",
+            "azure-automation",
+            "azure-bicep",
+            "azure-sdk-.net",
+            "azure-ad-role",
+            "azure-sdk-for-java",
+            "spring-cloud-azure",
+            "azure-active-directory",
+            "azure-search-.net-sdk",
+            "azure-relay",
+            "azure-rest-api",
+            "azure-android-sdk",
+            "azure-sdk",
+            "azure-sdk-js",
+            "azure-adf",
+            "azure-custom-domain",
+            "azure-iot-suite",
+            "azure-autoscaling-block",
+            "azure-billing",
+            "azure-ad-graph-api",
+            "kql",
+            "azure-private-link",
+            "azure-cosmosdb-mongovcore",
+            "azure-sql-reporting",
+            "azure-elastic-scale",
+            "azure-log-analytics",
+            "azure-public-ip",
+            "azure-qna-maker",
+            "azure-management-api",
+            "azure-xplat-cli",
+            "azure-iot-sdk",
+            "azure-managed-identity",
+            "azure-storage-explorer",
+            "azure-rtos",
+            "azure-hub",
+            "azure-marketplace",
+            "azure-sql-managed-instance",
+            "azure-cosmosdb-changefeed",
+            "azure-webjobs-continuous",
+            "azure-function-app",
+            "azure-eventgrid",
+            "azure-java-sdk",
+            "azure-managed-database",
+            "azure-form-recognizer",
+            "azure-information-protection",
+            "azure-resource-graph",
+            "azure-deployment-slots",
+            "azure-iot-central",
+            "azure-anomaly-detection",
+            "azure-iot-edge",
+            "azure-function-queue",
+            "azure-application-settings",
+            "azure-management-portal",
+            "azure-managed-disk",
+            "django-pyodbc-azure",
+            "azure-servicebus-topics",
+            "azure-sdk-python",
+            "azure-sql-edge",
+            "azure-cosmosdb-mongoapi",
+            "azure-appservice",
+            "azure-remote-rendering",
+            "azureadgraph-deprecation",
+            "azure-oms",
+            "azure-security",
+            "azure-blob-storage",
+            "azure-synapse",
+            "azureml-python-sdk",
+            "azure-application-proxy",
+            "azure-webjobs",
+            "azure-sdk-for-go",
+            "azure-storage-emulator",
+            "azure-free-services",
+            "azure-cloud-services",
+            "azure-oauth",
+            "azure-application-gateway",
+            "azure-functions",
+            "azure-container-registry",
+            "azure-update-management-center",
+            "azure-web-app-for-containers",
+            "azure-bot-service",
+            "azure-sdk-for-ruby",
+            "azure-affinity-group",
+            "azure-cognitive-services",
+            "azure-spring-cloud",
+            "azure-cosmosdb-cassandra-api",
+            "azure-sentinel",
+            "fhir-server-for-azure",
+            "azure-devtest-labs",
+            "azure-git-deployment",
+            "azure-servicebusrelay",
+            "azure-resource-manager",
+            "azure-waf",
+            "sql-server-azure",
+            "azure-lab-services",
+            "azure-load-testing",
+            "azureshell",
+            "azure-identity",
+            "azure-functions-core-tools",
+            "azure-sphere",
+            "azure-stack",
+            "azure-cli",
+            "azure-workflow-automation",
+            "azure-servicebus-subscriptions",
+            "defaultazurecredential",
+            "azure-managed-app",
+            "azure-runbook",
+            "azure-alerts",
+            "azure-static-website-routing",
+            "azure-data-factory",
+            "azure-powershell",
+            "azure-communication-services",
+            "azure-static-web-app-routing",
+            "azure-batch-account",
+            "azure-dashboard",
+            "azure-application-insights",
+            "azure-maps",
+            "azure-data-lake-gen2",
+            "azure-function-app-proxy",
+            "azure-log-analytics-workspace",
+            "azure-service-principal",
+            "terraform-provider-azure",
+            "azure-functions-runtime",
+            "azure-api-management",
+            "azure-object-anchors",
+            "azure-hdinsight",
+            "kitchen-azurerm",
+            "azure-eventhub",
+            "spark-bash-azure-databricks",
+            "azure-web-app-service",
+            "azure-management-groups",
+            "azure-data-lake",
+            "azure-node-sdk",
+            "azure-elasticpool",
+            "azure-resource-group",
+            "azure-sdk-php",
+            "azure-quantum",
+            "azure-configuration",
+            "azureportal",
+            "azure-spatial-anchors",
+            "azure-defender",
+            "azure-adal-deprecation",
+            "azure-storage-account",
+            "azure-web-app-firewall",
+            "azure-subscription",
+            "azure-stream-analytics",
+            "azureservicebus",
+            "azure-storage-queues",
+            "azure-service-fabric-mesh",
+            "azure-virtual-machine",
+            "azure-video-indexer",
+            "azure-front-door",
+            "azure-blob-trigger",
+            "azure-iot-hub-device-update",
+            "azure-caching",
+            "azure-backup-vault",
+            "azure-ad-powershell-v2",
+            "azure-traffic-manager",
+            "azure-queues",
+            "azure-monitor",
+            "azure-private-dns",
+            "azure-signalr",
+            "azure-spring-boot",
+            "azure-in-role-cache",
+            "azure-billing-api",
+            "azure-api-apps",
+            "azureclicredential",
+            "azure-hybrid-connections",
+            "azure-databoxfamily",
+            "azure-data-explorer",
+            "azure-data-share",
+            "azure-iot-hub",
+            "azure-cosmosdb",
+            "azure-image-builder",
+            "microsoft-entra-internet-access",
+            "azure-webjobssdk",
+            "adal.js",
+            "azure-timeseries-insights",
+            "azure-industrial-iot",
+            "azure-storage-files",
+            "azure-static-website-hosting",
+            "azure-performancecounters",
+            "azure-data-catalog",
+            "azure-app-registration",
+            "azure.data.tables",
+            "azure-service-hooks",
+            "azure-aks",
+            "azure-availability-zones",
+            "azure-file-copy",
+            "azure-mcd",
+            "azure-debugger",
+            "azure-role-environment",
+            "azure-rbac",
+            "azure-secrets",
+            "azure-purview",
+            "azure-analytics",
+            "azure-sdk-go",
+            "azure-zulu",
+            "azure-elastic-sharding"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective for developers to engage, share, and learn about Microsoft Azure\u2019s open-source frameworks, languages, and platform. This collective is organized and managed by the Stack Overflow community.",
+          "link": "/collectives/azure",
+          "name": "Microsoft Azure",
+          "slug": "azure"
+        }
+      ],
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1136,
+      "name": "azure-web-roles"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1136,
+      "name": "sql-server-2019"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1135,
+      "name": "flume"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1135,
+      "name": "gurobi"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1135,
+      "name": "refresh-token"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1134,
+      "name": "datamapper"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1134,
+      "name": "android-maps-v2"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1134,
+      "name": "scipy-optimize"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1133,
+      "name": "alter-table"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1132,
+      "name": "abstraction"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1132,
+      "name": "flush"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1132,
+      "name": "libc"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1132,
+      "name": "testcontainers"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1131,
+      "name": "tortoisehg"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1131,
+      "name": "event-loop"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1131,
+      "name": "rate-limiting"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1131,
+      "name": "python-3.9"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1130,
+      "name": "textmate"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1130,
+      "name": "voice"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1130,
+      "name": "postgresql-9.2"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1130,
+      "name": "regexp-replace"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1129,
+      "name": "recordset"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1129,
+      "name": "radgrid"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1129,
+      "name": "spawn"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1129,
+      "name": "string-interpolation"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1129,
+      "name": "buildozer"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1128,
+      "name": "fileoutputstream"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1128,
+      "name": "alfresco-share"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1128,
+      "name": "react-three-fiber"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1127,
+      "name": "add-on"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1127,
+      "name": "spacing"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1127,
+      "name": "railstutorial.org"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1127,
+      "name": "2d-games"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1127,
+      "name": "google-app-maker"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1125,
+      "name": "bookmarks"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1125,
+      "name": "illegalstateexception"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1125,
+      "name": "source-maps"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1125,
+      "name": "getusermedia"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1124,
+      "name": "class-design"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1124,
+      "name": "flexslider"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1124,
+      "name": "threadpoolexecutor"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1124,
+      "name": "object-detection-api"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1123,
+      "name": "webservice-client"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1123,
+      "name": "rich-text-editor"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1123,
+      "name": "perf"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1123,
+      "name": "ebay-api"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1122,
+      "name": "git-diff"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1122,
+      "name": "asp.net-3.5"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1122,
+      "name": "reactiveui"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1121,
+      "name": "mailto"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1121,
+      "name": "bootstrap-datepicker"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1121,
+      "name": "jmeter-5.0"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1120,
+      "name": "cdata"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1120,
+      "name": "intentservice"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1120,
+      "name": "parse-cloud-code"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1119,
+      "name": "mxml"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1119,
+      "name": "kvm"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1119,
+      "name": "stub"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1119,
+      "name": "diacritics"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1119,
+      "name": "checkboxlist"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1119,
+      "name": "behat"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1119,
+      "name": "hp-uft"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1118,
+      "name": "autodesk"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1118,
+      "name": "dynamically-generated"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "word-embedding",
+            "gensim",
+            "tf-idf",
+            "topic-modeling",
+            "bert-language-model",
+            "spacy",
+            "named-entity-recognition",
+            "nltk",
+            "nlp",
+            "spacy-3",
+            "opennlp",
+            "sentiment-analysis",
+            "huggingface-transformers",
+            "stanford-nlp",
+            "word2vec",
+            "nlp-question-answering"
+          ],
+          "external_links": [
+            {
+              "type": "support",
+              "link": "https://stackoverflow.com/contact?topic=15"
+            }
+          ],
+          "description": "A collective focused on NLP (natural language processing), the transformation or extraction of useful information from natural language data.",
+          "link": "/collectives/nlp",
+          "name": "NLP",
+          "slug": "nlp"
+        }
+      ],
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1118,
+      "name": "word-embedding"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1117,
+      "name": "rvalue-reference"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1117,
+      "name": "cloud9-ide"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1117,
+      "name": "android-cursor"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1117,
+      "name": "c3.js"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1117,
+      "name": "flask-socketio"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1116,
+      "name": "integer-overflow"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1116,
+      "name": "bmp"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1116,
+      "name": "tortoisegit"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1115,
+      "name": "throttling"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1115,
+      "name": "trie"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1115,
+      "name": "nsfetchrequest"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1115,
+      "name": "rolling-computation"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1115,
+      "name": "elasticsearch-aggregation"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1114,
+      "name": "xmlreader"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9973
+}

@@ -1,0 +1,2927 @@
+{
+  "items": [
+    {
+      "tags": [
+        "sql",
+        "database-design",
+        "foreign-keys",
+        "relational-database",
+        "relationship"
+      ],
+      "owner": {
+        "account_id": 335839,
+        "reputation": 24046,
+        "user_id": 663148,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://i.sstatic.net/Vi0w6.gif?s=256",
+        "display_name": "arsenal",
+        "link": "https://stackoverflow.com/users/663148/arsenal"
+      },
+      "is_answered": true,
+      "view_count": 560134,
+      "protected_date": 1550843451,
+      "accepted_answer_id": 7296873,
+      "answer_count": 4,
+      "score": 437,
+      "last_activity_date": 1643407467,
+      "creation_date": 1315099056,
+      "last_edit_date": 1643407467,
+      "question_id": 7296846,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/7296846/how-to-implement-one-to-one-one-to-many-and-many-to-many-relationships-while-de",
+      "title": "How to implement one-to-one, one-to-many and many-to-many relationships while designing tables?"
+    },
+    {
+      "tags": [
+        "git"
+      ],
+      "owner": {
+        "account_id": 339504,
+        "reputation": 12175,
+        "user_id": 669020,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/f03e5250ca2097cec29a8169b5a55253?s=256&d=identicon&r=PG",
+        "display_name": "ksol",
+        "link": "https://stackoverflow.com/users/669020/ksol"
+      },
+      "is_answered": true,
+      "view_count": 157699,
+      "accepted_answer_id": 9110424,
+      "answer_count": 7,
+      "score": 437,
+      "last_activity_date": 1728794240,
+      "creation_date": 1328176767,
+      "last_edit_date": 1461145420,
+      "question_id": 9110310,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/9110310/update-git-commit-author-date-when-amending",
+      "title": "Update git commit author date when amending"
+    },
+    {
+      "tags": [
+        "python",
+        "logging",
+        "config",
+        "python-logging"
+      ],
+      "owner": {
+        "account_id": 1220080,
+        "reputation": 8602,
+        "user_id": 1186878,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://i.sstatic.net/fdrUw.png?s=256",
+        "display_name": "Quest Monger",
+        "link": "https://stackoverflow.com/users/1186878/quest-monger"
+      },
+      "is_answered": true,
+      "view_count": 378594,
+      "accepted_answer_id": 15735146,
+      "answer_count": 12,
+      "score": 437,
+      "last_activity_date": 1679476146,
+      "creation_date": 1364715549,
+      "last_edit_date": 1679476146,
+      "question_id": 15727420,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/15727420/using-logging-in-multiple-modules",
+      "title": "Using logging in multiple modules"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "textbox",
+        "focus"
+      ],
+      "owner": {
+        "account_id": 2831771,
+        "reputation": 10396,
+        "user_id": 2433215,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/d6a5ecc75e7f531857144f54723bd481?s=256&d=identicon&r=PG",
+        "display_name": "tenstar",
+        "link": "https://stackoverflow.com/users/2433215/tenstar"
+      },
+      "is_answered": true,
+      "view_count": 1113575,
+      "accepted_answer_id": 17500718,
+      "answer_count": 13,
+      "score": 437,
+      "last_activity_date": 1705579180,
+      "creation_date": 1373095158,
+      "last_edit_date": 1635258694,
+      "question_id": 17500704,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/17500704/how-can-i-set-focus-on-an-element-in-an-html-form-using-javascript",
+      "title": "How can I set focus on an element in an HTML form using JavaScript?"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "list",
+        "numpy"
+      ],
+      "owner": {
+        "account_id": 3770394,
+        "reputation": 5435,
+        "user_id": 3132783,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/076b33e831ab1cafb58ef307758af0ed?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "user3132783",
+        "link": "https://stackoverflow.com/users/3132783/user3132783"
+      },
+      "is_answered": true,
+      "view_count": 1329550,
+      "accepted_answer_id": 20763459,
+      "answer_count": 10,
+      "score": 437,
+      "last_activity_date": 1692440307,
+      "creation_date": 1387897747,
+      "last_edit_date": 1679421959,
+      "question_id": 20763012,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/20763012/creating-a-pandas-dataframe-from-a-numpy-array-how-do-i-specify-the-index-colum",
+      "title": "Creating a Pandas DataFrame from a Numpy array: How do I specify the index column and column headers?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "symbols",
+        "ecmascript-harmony",
+        "ecmascript-6"
+      ],
+      "owner": {
+        "account_id": 1095688,
+        "reputation": 4957,
+        "user_id": 1089327,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/00b949fccb7b11dfa1d787347b984058?s=256&d=identicon&r=PG",
+        "display_name": "Yanis",
+        "link": "https://stackoverflow.com/users/1089327/yanis"
+      },
+      "is_answered": true,
+      "view_count": 77840,
+      "accepted_answer_id": 22280202,
+      "answer_count": 7,
+      "score": 437,
+      "last_activity_date": 1714907758,
+      "creation_date": 1392198809,
+      "last_edit_date": 1714891484,
+      "question_id": 21724326,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/21724326/what-is-the-motivation-for-bringing-symbols-to-es6",
+      "title": "What is the motivation for bringing Symbols to ES6?"
+    },
+    {
+      "tags": [
+        "docker"
+      ],
+      "owner": {
+        "account_id": 418059,
+        "reputation": 4654,
+        "user_id": 794401,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/7ed7b765d3b83b8e5fd8059fd3843d1e?s=256&d=identicon&r=PG",
+        "display_name": "Xabs",
+        "link": "https://stackoverflow.com/users/794401/xabs"
+      },
+      "is_answered": true,
+      "view_count": 446620,
+      "accepted_answer_id": 27021154,
+      "answer_count": 15,
+      "score": 437,
+      "last_activity_date": 1687098563,
+      "creation_date": 1399558270,
+      "last_edit_date": 1532494545,
+      "question_id": 23544282,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/23544282/what-is-the-best-way-to-manage-permissions-for-docker-shared-volumes",
+      "title": "What is the (best) way to manage permissions for Docker shared volumes?"
+    },
+    {
+      "tags": [
+        "java",
+        "datetime",
+        "java-8",
+        "milliseconds",
+        "java-time"
+      ],
+      "owner": {
+        "account_id": 1139113,
+        "reputation": 19834,
+        "user_id": 1123501,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/41d62aaf8ac4b7a0971fa65a6625018c?s=256&d=identicon&r=PG",
+        "display_name": "Georgios Syngouroglou",
+        "link": "https://stackoverflow.com/users/1123501/georgios-syngouroglou"
+      },
+      "is_answered": true,
+      "view_count": 622562,
+      "accepted_answer_id": 23945792,
+      "answer_count": 15,
+      "score": 437,
+      "last_activity_date": 1710171900,
+      "creation_date": 1401404278,
+      "last_edit_date": 1424808769,
+      "question_id": 23944370,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/23944370/how-to-get-milliseconds-from-localdatetime-in-java-8",
+      "title": "How to get milliseconds from LocalDateTime in Java 8"
+    },
+    {
+      "tags": [
+        "node.js",
+        "express",
+        "postman"
+      ],
+      "owner": {
+        "account_id": 1993991,
+        "reputation": 4925,
+        "user_id": 1787322,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/d730f93b1376d247884540b4d4d64433?s=256&d=identicon&r=PG",
+        "display_name": "Joseph Dailey",
+        "link": "https://stackoverflow.com/users/1787322/joseph-dailey"
+      },
+      "is_answered": true,
+      "view_count": 527320,
+      "protected_date": 1634813665,
+      "accepted_answer_id": 24557561,
+      "answer_count": 32,
+      "score": 437,
+      "last_activity_date": 1724867100,
+      "creation_date": 1404353036,
+      "last_edit_date": 1673753381,
+      "question_id": 24543847,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/24543847/req-body-empty-on-posts",
+      "title": "req.body empty on posts"
+    },
+    {
+      "tags": [
+        "c#",
+        "asp.net-core",
+        ".net-core"
+      ],
+      "owner": {
+        "account_id": 29967,
+        "reputation": 6058,
+        "user_id": 81377,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.sstatic.net/VREIn.jpg?s=256",
+        "display_name": "weloytty",
+        "link": "https://stackoverflow.com/users/81377/weloytty"
+      },
+      "is_answered": true,
+      "view_count": 563745,
+      "protected_date": 1629142561,
+      "accepted_answer_id": 42309484,
+      "answer_count": 22,
+      "score": 437,
+      "last_activity_date": 1717744982,
+      "creation_date": 1469448435,
+      "last_edit_date": 1517405058,
+      "question_id": 38567353,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/38567353/how-to-determine-if-net-core-is-installed",
+      "title": "How to determine if .NET Core is installed"
+    },
+    {
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "owner": {
+        "account_id": 8500037,
+        "reputation": 8957,
+        "user_id": 6373357,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/b59294ca0d3c6d0a5ba10ada2baf32a7?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "jacobcan118",
+        "link": "https://stackoverflow.com/users/6373357/jacobcan118"
+      },
+      "is_answered": true,
+      "view_count": 525256,
+      "accepted_answer_id": 51710151,
+      "answer_count": 5,
+      "score": 437,
+      "last_activity_date": 1716908125,
+      "creation_date": 1533566033,
+      "last_edit_date": 1716908125,
+      "question_id": 51710037,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/51710037/how-should-i-use-the-optional-type-hint",
+      "title": "How should I use the Optional type hint?"
+    },
+    {
+      "tags": [
+        "asp.net",
+        "visual-studio",
+        "visual-studio-2008"
+      ],
+      "owner": {
+        "account_id": 2160,
+        "reputation": 34163,
+        "user_id": 2975,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/99697456067f614849528136ec3639aa?s=256&d=identicon&r=PG",
+        "display_name": "Glenn Slaven",
+        "link": "https://stackoverflow.com/users/2975/glenn-slaven"
+      },
+      "is_answered": true,
+      "view_count": 358765,
+      "accepted_answer_id": 45327,
+      "answer_count": 50,
+      "community_owned_date": 1358749417,
+      "score": 436,
+      "last_activity_date": 1711526220,
+      "creation_date": 1220595666,
+      "last_edit_date": 1225591586,
+      "question_id": 45325,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/45325/how-do-you-force-visual-studio-to-regenerate-the-designer-files-for-aspx-ascx-f",
+      "title": "How do you force Visual Studio to regenerate the .designer files for aspx/ascx files?"
+    },
+    {
+      "tags": [
+        "java",
+        "class",
+        "generics",
+        "bounded-wildcard"
+      ],
+      "owner": {
+        "account_id": 7944,
+        "reputation": 21155,
+        "user_id": 14007,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.sstatic.net/oJZ0p.png?s=256",
+        "display_name": "Alex Beardsley",
+        "link": "https://stackoverflow.com/users/14007/alex-beardsley"
+      },
+      "is_answered": true,
+      "view_count": 193911,
+      "accepted_answer_id": 745769,
+      "answer_count": 2,
+      "score": 436,
+      "last_activity_date": 1610003518,
+      "creation_date": 1239664914,
+      "last_edit_date": 1610003518,
+      "question_id": 745756,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/745756/java-generics-with-a-class-an-interface-together",
+      "title": "Java Generics With a Class &amp; an Interface - Together"
+    },
+    {
+      "tags": [
+        "python",
+        "relative-path",
+        "path"
+      ],
+      "owner": {
+        "account_id": 6397,
+        "reputation": 30161,
+        "user_id": 10738,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/79a240f45251968673062c8c023e0375?s=256&d=identicon&r=PG",
+        "display_name": "baudtack",
+        "link": "https://stackoverflow.com/users/10738/baudtack"
+      },
+      "is_answered": true,
+      "view_count": 950639,
+      "closed_date": 1662252583,
+      "accepted_answer_id": 918178,
+      "answer_count": 21,
+      "score": 436,
+      "last_activity_date": 1694451999,
+      "creation_date": 1243460601,
+      "question_id": 918154,
+      "link": "https://stackoverflow.com/questions/918154/relative-paths-in-python",
+      "closed_reason": "Duplicate",
+      "title": "Relative paths in Python"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "t-sql"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Don Of Qau"
+      },
+      "is_answered": true,
+      "view_count": 1008432,
+      "answer_count": 17,
+      "score": 436,
+      "last_activity_date": 1707869358,
+      "creation_date": 1247844883,
+      "last_edit_date": 1640881889,
+      "question_id": 1144051,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1144051/selecting-data-from-two-different-servers-in-sql-server",
+      "title": "Selecting data from two different servers in SQL Server"
+    },
+    {
+      "tags": [
+        "mysql"
+      ],
+      "owner": {
+        "account_id": 111852,
+        "reputation": 78763,
+        "user_id": 295264,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/a88d1309c2ea93cadb3f11b58890ca83?s=256&d=identicon&r=PG",
+        "display_name": "Starx",
+        "link": "https://stackoverflow.com/users/295264/starx"
+      },
+      "is_answered": true,
+      "view_count": 947315,
+      "accepted_answer_id": 3031414,
+      "answer_count": 21,
+      "score": 436,
+      "last_activity_date": 1718259328,
+      "creation_date": 1276413855,
+      "last_edit_date": 1448242215,
+      "question_id": 3031412,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/3031412/how-to-export-a-mysql-database-using-command-prompt",
+      "title": "How to export a mysql database using Command Prompt?"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-mvc",
+        "modelattribute"
+      ],
+      "owner": {
+        "account_id": 179953,
+        "reputation": 6607,
+        "user_id": 412957,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://i.sstatic.net/og9rr.jpg?s=256",
+        "display_name": "Mohammad Adnan",
+        "link": "https://stackoverflow.com/users/412957/mohammad-adnan"
+      },
+      "is_answered": true,
+      "view_count": 454329,
+      "protected_date": 1537155978,
+      "accepted_answer_id": 3423501,
+      "answer_count": 14,
+      "score": 436,
+      "last_activity_date": 1670620097,
+      "creation_date": 1281093630,
+      "last_edit_date": 1445142623,
+      "question_id": 3423262,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/3423262/what-is-modelattribute-in-spring-mvc",
+      "title": "What is @ModelAttribute in Spring MVC?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "foreach",
+        "getelementsbyclassname"
+      ],
+      "owner": {
+        "account_id": 24830,
+        "reputation": 11050,
+        "user_id": 63379,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/8a4d23aaaeb58350c848b93df1ed0ada?s=256&d=identicon&r=PG",
+        "display_name": "Steve Claridge",
+        "link": "https://stackoverflow.com/users/63379/steve-claridge"
+      },
+      "is_answered": true,
+      "view_count": 408610,
+      "accepted_answer_id": 3871602,
+      "answer_count": 14,
+      "score": 436,
+      "last_activity_date": 1671580144,
+      "creation_date": 1286360883,
+      "last_edit_date": 1648658698,
+      "question_id": 3871547,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3871547/iterating-over-result-of-getelementsbyclassname-using-array-foreach",
+      "title": "Iterating over result of getElementsByClassName using Array.forEach"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 680921,
+        "reputation": 4465,
+        "user_id": 530667,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/0dc13b72029eca7423068ee025baaa95?s=256&d=identicon&r=PG",
+        "display_name": "Arthur",
+        "link": "https://stackoverflow.com/users/530667/arthur"
+      },
+      "is_answered": true,
+      "view_count": 997064,
+      "answer_count": 21,
+      "score": 436,
+      "last_activity_date": 1702659514,
+      "creation_date": 1291490015,
+      "last_edit_date": 1345210747,
+      "question_id": 4355303,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/4355303/how-can-i-convert-a-long-to-int-in-java",
+      "title": "How can I convert a long to int in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "maven"
+      ],
+      "owner": {
+        "account_id": 111515,
+        "reputation": 6390,
+        "user_id": 294552,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/570db31e9220b04f17fd6b5e80ede80b?s=256&d=identicon&r=PG",
+        "display_name": "sandeepkunkunuru",
+        "link": "https://stackoverflow.com/users/294552/sandeepkunkunuru"
+      },
+      "is_answered": true,
+      "view_count": 471986,
+      "accepted_answer_id": 5726599,
+      "answer_count": 12,
+      "score": 436,
+      "last_activity_date": 1709307402,
+      "creation_date": 1303280506,
+      "last_edit_date": 1651752504,
+      "question_id": 5726291,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5726291/updating-version-numbers-of-modules-in-a-multi-module-maven-project",
+      "title": "Updating version numbers of modules in a multi-module Maven project"
+    },
+    {
+      "tags": [
+        "android",
+        "placeholder"
+      ],
+      "owner": {
+        "account_id": 983168,
+        "reputation": 6165,
+        "user_id": 1002338,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/8c597b8edc790ca4fdf940b00cc5117b?s=256&d=identicon&r=PG",
+        "display_name": "Mona",
+        "link": "https://stackoverflow.com/users/1002338/mona"
+      },
+      "is_answered": true,
+      "view_count": 422333,
+      "accepted_answer_id": 8221482,
+      "answer_count": 8,
+      "score": 436,
+      "last_activity_date": 1573428695,
+      "creation_date": 1321927310,
+      "last_edit_date": 1443604226,
+      "question_id": 8221072,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/8221072/android-add-placeholder-text-to-edittext",
+      "title": "Android add placeholder text to EditText"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "account_id": 452564,
+        "reputation": 11726,
+        "user_id": 849065,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/459a908e745eae60a8bea21d5f6d50a0?s=256&d=identicon&r=PG",
+        "display_name": "Paul",
+        "link": "https://stackoverflow.com/users/849065/paul"
+      },
+      "is_answered": true,
+      "view_count": 696134,
+      "accepted_answer_id": 8900730,
+      "answer_count": 18,
+      "score": 436,
+      "last_activity_date": 1650967260,
+      "creation_date": 1326829389,
+      "last_edit_date": 1450122245,
+      "question_id": 8900701,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/8900701/creating-default-object-from-empty-value-in-php",
+      "title": "Creating default object from empty value in PHP?"
+    },
+    {
+      "tags": [
+        "sql-server",
+        "entity-framework",
+        "database-design",
+        "primary-key",
+        "guid"
+      ],
+      "owner": {
+        "account_id": 1304404,
+        "reputation": 14971,
+        "user_id": 1253667,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://i.sstatic.net/mgWcU.png?s=256",
+        "display_name": "VAAA",
+        "link": "https://stackoverflow.com/users/1253667/vaaa"
+      },
+      "is_answered": true,
+      "view_count": 236711,
+      "closed_date": 1640272113,
+      "accepted_answer_id": 11938495,
+      "answer_count": 9,
+      "score": 436,
+      "last_activity_date": 1709138355,
+      "creation_date": 1344873789,
+      "last_edit_date": 1407907243,
+      "question_id": 11938044,
+      "link": "https://stackoverflow.com/questions/11938044/what-are-the-best-practices-for-using-a-guid-as-a-primary-key-specifically-rega",
+      "closed_reason": "Opinion-based",
+      "title": "What are the best practices for using a GUID as a primary key, specifically regarding performance?"
+    },
+    {
+      "tags": [
+        ".net",
+        "entity-framework",
+        "foreign-keys",
+        "ef-code-first",
+        "entity-framework-4"
+      ],
+      "owner": {
+        "account_id": 484073,
+        "reputation": 12772,
+        "user_id": 899530,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/91eeaa6cfac17cb16f01000388cbfad3?s=256&d=identicon&r=PG",
+        "display_name": "SB2055",
+        "link": "https://stackoverflow.com/users/899530/sb2055"
+      },
+      "is_answered": true,
+      "view_count": 404195,
+      "accepted_answer_id": 17127512,
+      "answer_count": 20,
+      "score": 436,
+      "last_activity_date": 1706229618,
+      "creation_date": 1371325976,
+      "last_edit_date": 1578898887,
+      "question_id": 17127351,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/17127351/introducing-foreign-key-constraint-may-cause-cycles-or-multiple-cascade-paths",
+      "title": "Introducing FOREIGN KEY constraint may cause cycles or multiple cascade paths - why?"
+    },
+    {
+      "tags": [
+        "git",
+        "ssh",
+        "bitbucket",
+        "redhat",
+        "ssh-agent"
+      ],
+      "owner": {
+        "account_id": 1488986,
+        "reputation": 4978,
+        "user_id": 1396575,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/c20daebf1a63beefb19c395ca4dfb977?s=256&d=identicon&r=PG",
+        "display_name": "Pathsofdesign",
+        "link": "https://stackoverflow.com/users/1396575/pathsofdesign"
+      },
+      "is_answered": true,
+      "view_count": 464278,
+      "protected_date": 1533762380,
+      "closed_date": 1610675801,
+      "accepted_answer_id": 18915067,
+      "answer_count": 12,
+      "score": 436,
+      "last_activity_date": 1721017587,
+      "creation_date": 1379530122,
+      "last_edit_date": 1400607826,
+      "question_id": 18880024,
+      "link": "https://stackoverflow.com/questions/18880024/start-ssh-agent-on-login",
+      "closed_reason": "Not suitable for this site",
+      "title": "Start ssh-agent on login"
+    },
+    {
+      "tags": [
+        "macos",
+        "command-line-interface",
+        "atom-editor"
+      ],
+      "owner": {
+        "account_id": 165268,
+        "reputation": 10078,
+        "user_id": 388573,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/097f9f15bb97c2d6b8392f1858a7d8a8?s=256&d=identicon&r=PG",
+        "display_name": "Anders",
+        "link": "https://stackoverflow.com/users/388573/anders"
+      },
+      "is_answered": true,
+      "view_count": 352641,
+      "protected_date": 1472680406,
+      "accepted_answer_id": 22399909,
+      "answer_count": 20,
+      "score": 436,
+      "last_activity_date": 1630047479,
+      "creation_date": 1394744147,
+      "last_edit_date": 1626337327,
+      "question_id": 22390709,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/22390709/how-can-i-open-the-atom-editor-from-the-command-line-in-os-x",
+      "title": "How can I open the Atom editor from the command line in OS X?"
+    },
+    {
+      "tags": [
+        "ios",
+        "swift",
+        "optional-parameters",
+        "swift-protocols",
+        "swift-extensions"
+      ],
+      "owner": {
+        "account_id": 276196,
+        "reputation": 12473,
+        "user_id": 569497,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/f246158eaf91c15148b4281c9535b18f?s=256&d=identicon&r=PG",
+        "display_name": "Selvin",
+        "link": "https://stackoverflow.com/users/569497/selvin"
+      },
+      "is_answered": true,
+      "view_count": 241586,
+      "accepted_answer_id": 24032961,
+      "answer_count": 19,
+      "score": 436,
+      "last_activity_date": 1675204352,
+      "creation_date": 1401871311,
+      "last_edit_date": 1675204352,
+      "question_id": 24032754,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/24032754/how-does-one-declare-optional-methods-in-a-swift-protocol",
+      "title": "How does one declare optional methods in a Swift protocol?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode"
+      ],
+      "owner": {
+        "account_id": 5188110,
+        "reputation": 4431,
+        "user_id": 4151881,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.sstatic.net/tQUrV.jpg?s=256",
+        "display_name": "Faisal Syed",
+        "link": "https://stackoverflow.com/users/4151881/faisal-syed"
+      },
+      "is_answered": true,
+      "view_count": 269751,
+      "accepted_answer_id": 26791721,
+      "answer_count": 43,
+      "score": 436,
+      "last_activity_date": 1715170672,
+      "creation_date": 1415317020,
+      "last_edit_date": 1684269541,
+      "question_id": 26791477,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/26791477/xcode-device-locked-when-iphone-is-unlocked",
+      "title": "Xcode &quot;Device Locked&quot; When iPhone is unlocked"
+    },
+    {
+      "tags": [
+        "string",
+        "swift",
+        "trim"
+      ],
+      "owner": {
+        "account_id": 3747178,
+        "reputation": 14847,
+        "user_id": 3115587,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.sstatic.net/GbSbw.jpg?s=256",
+        "display_name": "tounaobun",
+        "link": "https://stackoverflow.com/users/3115587/tounaobun"
+      },
+      "is_answered": true,
+      "view_count": 225716,
+      "accepted_answer_id": 26797958,
+      "answer_count": 16,
+      "score": 436,
+      "last_activity_date": 1725474960,
+      "creation_date": 1415351553,
+      "last_edit_date": 1721988844,
+      "question_id": 26797739,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/26797739/does-swift-have-a-trim-method-on-string",
+      "title": "Does Swift have a trim method on String?"
+    },
+    {
+      "tags": [
+        "node.js",
+        "shell",
+        "npm",
+        "pm2"
+      ],
+      "owner": {
+        "account_id": 4569794,
+        "reputation": 24128,
+        "user_id": 3709775,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/373edb4c96a5d301f39e3f9949b7d25b?s=256&d=identicon&r=PG",
+        "display_name": "svnm",
+        "link": "https://stackoverflow.com/users/3709775/svnm"
+      },
+      "is_answered": true,
+      "view_count": 623861,
+      "accepted_answer_id": 37775318,
+      "answer_count": 23,
+      "score": 436,
+      "last_activity_date": 1695723068,
+      "creation_date": 1437632282,
+      "last_edit_date": 1593093800,
+      "question_id": 31579509,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/31579509/can-pm2-run-an-npm-start-script",
+      "title": "Can pm2 run an &#39;npm start&#39; script"
+    },
+    {
+      "tags": [
+        "html",
+        "cross-domain",
+        "cors",
+        "subresource-integrity"
+      ],
+      "owner": {
+        "account_id": 6799167,
+        "reputation": 4369,
+        "user_id": 5233146,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6bec4cf8a6cde7d270dc16034a27ea13?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "New user",
+        "link": "https://stackoverflow.com/users/5233146/new-user"
+      },
+      "is_answered": true,
+      "view_count": 171931,
+      "answer_count": 3,
+      "score": 436,
+      "last_activity_date": 1629957087,
+      "creation_date": 1439756641,
+      "last_edit_date": 1529331288,
+      "question_id": 32039568,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/32039568/what-are-the-integrity-and-crossorigin-attributes",
+      "title": "What are the integrity and crossorigin attributes?"
+    },
+    {
+      "tags": [
+        "node.js",
+        "mongodb",
+        "mongoose"
+      ],
+      "owner": {
+        "account_id": 3028344,
+        "reputation": 8488,
+        "user_id": 2567859,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://i.sstatic.net/kJ7FA.jpg?s=256",
+        "display_name": "Dreams",
+        "link": "https://stackoverflow.com/users/2567859/dreams"
+      },
+      "is_answered": true,
+      "view_count": 473141,
+      "accepted_answer_id": 32811548,
+      "answer_count": 17,
+      "score": 436,
+      "last_activity_date": 1720584954,
+      "creation_date": 1443379294,
+      "last_edit_date": 1540919248,
+      "question_id": 32811510,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/32811510/mongoose-findoneandupdate-doesnt-return-updated-document",
+      "title": "Mongoose: findOneAndUpdate doesn&#39;t return updated document"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "async-await"
+      ],
+      "owner": {
+        "account_id": 4738877,
+        "reputation": 8639,
+        "user_id": 3832377,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://i.sstatic.net/hF21J.jpg?s=256",
+        "display_name": "Alexander Craggs",
+        "link": "https://stackoverflow.com/users/3832377/alexander-craggs"
+      },
+      "is_answered": true,
+      "view_count": 424695,
+      "protected_date": 1714041418,
+      "accepted_answer_id": 43433773,
+      "answer_count": 23,
+      "score": 436,
+      "last_activity_date": 1729003403,
+      "creation_date": 1492292486,
+      "last_edit_date": 1714038072,
+      "question_id": 43431550,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/43431550/how-can-i-invoke-asynchronous-code-within-a-constructor",
+      "title": "How can I invoke asynchronous code within a constructor?"
+    },
+    {
+      "tags": [
+        "generics",
+        "kotlin",
+        "kotlin-reified-type-parameters"
+      ],
+      "owner": {
+        "account_id": 2903200,
+        "reputation": 5919,
+        "user_id": 2489327,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/e07089b141dd0d9ee102a3b153bbb280?s=256&d=identicon&r=PG",
+        "display_name": "hl3mukkel",
+        "link": "https://stackoverflow.com/users/2489327/hl3mukkel"
+      },
+      "is_answered": true,
+      "view_count": 146266,
+      "accepted_answer_id": 45952201,
+      "answer_count": 4,
+      "score": 436,
+      "last_activity_date": 1728661966,
+      "creation_date": 1504048274,
+      "last_edit_date": 1673710889,
+      "question_id": 45949584,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/45949584/how-does-the-reified-keyword-in-kotlin-work",
+      "title": "How does the reified keyword in Kotlin work?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "jsx",
+        "react-hooks"
+      ],
+      "owner": {
+        "account_id": 5540272,
+        "reputation": 7172,
+        "user_id": 4397077,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.sstatic.net/wOLaH.jpg?s=256",
+        "display_name": "Abrar",
+        "link": "https://stackoverflow.com/users/4397077/abrar"
+      },
+      "is_answered": true,
+      "view_count": 474042,
+      "protected_date": 1700549356,
+      "accepted_answer_id": 53465182,
+      "answer_count": 21,
+      "score": 436,
+      "last_activity_date": 1700557167,
+      "creation_date": 1543119188,
+      "question_id": 53464595,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/53464595/how-to-use-componentwillmount-in-react-hooks",
+      "title": "How to use componentWillMount() in React Hooks?"
+    },
+    {
+      "tags": [
+        "powershell",
+        "explorer"
+      ],
+      "owner": {
+        "account_id": 18052,
+        "reputation": 4863,
+        "user_id": 1088682,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/2621b424afd05537ef4db6ee67f8478f?s=256&d=identicon&r=PG",
+        "display_name": "Lachmania",
+        "link": "https://stackoverflow.com/users/1088682/lachmania"
+      },
+      "is_answered": true,
+      "view_count": 199618,
+      "accepted_answer_id": 321092,
+      "answer_count": 13,
+      "score": 435,
+      "last_activity_date": 1727337643,
+      "creation_date": 1227701948,
+      "last_edit_date": 1666922779,
+      "question_id": 320509,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/320509/is-it-possible-to-open-a-windows-explorer-window-from-powershell",
+      "title": "Is it possible to open a Windows Explorer window from PowerShell?"
+    },
+    {
+      "tags": [
+        "java",
+        "superclass"
+      ],
+      "owner": {
+        "account_id": 23949,
+        "reputation": 63606,
+        "user_id": 60518,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://i.sstatic.net/J9AwvZ2C.jpg?s=256",
+        "display_name": "Tim B&#252;the",
+        "link": "https://stackoverflow.com/users/60518/tim-b%c3%bcthe"
+      },
+      "is_answered": true,
+      "view_count": 228120,
+      "protected_date": 1540264999,
+      "accepted_answer_id": 586397,
+      "answer_count": 22,
+      "score": 435,
+      "last_activity_date": 1576833119,
+      "creation_date": 1235574638,
+      "last_edit_date": 1495541441,
+      "question_id": 586363,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/586363/why-is-super-super-method-not-allowed-in-java",
+      "title": "Why is super.super.method(); not allowed in Java?"
+    },
+    {
+      "tags": [
+        "git",
+        "git-merge"
+      ],
+      "owner": {
+        "account_id": 107965,
+        "reputation": 110050,
+        "user_id": 286802,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/700f3ac94a7d463cb5a9cc0318ae77d8?s=256&d=identicon&r=PG",
+        "display_name": "michael",
+        "link": "https://stackoverflow.com/users/286802/michael"
+      },
+      "is_answered": true,
+      "view_count": 646787,
+      "accepted_answer_id": 2474139,
+      "answer_count": 12,
+      "score": 435,
+      "last_activity_date": 1680215209,
+      "creation_date": 1268955788,
+      "last_edit_date": 1497607206,
+      "question_id": 2474097,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2474097/how-do-i-finish-the-merge-after-resolving-my-merge-conflicts",
+      "title": "How do I finish the merge after resolving my merge conflicts?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-intent",
+        "intentfilter"
+      ],
+      "owner": {
+        "account_id": 621365,
+        "reputation": 4359,
+        "user_id": 356543,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/0b427270691f6de2d788d16312e38bfe?s=256&d=identicon&r=PG",
+        "display_name": "Parimal Modi",
+        "link": "https://stackoverflow.com/users/356543/parimal-modi"
+      },
+      "is_answered": true,
+      "view_count": 366925,
+      "protected_date": 1383121635,
+      "answer_count": 16,
+      "score": 435,
+      "last_activity_date": 1610994442,
+      "creation_date": 1275489294,
+      "last_edit_date": 1439635726,
+      "question_id": 2958701,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2958701/launch-custom-android-application-from-android-browser",
+      "title": "Launch custom android application from android browser"
+    },
+    {
+      "tags": [
+        "python",
+        "subprocess"
+      ],
+      "owner": {
+        "account_id": 79477,
+        "reputation": 130949,
+        "user_id": 225312,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/98be1fca8529611a09e77da800faa817?s=256&d=identicon&r=PG",
+        "display_name": "user225312",
+        "link": "https://stackoverflow.com/users/225312/user225312"
+      },
+      "is_answered": true,
+      "view_count": 381792,
+      "accepted_answer_id": 3172488,
+      "answer_count": 7,
+      "score": 435,
+      "last_activity_date": 1672103188,
+      "creation_date": 1278182395,
+      "last_edit_date": 1672103188,
+      "question_id": 3172470,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3172470/actual-meaning-of-shell-true-in-subprocess",
+      "title": "Actual meaning of &#39;shell=True&#39; in subprocess"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server"
+      ],
+      "owner": {
+        "account_id": 114068,
+        "reputation": 18530,
+        "user_id": 300118,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/958231ba756ddcb2b42e29a959f87c28?s=256&d=identicon&r=PG",
+        "display_name": "Awan",
+        "link": "https://stackoverflow.com/users/300118/awan"
+      },
+      "is_answered": true,
+      "view_count": 1728389,
+      "protected_date": 1462884439,
+      "accepted_answer_id": 3914051,
+      "answer_count": 22,
+      "score": 435,
+      "last_activity_date": 1716150968,
+      "creation_date": 1286879028,
+      "last_edit_date": 1606413436,
+      "question_id": 3913620,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3913620/get-all-table-names-of-a-particular-database-by-sql-query",
+      "title": "Get all table names of a particular database by SQL query?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "internet-explorer",
+        "firebug",
+        "google-chrome-devtools"
+      ],
+      "owner": {
+        "account_id": 22617,
+        "reputation": 29070,
+        "user_id": 55948,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/dcd1fedb721be7dbfc73847c483dc1c7?s=256&d=identicon&r=PG",
+        "display_name": "kenwarner",
+        "link": "https://stackoverflow.com/users/55948/kenwarner"
+      },
+      "is_answered": true,
+      "view_count": 263483,
+      "closed_date": 1471102370,
+      "accepted_answer_id": 18928130,
+      "answer_count": 16,
+      "score": 435,
+      "last_activity_date": 1595095298,
+      "creation_date": 1296962568,
+      "last_edit_date": 1595095298,
+      "question_id": 4911338,
+      "link": "https://stackoverflow.com/questions/4911338/tools-to-selectively-copy-htmlcssjs-from-a-specific-element-of-dom",
+      "closed_reason": "Not suitable for this site",
+      "title": "Tools to selectively Copy HTML+CSS+JS From A Specific Element of DOM"
+    },
+    {
+      "tags": [
+        "git",
+        "diff",
+        "git-diff"
+      ],
+      "owner": {
+        "account_id": 21342,
+        "reputation": 12291,
+        "user_id": 51789,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/a174b4521f9e80327c0e63fb88657933?s=256&d=identicon&r=PG",
+        "display_name": "Chris K",
+        "link": "https://stackoverflow.com/users/51789/chris-k"
+      },
+      "is_answered": true,
+      "view_count": 351357,
+      "accepted_answer_id": 5586435,
+      "answer_count": 14,
+      "score": 435,
+      "last_activity_date": 1682089615,
+      "creation_date": 1302203921,
+      "last_edit_date": 1608326076,
+      "question_id": 5586383,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5586383/how-to-diff-one-file-to-an-arbitrary-version-in-git",
+      "title": "How to diff one file to an arbitrary version in Git?"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "asp.net-mvc",
+        "asp.net-mvc-3",
+        "razor"
+      ],
+      "owner": {
+        "account_id": 43161,
+        "reputation": 13999,
+        "user_id": 126015,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/5d11472083f0a899276616a936637e67?s=256&d=identicon&r=PG",
+        "display_name": "vondip",
+        "link": "https://stackoverflow.com/users/126015/vondip"
+      },
+      "is_answered": true,
+      "view_count": 467487,
+      "accepted_answer_id": 6601731,
+      "answer_count": 7,
+      "score": 435,
+      "last_activity_date": 1653569903,
+      "creation_date": 1309979792,
+      "last_edit_date": 1486485033,
+      "question_id": 6601715,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/6601715/how-to-declare-a-local-variable-in-razor",
+      "title": "How to declare a local variable in Razor?"
+    },
+    {
+      "tags": [
+        "c++",
+        "cmake",
+        "c-preprocessor"
+      ],
+      "owner": {
+        "account_id": 248587,
+        "reputation": 6285,
+        "user_id": 524041,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/5b841c8c8aa1d389cf66cb51fb128e23?s=256&d=identicon&r=PG",
+        "display_name": "Mythli",
+        "link": "https://stackoverflow.com/users/524041/mythli"
+      },
+      "is_answered": true,
+      "view_count": 435137,
+      "accepted_answer_id": 9017635,
+      "answer_count": 6,
+      "score": 435,
+      "last_activity_date": 1714907173,
+      "creation_date": 1327577758,
+      "last_edit_date": 1706062539,
+      "question_id": 9017573,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/9017573/define-a-preprocessor-macro-through-cmake",
+      "title": "Define a preprocessor macro through CMake"
+    },
+    {
+      "tags": [
+        "json",
+        "node.js",
+        "express"
+      ],
+      "owner": {
+        "account_id": 72574,
+        "reputation": 55269,
+        "user_id": 209512,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/a3a05b1c7dedf93a2ec3b97003aa7959?s=256&d=identicon&r=PG",
+        "display_name": "neuromancer",
+        "link": "https://stackoverflow.com/users/209512/neuromancer"
+      },
+      "is_answered": true,
+      "view_count": 697336,
+      "accepted_answer_id": 10007542,
+      "answer_count": 8,
+      "score": 435,
+      "last_activity_date": 1678128007,
+      "creation_date": 1333520854,
+      "last_edit_date": 1485104085,
+      "question_id": 10005939,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/10005939/how-do-i-consume-the-json-post-data-in-an-express-application",
+      "title": "How do I consume the JSON POST data in an Express application"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "owner": {
+        "account_id": 43918,
+        "reputation": 15139,
+        "user_id": 128580,
+        "user_type": "registered",
+        "accept_rate": 49,
+        "profile_image": "https://www.gravatar.com/avatar/3bc530a80bd7c88a69bebb49acf5b925?s=256&d=identicon&r=PG",
+        "display_name": "duckworthd",
+        "link": "https://stackoverflow.com/users/128580/duckworthd"
+      },
+      "is_answered": true,
+      "view_count": 825197,
+      "protected_date": 1523901005,
+      "accepted_answer_id": 11872393,
+      "answer_count": 15,
+      "score": 435,
+      "last_activity_date": 1702417321,
+      "creation_date": 1344446737,
+      "last_edit_date": 1548128672,
+      "question_id": 11869910,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining",
+      "title": "pandas: filter rows of DataFrame with operator chaining"
+    },
+    {
+      "tags": [
+        "python",
+        "string",
+        "python-3.x",
+        "binary"
+      ],
+      "owner": {
+        "account_id": 1116463,
+        "reputation": 46791,
+        "user_id": 1272683,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/6ea2bbebf39d8f4d9ba654471289d576?s=256&d=identicon&r=PG",
+        "display_name": "Hanfei Sun",
+        "link": "https://stackoverflow.com/users/1272683/hanfei-sun"
+      },
+      "is_answered": true,
+      "view_count": 689861,
+      "protected_date": 1562588057,
+      "closed_date": 1678296465,
+      "accepted_answer_id": 17615424,
+      "answer_count": 3,
+      "score": 435,
+      "last_activity_date": 1697968816,
+      "creation_date": 1373633706,
+      "question_id": 17615414,
+      "link": "https://stackoverflow.com/questions/17615414/how-to-convert-binary-string-to-normal-string-in-python3",
+      "closed_reason": "Duplicate",
+      "title": "How to convert &#39;binary string&#39; to normal string in Python3?"
+    },
+    {
+      "tags": [
+        "python",
+        "numpy",
+        "matrix",
+        "multidimensional-array"
+      ],
+      "owner": {
+        "account_id": 220452,
+        "reputation": 20769,
+        "user_id": 477865,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://i.sstatic.net/thOfN.gif?s=256",
+        "display_name": "clwen",
+        "link": "https://stackoverflow.com/users/477865/clwen"
+      },
+      "is_answered": true,
+      "view_count": 243272,
+      "accepted_answer_id": 22074424,
+      "answer_count": 8,
+      "score": 435,
+      "last_activity_date": 1646972210,
+      "creation_date": 1393448135,
+      "last_edit_date": 1420826788,
+      "question_id": 22053050,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r",
+      "title": "Difference between numpy.array shape (R, 1) and (R,)"
+    },
+    {
+      "tags": [
+        ".net",
+        "visual-studio",
+        "msbuild",
+        "visual-studio-express"
+      ],
+      "owner": {
+        "account_id": 115706,
+        "reputation": 33670,
+        "user_id": 303685,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://i.sstatic.net/uXNpf.jpg?s=256",
+        "display_name": "Water Cooler v2",
+        "link": "https://stackoverflow.com/users/303685/water-cooler-v2"
+      },
+      "is_answered": true,
+      "view_count": 343923,
+      "answer_count": 22,
+      "score": 435,
+      "last_activity_date": 1623952950,
+      "creation_date": 1405483689,
+      "last_edit_date": 1573068563,
+      "question_id": 24772053,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/24772053/found-conflicts-between-different-versions-of-the-same-dependent-assembly-that-c",
+      "title": "Found conflicts between different versions of the same dependent assembly that could not be resolved"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "spring-mvc"
+      ],
+      "owner": {
+        "account_id": 3732375,
+        "reputation": 4449,
+        "user_id": 3104319,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/d84709f027ad67d1e6ab7d1858ed084a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Srikanth",
+        "link": "https://stackoverflow.com/users/3104319/srikanth"
+      },
+      "is_answered": true,
+      "view_count": 260565,
+      "protected_date": 1516508218,
+      "accepted_answer_id": 25242458,
+      "answer_count": 15,
+      "score": 435,
+      "last_activity_date": 1664568185,
+      "creation_date": 1407756850,
+      "last_edit_date": 1448134577,
+      "question_id": 25242321,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/25242321/difference-between-spring-controller-and-restcontroller-annotation",
+      "title": "Difference between spring @Controller and @RestController annotation"
+    },
+    {
+      "tags": [
+        "visual-studio-code"
+      ],
+      "owner": {
+        "account_id": 10046,
+        "reputation": 51621,
+        "user_id": 18797,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.sstatic.net/l2MEN.jpg?s=256",
+        "display_name": "Binary Worrier",
+        "link": "https://stackoverflow.com/users/18797/binary-worrier"
+      },
+      "is_answered": true,
+      "view_count": 245569,
+      "accepted_answer_id": 29965036,
+      "answer_count": 21,
+      "score": 435,
+      "last_activity_date": 1692902021,
+      "creation_date": 1430388361,
+      "last_edit_date": 1689170716,
+      "question_id": 29964825,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/29964825/how-do-i-open-multiple-instances-of-visual-studio-code",
+      "title": "How do I open multiple instances of Visual Studio Code?"
+    },
+    {
+      "tags": [
+        "java",
+        "performance",
+        "processing-efficiency",
+        "microbenchmark",
+        "branch-prediction"
+      ],
+      "owner": {
+        "account_id": 6650510,
+        "reputation": 6264,
+        "user_id": 5132826,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/f857415cbbb419c70cdb1952a5e67cae?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Maljam",
+        "link": "https://stackoverflow.com/users/5132826/maljam"
+      },
+      "is_answered": true,
+      "view_count": 25833,
+      "accepted_answer_id": 35531496,
+      "answer_count": 6,
+      "score": 435,
+      "last_activity_date": 1644896528,
+      "creation_date": 1456019477,
+      "last_edit_date": 1592644375,
+      "question_id": 35531369,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/35531369/why-is-ab-0-faster-than-a-0-b-0-in-java",
+      "title": "Why is (a*b != 0) faster than (a != 0 &amp;&amp; b != 0) in Java?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-fileprovider"
+      ],
+      "owner": {
+        "account_id": 3760398,
+        "reputation": 4795,
+        "user_id": 3125587,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.sstatic.net/4eVjx.png?s=256",
+        "display_name": "Pivoman",
+        "link": "https://stackoverflow.com/users/3125587/pivoman"
+      },
+      "is_answered": true,
+      "view_count": 275978,
+      "protected_date": 1556400674,
+      "accepted_answer_id": 42516202,
+      "answer_count": 35,
+      "score": 435,
+      "last_activity_date": 1690422484,
+      "creation_date": 1488306275,
+      "last_edit_date": 1540287549,
+      "question_id": 42516126,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/42516126/fileprovider-illegalargumentexception-failed-to-find-configured-root",
+      "title": "FileProvider - IllegalArgumentException: Failed to find configured root"
+    },
+    {
+      "tags": [
+        "python",
+        "boto3"
+      ],
+      "owner": {
+        "account_id": 9418583,
+        "reputation": 5441,
+        "user_id": 7005567,
+        "user_type": "registered",
+        "accept_rate": 25,
+        "profile_image": "https://lh5.googleusercontent.com/-9qC8VOR16jg/AAAAAAAAAAI/AAAAAAAAD98/WP4-O_iaoJo/photo.jpg?sz=256",
+        "display_name": "shiva",
+        "link": "https://stackoverflow.com/users/7005567/shiva"
+      },
+      "is_answered": true,
+      "view_count": 304714,
+      "accepted_answer_id": 48867829,
+      "answer_count": 3,
+      "score": 435,
+      "last_activity_date": 1720556547,
+      "creation_date": 1489579052,
+      "last_edit_date": 1703559404,
+      "question_id": 42809096,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/42809096/difference-in-boto3-between-resource-client-and-session",
+      "title": "Difference in Boto3 between resource, client, and session?"
+    },
+    {
+      "tags": [
+        "php",
+        "laravel",
+        "laravel-5",
+        "laravel-artisan"
+      ],
+      "owner": {
+        "account_id": 6986319,
+        "reputation": 4871,
+        "user_id": 5547502,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/6ac15b5b693b49ecc4dff10527a28286?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Carlos F",
+        "link": "https://stackoverflow.com/users/5547502/carlos-f"
+      },
+      "is_answered": true,
+      "view_count": 722931,
+      "protected_date": 1506511475,
+      "accepted_answer_id": 44839664,
+      "answer_count": 26,
+      "score": 435,
+      "last_activity_date": 1726122149,
+      "creation_date": 1498802807,
+      "last_edit_date": 1703515018,
+      "question_id": 44839648,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/44839648/no-application-encryption-key-has-been-specified",
+      "title": "No Application Encryption Key Has Been Specified"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "centering",
+        "css-grid"
+      ],
+      "owner": {
+        "account_id": 3540159,
+        "reputation": 4469,
+        "user_id": 2957496,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.sstatic.net/vk7Xt.jpg?s=256",
+        "display_name": "beetroot",
+        "link": "https://stackoverflow.com/users/2957496/beetroot"
+      },
+      "is_answered": true,
+      "view_count": 917211,
+      "accepted_answer_id": 45599428,
+      "answer_count": 10,
+      "score": 435,
+      "last_activity_date": 1714960933,
+      "creation_date": 1502052779,
+      "last_edit_date": 1502307256,
+      "question_id": 45536537,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/45536537/centering-in-css-grid",
+      "title": "Centering in CSS Grid"
+    },
+    {
+      "tags": [
+        "php",
+        "eol"
+      ],
+      "owner": {
+        "account_id": 2680,
+        "reputation": 49706,
+        "user_id": 3757,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/886cefc5134a9df362fe871b0ab71d38?s=256&d=identicon&r=PG",
+        "display_name": "Christian Oudard",
+        "link": "https://stackoverflow.com/users/3757/christian-oudard"
+      },
+      "is_answered": true,
+      "view_count": 512490,
+      "accepted_answer_id": 128564,
+      "answer_count": 19,
+      "score": 434,
+      "last_activity_date": 1649523292,
+      "creation_date": 1222277679,
+      "last_edit_date": 1700253738,
+      "question_id": 128560,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/128560/when-do-i-use-the-php-constant-php-eol",
+      "title": "When do I use the PHP constant &quot;PHP_EOL&quot;?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "dom"
+      ],
+      "owner": {
+        "account_id": 15543,
+        "reputation": 38780,
+        "user_id": 32943,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/a38a966d813241ad7dce895037ee5d48?s=256&d=identicon&r=PG",
+        "display_name": "Darko",
+        "link": "https://stackoverflow.com/users/32943/darko"
+      },
+      "is_answered": true,
+      "view_count": 347557,
+      "accepted_answer_id": 327068,
+      "answer_count": 12,
+      "score": 434,
+      "last_activity_date": 1501043818,
+      "creation_date": 1227924953,
+      "last_edit_date": 1495541444,
+      "question_id": 327047,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/327047/what-is-the-most-efficient-way-to-create-html-elements-using-jquery",
+      "title": "What is the most efficient way to create HTML elements using jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "account_id": 14416,
+        "reputation": 15832,
+        "user_id": 29653,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/ea32e1d33d0ed1299628c2e49e9c3fc9?s=256&d=identicon&r=PG",
+        "display_name": "akshat",
+        "link": "https://stackoverflow.com/users/29653/akshat"
+      },
+      "is_answered": true,
+      "view_count": 404631,
+      "protected_date": 1319997631,
+      "accepted_answer_id": 683564,
+      "answer_count": 3,
+      "score": 434,
+      "last_activity_date": 1656411466,
+      "creation_date": 1238013412,
+      "last_edit_date": 1238031001,
+      "question_id": 683339,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/683339/how-do-i-find-the-absolute-position-of-an-element-using-jquery",
+      "title": "How do I find the absolute position of an element using jQuery?"
+    },
+    {
+      "tags": [
+        "python",
+        "integer",
+        "char",
+        "type-conversion"
+      ],
+      "owner": {
+        "account_id": 14129,
+        "reputation": 16366,
+        "user_id": 28802,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/3cb6f4d191e4e6e833e0119806243682?s=256&d=identicon&r=PG",
+        "display_name": "Manuel Araoz",
+        "link": "https://stackoverflow.com/users/28802/manuel-araoz"
+      },
+      "is_answered": true,
+      "view_count": 735574,
+      "protected_date": 1563616073,
+      "accepted_answer_id": 704160,
+      "answer_count": 5,
+      "score": 434,
+      "last_activity_date": 1673538912,
+      "creation_date": 1238563155,
+      "last_edit_date": 1433943637,
+      "question_id": 704152,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/704152/how-can-i-convert-a-character-to-a-integer-in-python-and-viceversa",
+      "title": "How can I convert a character to a integer in Python, and viceversa?"
+    },
+    {
+      "tags": [
+        "c#",
+        "asp.net",
+        "client",
+        "ip-address"
+      ],
+      "owner": {
+        "account_id": 31590,
+        "reputation": 5567,
+        "user_id": 86878,
+        "user_type": "registered",
+        "accept_rate": 52,
+        "profile_image": "https://i.sstatic.net/czCP8.jpg?s=256",
+        "display_name": "Mehdi",
+        "link": "https://stackoverflow.com/users/86878/mehdi"
+      },
+      "is_answered": true,
+      "view_count": 755468,
+      "protected_date": 1377746023,
+      "accepted_answer_id": 735420,
+      "answer_count": 22,
+      "score": 434,
+      "last_activity_date": 1716031382,
+      "creation_date": 1239301166,
+      "last_edit_date": 1304243551,
+      "question_id": 735350,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/735350/how-to-get-a-users-client-ip-address-in-asp-net",
+      "title": "How to get a user&#39;s client IP address in ASP.NET?"
+    },
+    {
+      "tags": [
+        "sql-server",
+        "t-sql",
+        "indexing",
+        "reverse-engineering"
+      ],
+      "owner": {
+        "account_id": 23860,
+        "reputation": 115475,
+        "user_id": 60188,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://www.gravatar.com/avatar/8c1138ec9662140a53914eddcc0285d0?s=256&d=identicon&r=PG",
+        "display_name": "Anton Gogolev",
+        "link": "https://stackoverflow.com/users/60188/anton-gogolev"
+      },
+      "is_answered": true,
+      "view_count": 899426,
+      "accepted_answer_id": 765892,
+      "answer_count": 30,
+      "score": 434,
+      "last_activity_date": 1694798278,
+      "creation_date": 1240166304,
+      "last_edit_date": 1475066790,
+      "question_id": 765867,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/765867/list-of-all-index-index-columns-in-sql-server-db",
+      "title": "List of all index &amp; index columns in SQL Server DB"
+    },
+    {
+      "tags": [
+        "python",
+        "padding",
+        "strftime"
+      ],
+      "owner": {
+        "account_id": 560343,
+        "reputation": 7089,
+        "user_id": 111339,
+        "user_type": "unregistered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/a85a510e55e17240b516d67c969e7d89?s=256&d=identicon&r=PG",
+        "display_name": "Solihull",
+        "link": "https://stackoverflow.com/users/111339/solihull"
+      },
+      "is_answered": true,
+      "view_count": 264287,
+      "answer_count": 22,
+      "score": 434,
+      "last_activity_date": 1700322698,
+      "creation_date": 1243210309,
+      "last_edit_date": 1333444125,
+      "question_id": 904928,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/904928/python-strftime-date-without-leading-0",
+      "title": "Python strftime - date without leading 0?"
+    },
+    {
+      "tags": [
+        "c#",
+        "linq",
+        "linq-to-sql"
+      ],
+      "owner": {
+        "account_id": 26418,
+        "reputation": 7505,
+        "user_id": 68693,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/081abbd481555f4929927a36ae5b3d47?s=256&d=identicon&r=PG",
+        "display_name": "Tipx",
+        "link": "https://stackoverflow.com/users/68693/tipx"
+      },
+      "is_answered": true,
+      "view_count": 431121,
+      "accepted_answer_id": 954086,
+      "answer_count": 4,
+      "score": 434,
+      "last_activity_date": 1641289216,
+      "creation_date": 1244166324,
+      "last_edit_date": 1641289116,
+      "question_id": 953919,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/953919/convert-linq-query-result-to-dictionary",
+      "title": "Convert Linq Query Result to Dictionary"
+    },
+    {
+      "tags": [
+        "php",
+        "pdo",
+        "bindparam",
+        "bindvalue"
+      ],
+      "owner": {
+        "account_id": 47684,
+        "reputation": 13687,
+        "user_id": 141346,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/3c34a43e76691c657739b2b9b94446e4?s=256&d=identicon&r=PG",
+        "display_name": "koen",
+        "link": "https://stackoverflow.com/users/141346/koen"
+      },
+      "is_answered": true,
+      "view_count": 156034,
+      "protected_date": 1388699519,
+      "accepted_answer_id": 1179927,
+      "answer_count": 7,
+      "score": 434,
+      "last_activity_date": 1564388530,
+      "creation_date": 1248465658,
+      "last_edit_date": 1426183311,
+      "question_id": 1179874,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1179874/what-is-the-difference-between-bindparam-and-bindvalue",
+      "title": "What is the difference between bindParam and bindValue?"
+    },
+    {
+      "tags": [
+        "sql-server",
+        "ssms"
+      ],
+      "owner": {
+        "account_id": 878067,
+        "reputation": 7574,
+        "user_id": 1754229,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/ce0b105e12afdc005167ef2d0e129b00?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Richbits",
+        "link": "https://stackoverflow.com/users/1754229/richbits"
+      },
+      "is_answered": true,
+      "view_count": 740863,
+      "protected_date": 1414640916,
+      "accepted_answer_id": 1362575,
+      "answer_count": 21,
+      "score": 434,
+      "last_activity_date": 1724251765,
+      "creation_date": 1251812213,
+      "last_edit_date": 1522236369,
+      "question_id": 1362531,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1362531/sql-server-invalid-object-name-but-tables-are-listed-in-ssms-tables-list",
+      "title": "sql server invalid object name - but tables are listed in SSMS tables list"
+    },
+    {
+      "tags": [
+        "android",
+        "android-activity"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user157195"
+      },
+      "is_answered": true,
+      "view_count": 388855,
+      "protected_date": 1549357076,
+      "answer_count": 23,
+      "score": 434,
+      "last_activity_date": 1677476844,
+      "creation_date": 1252465957,
+      "last_edit_date": 1574853405,
+      "question_id": 1397361,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1397361/how-to-restart-activity-in-android",
+      "title": "How to restart Activity in Android"
+    },
+    {
+      "tags": [
+        "c#",
+        "asp.net-mvc",
+        "lambda",
+        "mvccontrib"
+      ],
+      "owner": {
+        "account_id": 37082,
+        "reputation": 293457,
+        "user_id": 105929,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/414213a8181616151fe73334532746ab?s=256&d=identicon&r=PG",
+        "display_name": "Remus Rusanu",
+        "link": "https://stackoverflow.com/users/105929/remus-rusanu"
+      },
+      "is_answered": true,
+      "view_count": 30196,
+      "protected_date": 1560581552,
+      "closed_date": 1627333977,
+      "accepted_answer_id": 1718088,
+      "answer_count": 21,
+      "community_owned_date": 1257983991,
+      "score": 434,
+      "last_activity_date": 1592260606,
+      "creation_date": 1257973235,
+      "last_edit_date": 1592260431,
+      "question_id": 1718037,
+      "link": "https://stackoverflow.com/questions/1718037/reflecting-parameter-name-abuse-of-c-lambda-expressions-or-syntax-brilliance",
+      "closed_reason": "Opinion-based",
+      "title": "Reflecting parameter name: abuse of C# lambda expressions or syntax brilliance?"
+    },
+    {
+      "tags": [
+        "database",
+        "postgresql",
+        "enums"
+      ],
+      "owner": {
+        "account_id": 32988,
+        "reputation": 25246,
+        "user_id": 420123,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/94bf8d35dd9f5a701e089f89b0b6d636?s=256&d=identicon&r=PG",
+        "display_name": "Ian",
+        "link": "https://stackoverflow.com/users/420123/ian"
+      },
+      "is_answered": true,
+      "view_count": 339447,
+      "accepted_answer_id": 3275885,
+      "answer_count": 19,
+      "score": 434,
+      "last_activity_date": 1663076887,
+      "creation_date": 1258733591,
+      "last_edit_date": 1550859717,
+      "question_id": 1771543,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1771543/adding-a-new-value-to-an-existing-enum-type",
+      "title": "Adding a new value to an existing ENUM Type"
+    },
+    {
+      "tags": [
+        "cygwin"
+      ],
+      "owner": {
+        "account_id": 74582,
+        "reputation": 12372,
+        "user_id": 214225,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/beaac18d7e70306ddfe931e6a7ae5ccd?s=256&d=identicon&r=PG",
+        "display_name": "Andrew",
+        "link": "https://stackoverflow.com/users/214225/andrew"
+      },
+      "is_answered": true,
+      "view_count": 514498,
+      "accepted_answer_id": 1850933,
+      "answer_count": 13,
+      "score": 434,
+      "last_activity_date": 1528510527,
+      "creation_date": 1259980222,
+      "last_edit_date": 1485445614,
+      "question_id": 1850920,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1850920/how-to-navigate-to-a-directory-in-c-with-cygwin",
+      "title": "How to navigate to a directory in C:\\ with Cygwin?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "account_id": 37749,
+        "reputation": 6194,
+        "user_id": 108022,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/3340359afefbe173f0acde57bb9c178e?s=256&d=identicon&r=PG",
+        "display_name": "Dustin Boswell",
+        "link": "https://stackoverflow.com/users/108022/dustin-boswell"
+      },
+      "is_answered": true,
+      "view_count": 477788,
+      "protected_date": 1654719947,
+      "accepted_answer_id": 1949416,
+      "answer_count": 16,
+      "score": 434,
+      "last_activity_date": 1701956144,
+      "creation_date": 1261507208,
+      "last_edit_date": 1701956144,
+      "question_id": 1948332,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1948332/detect-all-changes-to-a-input-type-text-immediately-using-jquery",
+      "title": "Detect all changes to a &lt;input type=&quot;text&quot;&gt; (immediately) using JQuery"
+    },
+    {
+      "tags": [
+        "python",
+        "design-patterns",
+        "dependency-injection",
+        "inversion-of-control",
+        "architecture"
+      ],
+      "owner": {
+        "account_id": 30208,
+        "reputation": 94079,
+        "user_id": 82219,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/6ac2affc83317e12b56694ba7926d7f5?s=256&d=identicon&r=PG",
+        "display_name": "tux21b",
+        "link": "https://stackoverflow.com/users/82219/tux21b"
+      },
+      "is_answered": true,
+      "view_count": 169562,
+      "accepted_answer_id": 2465052,
+      "answer_count": 17,
+      "score": 434,
+      "last_activity_date": 1649731263,
+      "creation_date": 1268824233,
+      "last_edit_date": 1303108599,
+      "question_id": 2461702,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2461702/why-is-ioc-di-not-common-in-python",
+      "title": "Why is IoC / DI not common in Python?"
+    },
+    {
+      "tags": [
+        "java",
+        "ssl",
+        "https",
+        "certificate",
+        "apache-httpclient-4.x"
+      ],
+      "owner": {
+        "account_id": 118617,
+        "reputation": 5118,
+        "user_id": 309769,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/5358cc50659f55118de901ed8d32b594?s=256&d=identicon&r=PG",
+        "display_name": "harrisonlee",
+        "link": "https://stackoverflow.com/users/309769/harrisonlee"
+      },
+      "is_answered": true,
+      "view_count": 838831,
+      "accepted_answer_id": 4837230,
+      "answer_count": 22,
+      "score": 434,
+      "last_activity_date": 1720613781,
+      "creation_date": 1271306489,
+      "last_edit_date": 1568812825,
+      "question_id": 2642777,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2642777/trusting-all-certificates-using-httpclient-over-https",
+      "title": "Trusting all certificates using HttpClient over HTTPS"
+    },
+    {
+      "tags": [
+        "security"
+      ],
+      "owner": {
+        "account_id": 93590,
+        "reputation": 4929,
+        "user_id": 255971,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.sstatic.net/Zq9tm.jpg?s=256",
+        "display_name": "Mohamad Alhamoud",
+        "link": "https://stackoverflow.com/users/255971/mohamad-alhamoud"
+      },
+      "is_answered": true,
+      "view_count": 112348,
+      "protected_date": 1336423421,
+      "closed_date": 1485956145,
+      "accepted_answer_id": 2794089,
+      "answer_count": 17,
+      "community_owned_date": 1336423506,
+      "score": 434,
+      "last_activity_date": 1476373618,
+      "creation_date": 1273321262,
+      "last_edit_date": 1341332091,
+      "question_id": 2794016,
+      "link": "https://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security",
+      "closed_reason": "Opinion-based",
+      "title": "What should every programmer know about security?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "database",
+        "unique-constraint"
+      ],
+      "owner": {
+        "account_id": 192887,
+        "reputation": 11497,
+        "user_id": 434293,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/df86719805b2dbaf51c74ce405cef09a?s=256&d=identicon&r=PG",
+        "display_name": "Hugo Mota",
+        "link": "https://stackoverflow.com/users/434293/hugo-mota"
+      },
+      "is_answered": true,
+      "view_count": 180750,
+      "accepted_answer_id": 3712251,
+      "answer_count": 7,
+      "score": 434,
+      "last_activity_date": 1728834612,
+      "creation_date": 1284492562,
+      "last_edit_date": 1604227995,
+      "question_id": 3712222,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/3712222/does-mysql-ignore-null-values-on-unique-constraints",
+      "title": "Does MySQL ignore null values on unique constraints?"
+    },
+    {
+      "tags": [
+        "html",
+        "semantic-markup"
+      ],
+      "owner": {
+        "account_id": 96955,
+        "reputation": 124244,
+        "user_id": 263268,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.sstatic.net/vV6JS.jpg?s=256",
+        "display_name": "Steve Bennett",
+        "link": "https://stackoverflow.com/users/263268/steve-bennett"
+      },
+      "is_answered": true,
+      "view_count": 431324,
+      "accepted_answer_id": 8306643,
+      "answer_count": 10,
+      "score": 434,
+      "last_activity_date": 1704840255,
+      "creation_date": 1294286144,
+      "last_edit_date": 1366217301,
+      "question_id": 4611591,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/4611591/code-vs-pre-vs-samp-for-inline-and-block-code-snippets",
+      "title": "&lt;code&gt; vs &lt;pre&gt; vs &lt;samp&gt; for inline and block code snippets"
+    },
+    {
+      "tags": [
+        "android",
+        "focus",
+        "android-edittext"
+      ],
+      "owner": {
+        "account_id": 57390,
+        "reputation": 9457,
+        "user_id": 171911,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/8515cd5d50e7c8e669663ef6af998ea0?s=256&d=identicon&r=PG",
+        "display_name": "Alex1987",
+        "link": "https://stackoverflow.com/users/171911/alex1987"
+      },
+      "is_answered": true,
+      "view_count": 468198,
+      "closed_date": 1447918317,
+      "accepted_answer_id": 5206580,
+      "answer_count": 18,
+      "score": 434,
+      "last_activity_date": 1598656098,
+      "creation_date": 1298201374,
+      "question_id": 5056734,
+      "link": "https://stackoverflow.com/questions/5056734/android-force-edittext-to-remove-focus",
+      "closed_reason": "Duplicate",
+      "title": "Android: Force EditText to remove focus?"
+    },
+    {
+      "tags": [
+        "sql",
+        "postgresql",
+        "reset",
+        "auto-increment"
+      ],
+      "owner": {
+        "account_id": 108506,
+        "reputation": 4841,
+        "user_id": 287964,
+        "user_type": "registered",
+        "accept_rate": 47,
+        "profile_image": "https://www.gravatar.com/avatar/7e2e9e37e86bf3dd3171e0424183231d?s=256&d=identicon&r=PG",
+        "display_name": "Rad",
+        "link": "https://stackoverflow.com/users/287964/rad"
+      },
+      "is_answered": true,
+      "view_count": 443162,
+      "accepted_answer_id": 5342503,
+      "answer_count": 18,
+      "score": 434,
+      "last_activity_date": 1672274908,
+      "creation_date": 1300380903,
+      "last_edit_date": 1672274908,
+      "question_id": 5342440,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/5342440/reset-auto-increment-counter-in-postgres",
+      "title": "Reset auto increment counter in postgres"
+    },
+    {
+      "tags": [
+        "html",
+        "margin",
+        "css"
+      ],
+      "owner": {
+        "account_id": 98533,
+        "reputation": 18233,
+        "user_id": 266642,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://i.sstatic.net/iNNm8.jpg?s=256",
+        "display_name": "lejahmie",
+        "link": "https://stackoverflow.com/users/266642/lejahmie"
+      },
+      "is_answered": true,
+      "view_count": 381094,
+      "protected_date": 1450755717,
+      "accepted_answer_id": 9519933,
+      "answer_count": 14,
+      "score": 434,
+      "last_activity_date": 1723240875,
+      "creation_date": 1330618654,
+      "last_edit_date": 1682342267,
+      "question_id": 9519841,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/9519841/why-does-this-css-margin-top-style-not-work",
+      "title": "Why does this CSS margin-top style not work?"
+    },
+    {
+      "tags": [
+        "c++",
+        "c++11",
+        "g++",
+        "flags"
+      ],
+      "owner": {
+        "account_id": 1415942,
+        "reputation": 9043,
+        "user_id": 1341622,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/e406a474ef56c0372aa2a25947ef8cd7?s=256&d=identicon&r=PG",
+        "display_name": "Rontogiannis Aristofanis",
+        "link": "https://stackoverflow.com/users/1341622/rontogiannis-aristofanis"
+      },
+      "is_answered": true,
+      "view_count": 951653,
+      "accepted_answer_id": 10363883,
+      "answer_count": 6,
+      "score": 434,
+      "last_activity_date": 1637224452,
+      "creation_date": 1335617544,
+      "last_edit_date": 1533492436,
+      "question_id": 10363646,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/10363646/compiling-c11-with-g",
+      "title": "Compiling C++11 with g++"
+    },
+    {
+      "tags": [
+        "node.js",
+        "https",
+        "ssl-certificate"
+      ],
+      "owner": {
+        "account_id": 26455,
+        "reputation": 42089,
+        "user_id": 68788,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/caeb7da8621bccbfdb00a166ec6c46bb?s=256&d=identicon&r=PG",
+        "display_name": "Geuis",
+        "link": "https://stackoverflow.com/users/68788/geuis"
+      },
+      "is_answered": true,
+      "view_count": 678980,
+      "accepted_answer_id": 21961005,
+      "answer_count": 14,
+      "score": 434,
+      "last_activity_date": 1715412002,
+      "creation_date": 1338845200,
+      "question_id": 10888610,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/10888610/ignore-invalid-self-signed-ssl-certificate-in-node-js-with-https-request",
+      "title": "Ignore invalid self-signed ssl certificate in node.js with https.request?"
+    },
+    {
+      "tags": [
+        "c++",
+        "namespaces",
+        "c++11",
+        "inline-namespaces"
+      ],
+      "owner": {
+        "account_id": 1010772,
+        "reputation": 45184,
+        "user_id": 1023390,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://i.sstatic.net/2g9CZ.jpg?s=256",
+        "display_name": "Walter",
+        "link": "https://stackoverflow.com/users/1023390/walter"
+      },
+      "is_answered": true,
+      "view_count": 87420,
+      "accepted_answer_id": 11018418,
+      "answer_count": 6,
+      "score": 434,
+      "last_activity_date": 1728395685,
+      "creation_date": 1339595173,
+      "last_edit_date": 1339674768,
+      "question_id": 11016220,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/11016220/what-are-inline-namespaces-for",
+      "title": "What are inline namespaces for?"
+    },
+    {
+      "tags": [
+        "php",
+        "json",
+        "post"
+      ],
+      "owner": {
+        "account_id": 3318725,
+        "reputation": 4377,
+        "user_id": 2790389,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/790233043/picture?type=large",
+        "display_name": "Pablo Ramirez",
+        "link": "https://stackoverflow.com/users/2790389/pablo-ramirez"
+      },
+      "is_answered": true,
+      "view_count": 679036,
+      "protected_date": 1417516563,
+      "closed_date": 1725571057,
+      "answer_count": 14,
+      "score": 434,
+      "last_activity_date": 1713278151,
+      "creation_date": 1379490464,
+      "last_edit_date": 1482215429,
+      "question_id": 18866571,
+      "link": "https://stackoverflow.com/questions/18866571/receive-json-post-with-php",
+      "closed_reason": "Duplicate",
+      "title": "Receive JSON POST with PHP"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-ng-show",
+        "angularjs-ng-if"
+      ],
+      "owner": {
+        "account_id": 146157,
+        "reputation": 39748,
+        "user_id": 356440,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/d16fc2844c1d9f8f815f318734554266?s=256&d=identicon&r=PG",
+        "display_name": "Stephane Rolland",
+        "link": "https://stackoverflow.com/users/356440/stephane-rolland"
+      },
+      "is_answered": true,
+      "view_count": 327970,
+      "protected_date": 1436451841,
+      "accepted_answer_id": 19177773,
+      "answer_count": 12,
+      "score": 434,
+      "last_activity_date": 1557211730,
+      "creation_date": 1380878774,
+      "last_edit_date": 1557211730,
+      "question_id": 19177732,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/19177732/what-is-the-difference-between-ng-if-and-ng-show-ng-hide",
+      "title": "What is the difference between ng-if and ng-show/ng-hide"
+    },
+    {
+      "tags": [
+        "docker",
+        "tty",
+        "pty"
+      ],
+      "owner": {
+        "account_id": 1108171,
+        "reputation": 6605,
+        "user_id": 1099123,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/41f5144169c49d431963661b24fa918d?s=256&d=identicon&r=PG",
+        "display_name": "user1099123",
+        "link": "https://stackoverflow.com/users/1099123/user1099123"
+      },
+      "is_answered": true,
+      "view_count": 150625,
+      "accepted_answer_id": 40026942,
+      "answer_count": 9,
+      "score": 434,
+      "last_activity_date": 1664703143,
+      "creation_date": 1431155519,
+      "last_edit_date": 1614895600,
+      "question_id": 30137135,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/30137135/confused-about-docker-t-option-to-allocate-a-pseudo-tty",
+      "title": "Confused about Docker -t option to Allocate a pseudo-TTY"
+    },
+    {
+      "tags": [
+        "c#",
+        "visual-studio-2017",
+        "c#-7.0"
+      ],
+      "owner": {
+        "account_id": 50583,
+        "reputation": 27867,
+        "user_id": 150967,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/91e55968cae0db7346488a42abc42f85?s=256&d=identicon&r=PG",
+        "display_name": "gsharp",
+        "link": "https://stackoverflow.com/users/150967/gsharp"
+      },
+      "is_answered": true,
+      "view_count": 146683,
+      "accepted_answer_id": 38383064,
+      "answer_count": 10,
+      "score": 434,
+      "last_activity_date": 1567536259,
+      "creation_date": 1468525440,
+      "last_edit_date": 1489004930,
+      "question_id": 38382971,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/38382971/predefined-type-system-valuetuple%c2%b42%c2%b4-is-not-defined-or-imported",
+      "title": "Predefined type &#39;System.ValueTuple&#180;2&#180; is not defined or imported"
+    },
+    {
+      "tags": [
+        "javascript",
+        "ios",
+        "safari",
+        "ios12"
+      ],
+      "owner": {
+        "account_id": 14371617,
+        "reputation": 1571,
+        "user_id": 10381214,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/E6SQo.jpg?s=256",
+        "display_name": "abelyao",
+        "link": "https://stackoverflow.com/users/10381214/abelyao"
+      },
+      "is_answered": true,
+      "view_count": 80393,
+      "protected_date": 1564416948,
+      "answer_count": 4,
+      "score": 434,
+      "last_activity_date": 1543051133,
+      "creation_date": 1537285890,
+      "last_edit_date": 1592644375,
+      "question_id": 52390368,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/52390368/array-state-will-be-cached-in-ios-12-safari-is-it-a-bug-or-feature",
+      "title": "Array state will be cached in iOS 12 Safari. Is it a bug or feature?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "kotlin",
+        "dependencies"
+      ],
+      "owner": {
+        "account_id": 27591481,
+        "reputation": 4341,
+        "user_id": 21058541,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7BZPLlc03DqtFlIuJtBYM_rEdbosHH7KzQ_mQS=k-s256",
+        "display_name": "midnighthowlers",
+        "link": "https://stackoverflow.com/users/21058541/midnighthowlers"
+      },
+      "is_answered": true,
+      "view_count": 282526,
+      "protected_date": 1723189865,
+      "answer_count": 66,
+      "score": 434,
+      "last_activity_date": 1729066305,
+      "creation_date": 1674851299,
+      "last_edit_date": 1701574230,
+      "question_id": 75263047,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75263047/duplicate-class-in-kotlin-android",
+      "title": "Duplicate class in Kotlin Android"
+    },
+    {
+      "tags": [
+        "openssl"
+      ],
+      "owner": {
+        "account_id": 9670,
+        "reputation": 31404,
+        "user_id": 17965,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/e420dffe737bb4b491dca48ac0ef6ca5?s=256&d=identicon&r=PG",
+        "display_name": "Luke Francl",
+        "link": "https://stackoverflow.com/users/17965/luke-francl"
+      },
+      "is_answered": true,
+      "view_count": 298668,
+      "accepted_answer_id": 94458,
+      "answer_count": 9,
+      "score": 433,
+      "last_activity_date": 1699350145,
+      "creation_date": 1221757003,
+      "last_edit_date": 1487267980,
+      "question_id": 94445,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/94445/using-openssl-what-does-unable-to-write-random-state-mean",
+      "title": "Using OpenSSL what does &quot;unable to write &#39;random state&#39;&quot; mean?"
+    },
+    {
+      "tags": [
+        "c++",
+        "enums"
+      ],
+      "owner": {
+        "account_id": 1030,
+        "reputation": 26417,
+        "user_id": 1366,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/67b696a0cf7d7be34352a4c1c4e5f183?s=256&d=identicon&r=PG",
+        "display_name": "Adam",
+        "link": "https://stackoverflow.com/users/1366/adam"
+      },
+      "is_answered": true,
+      "view_count": 535242,
+      "protected_date": 1627089706,
+      "accepted_answer_id": 261986,
+      "answer_count": 29,
+      "score": 433,
+      "last_activity_date": 1727829750,
+      "creation_date": 1225806929,
+      "last_edit_date": 1647475480,
+      "question_id": 261963,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/261963/how-can-i-iterate-over-an-enum",
+      "title": "How can I iterate over an enum?"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 13362,
+        "reputation": 8151,
+        "user_id": 26788,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://www.gravatar.com/avatar/c33a6628062ada6921fa471b902f2652?s=256&d=identicon&r=PG",
+        "display_name": "Krishna Kumar",
+        "link": "https://stackoverflow.com/users/26788/krishna-kumar"
+      },
+      "is_answered": true,
+      "view_count": 254446,
+      "accepted_answer_id": 829139,
+      "answer_count": 5,
+      "score": 433,
+      "last_activity_date": 1724157167,
+      "creation_date": 1241609009,
+      "last_edit_date": 1488561006,
+      "question_id": 829136,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/829136/what-is-the-standard-exception-to-throw-in-java-for-not-supported-implemented-op",
+      "title": "What is the standard exception to throw in Java for not supported/implemented operations?"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "account_id": 23749,
+        "reputation": 18341,
+        "user_id": 59753,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.sstatic.net/VOqvL.jpg?s=256",
+        "display_name": "Jason Coon",
+        "link": "https://stackoverflow.com/users/59753/jason-coon"
+      },
+      "is_answered": true,
+      "view_count": 141376,
+      "accepted_answer_id": 835430,
+      "answer_count": 9,
+      "score": 433,
+      "last_activity_date": 1695658385,
+      "creation_date": 1241707573,
+      "last_edit_date": 1695658385,
+      "question_id": 835092,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/835092/python-dictionary-are-keys-and-values-always-the-same-order",
+      "title": "Python dictionary: are keys() and values() always the same order?"
+    },
+    {
+      "tags": [
+        "git"
+      ],
+      "owner": {
+        "account_id": 10586,
+        "reputation": 5337,
+        "user_id": 20072,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/be7d15ba4b1908e9441a72ebcaa0bf09?s=256&d=identicon&r=PG",
+        "display_name": "dan-manges",
+        "link": "https://stackoverflow.com/users/20072/dan-manges"
+      },
+      "is_answered": true,
+      "view_count": 153254,
+      "accepted_answer_id": 1309934,
+      "answer_count": 16,
+      "score": 433,
+      "last_activity_date": 1727976537,
+      "creation_date": 1250783370,
+      "last_edit_date": 1585914276,
+      "question_id": 1307114,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1307114/how-can-i-archive-git-branches",
+      "title": "How can I archive git branches?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "window.location",
+        "fragment-identifier"
+      ],
+      "owner": {
+        "account_id": 12662,
+        "reputation": 88753,
+        "user_id": 25068,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/152c39ec9f2570aef287d40f9824c5f2?s=256&d=identicon&r=PG",
+        "display_name": "Tom Lehman",
+        "link": "https://stackoverflow.com/users/25068/tom-lehman"
+      },
+      "is_answered": true,
+      "view_count": 432890,
+      "accepted_answer_id": 1397347,
+      "answer_count": 18,
+      "score": 433,
+      "last_activity_date": 1687467524,
+      "creation_date": 1252465162,
+      "last_edit_date": 1499669083,
+      "question_id": 1397329,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1397329/how-to-remove-the-hash-from-window-location-url-with-javascript-without-page-r",
+      "title": "How to remove the hash from window.location (URL) with JavaScript without page refresh?"
+    },
+    {
+      "tags": [
+        ".net",
+        "vb.net",
+        "visual-studio",
+        "ide"
+      ],
+      "owner": {
+        "account_id": 43706,
+        "reputation": 30755,
+        "user_id": 127880,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://i.sstatic.net/hDGuY.jpg?s=256",
+        "display_name": "Brian Webster",
+        "link": "https://stackoverflow.com/users/127880/brian-webster"
+      },
+      "is_answered": true,
+      "view_count": 110449,
+      "accepted_answer_id": 1695058,
+      "answer_count": 4,
+      "score": 433,
+      "last_activity_date": 1655779322,
+      "creation_date": 1257643870,
+      "last_edit_date": 1365539409,
+      "question_id": 1695040,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut",
+      "title": "Visual Studio jump to next error shortcut?"
+    },
+    {
+      "tags": [
+        "unix",
+        "shell",
+        "diff"
+      ],
+      "owner": {
+        "account_id": 12615,
+        "reputation": 19792,
+        "user_id": 24949,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/18040800897df7eebd802fe40da96a2a?s=256&d=identicon&r=PG",
+        "display_name": "Sudar",
+        "link": "https://stackoverflow.com/users/24949/sudar"
+      },
+      "is_answered": true,
+      "view_count": 400324,
+      "protected_date": 1577502316,
+      "accepted_answer_id": 2019897,
+      "answer_count": 9,
+      "score": 433,
+      "last_activity_date": 1667474559,
+      "creation_date": 1262863554,
+      "last_edit_date": 1352456682,
+      "question_id": 2019857,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2019857/diff-files-present-in-two-different-directories",
+      "title": "Diff files present in two different directories"
+    },
+    {
+      "tags": [
+        "python",
+        "newline"
+      ],
+      "owner": {
+        "account_id": 617632,
+        "reputation": 5889,
+        "user_id": 346949,
+        "user_type": "unregistered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/c42b0978fcc8d3fb94518dec0e6cd711?s=256&d=identicon&r=PG",
+        "display_name": "kaushik",
+        "link": "https://stackoverflow.com/users/346949/kaushik"
+      },
+      "is_answered": true,
+      "view_count": 1304742,
+      "protected_date": 1480278878,
+      "accepted_answer_id": 2918370,
+      "answer_count": 19,
+      "score": 433,
+      "last_activity_date": 1683233019,
+      "creation_date": 1274932572,
+      "last_edit_date": 1508771235,
+      "question_id": 2918362,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/2918362/writing-string-to-a-file-on-a-new-line-every-time",
+      "title": "Writing string to a file on a new line every time"
+    },
+    {
+      "tags": [
+        "eclipse",
+        "package",
+        "hierarchy",
+        "package-explorer"
+      ],
+      "owner": {
+        "account_id": 87051,
+        "reputation": 7283,
+        "user_id": 241643,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/e169705c15a5cf50af26c3e3dc4caa9a?s=256&d=identicon&r=PG",
+        "display_name": "Philip",
+        "link": "https://stackoverflow.com/users/241643/philip"
+      },
+      "is_answered": true,
+      "view_count": 295406,
+      "protected_date": 1412029142,
+      "accepted_answer_id": 3916062,
+      "answer_count": 3,
+      "score": 433,
+      "last_activity_date": 1723729303,
+      "creation_date": 1286895404,
+      "last_edit_date": 1345187380,
+      "question_id": 3915961,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/3915961/how-to-view-hierarchical-package-structure-in-eclipse-package-explorer",
+      "title": "How to view hierarchical package structure in Eclipse package explorer"
+    },
+    {
+      "tags": [
+        "javascript",
+        "firebug",
+        "console.log"
+      ],
+      "owner": {
+        "account_id": 249792,
+        "reputation": 8726,
+        "user_id": 526095,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/18a525633cb2568d442be73076314c75?s=256&d=identicon&r=PG",
+        "display_name": "Mihir",
+        "link": "https://stackoverflow.com/users/526095/mihir"
+      },
+      "is_answered": true,
+      "view_count": 798408,
+      "protected_date": 1432277484,
+      "accepted_answer_id": 4539270,
+      "answer_count": 27,
+      "score": 433,
+      "last_activity_date": 1709882540,
+      "creation_date": 1293459118,
+      "last_edit_date": 1406130926,
+      "question_id": 4539253,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/4539253/what-is-console-log",
+      "title": "What is console.log?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9850
+}

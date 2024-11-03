@@ -1,0 +1,950 @@
+{
+  "items": [
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1114,
+      "name": "simple-injector"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1113,
+      "name": "digits"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1113,
+      "name": "dotnetopenauth"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1113,
+      "name": "window.open"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1113,
+      "name": "custom-data-attribute"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1113,
+      "name": "mediarecorder"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1113,
+      "name": "dlib"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1113,
+      "name": "elk"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1113,
+      "name": "alpine.js"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1112,
+      "name": "lift"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1112,
+      "name": "handsontable"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1111,
+      "name": "cakephp-2.3"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1111,
+      "name": "playframework-2.2"
+    },
+    {
+      "collectives": [
+        {
+          "tags": [
+            "aws-lambda-edge",
+            "amazon-workdocs",
+            "amazon-iam",
+            "aws-fargate",
+            "aws-security-group",
+            "aws-graviton",
+            "aws-service-catalog",
+            "amazon-workspaces",
+            "aws-mediapackage",
+            "aws-codecatalyst",
+            "amazon-ecs",
+            "amazon-sumerian",
+            "amazon-kinesis",
+            "amazon-swf",
+            "aws-transfer-family",
+            "amazon-rds",
+            "aws-sdk",
+            "aws-mediastore",
+            "amazon-kinesis-firehose",
+            "amazon-cognito",
+            "amazon-cloudfront",
+            "amazon-kendra",
+            "aws-sam-cli",
+            "amazon-location-service",
+            "amazon-managed-blockchain",
+            "aws-sso",
+            "amazon-fsx",
+            "amazon-aurora",
+            "aws-nlb",
+            "aws-iot-sitewise",
+            "amazon-polly",
+            "aws-lake-formation",
+            "aws-data-exchange",
+            "amazon-sagemaker-compilers",
+            "amazon-dynamodb",
+            "aws-sdk-java",
+            "aws-elb",
+            "amazon-app-runner",
+            "aws-resource-group",
+            "aws-acm",
+            "aws-sdk-android",
+            "aws-sdk-net",
+            "aws-sam",
+            "amazon-vpc",
+            "aws-sdk-go",
+            "amazon-codewhisperer",
+            "aws-secrets-manager",
+            "aws-auto-scaling",
+            "aws-app-config",
+            "aws-iam-identity-center",
+            "aws-appstream",
+            "aws-codeguru",
+            "aws-chatbot",
+            "amazon-qldb",
+            "aws-control-tower",
+            "aws-cloud9",
+            "aws-organizations",
+            "aws-xray",
+            "aws-deeplens",
+            "alexa-sdk-nodejs",
+            "aws-ssm",
+            "aws-sdk-rust",
+            "aws-storage-gateway",
+            "aws-documentdb",
+            "aws-fis",
+            "amazon-rekognition",
+            "aws-datasync",
+            "aws-media-convert",
+            "amazon-redshift-spectrum",
+            "aws-batch",
+            "amazon-inspector",
+            "aws-dms",
+            "amazon-s3-select",
+            "amazon-kinesis-video-streams",
+            "amazon-honeycode",
+            "amazon-cloudwatchlogs",
+            "alexa-sdk-python",
+            "aws-sdk-ruby",
+            "aws-codestar",
+            "aws-cloudmap",
+            "alexa-interaction-model",
+            "amazon-ec2-spot-market",
+            "amazon-neptune",
+            "amazon-cloudsearch",
+            "aws-opsworks",
+            "amazon-connect",
+            "aws-sdk-java-2.0",
+            "aws-backup",
+            "amazon-lightsail",
+            "aws-mediatailor",
+            "amazon-efs",
+            "aws-sdk-mock",
+            "aws-sdk-js",
+            "aws-parameter-store",
+            "aws-serverless",
+            "aws-direct-connect",
+            "aws-config",
+            "aws-cloudshell",
+            "amazon-data-pipeline",
+            "amazon-ec2",
+            "amazon-elb",
+            "amazon-waf",
+            "amazon-emr",
+            "alexa-skills-kit",
+            "amazon-kinesis-analytics",
+            "amazon-bedrock",
+            "aws-pinpoint",
+            "aws-iot",
+            "amazon-q-developer",
+            "amazon-glacier",
+            "aws-cloudformation",
+            "aws-iot-core",
+            "aws-elemental",
+            "aws-snowball",
+            "amazon-athena",
+            "elastic-ip",
+            "aws-sdk-nodejs",
+            "aws-app-mesh",
+            "alexa-account-linking",
+            "aws-sct",
+            "amazon-quicksight",
+            "aws-appsync",
+            "amazon-gamelift",
+            "amazon-s3",
+            "aws-amplify",
+            "alexa-smapi",
+            "aws-iot-events",
+            "amazon-guardduty",
+            "amazon-cloudtrail",
+            "amazon-eks",
+            "alexa-presentation-language",
+            "amazon-forecast",
+            "aws-media-live",
+            "amazon-elastic-transcoder",
+            "amazon-personalize",
+            "aws-application-load-balancer",
+            "amazon-ses",
+            "aws-reserved-instances",
+            "aws-directory-services",
+            "amazon-comprehend",
+            "amazon-ebs",
+            "aws-global-accelerator",
+            "amazon-appflow",
+            "amazon-macie",
+            "amazon-ecr",
+            "amazon-redshift",
+            "amazon-imagebuilder",
+            "aws-copilot-cli",
+            "aws-codeartifact",
+            "amazon-elasticsearch",
+            "amazon-workmail",
+            "aws-sdk-cpp",
+            "amazon-transcribe",
+            "aws-event-bridge",
+            "amazon-mq",
+            "amazon-opensearch",
+            "aws-certificate-manager",
+            "aws-iot-analytics",
+            "amazon-sqs",
+            "aws-device-farm",
+            "aws-sdk-ios",
+            "amazon-sns",
+            "aws-mediaconnect",
+            "amazon-cloudwatch",
+            "aws-cdk",
+            "aws-codebuild",
+            "amazon-cloudhsm",
+            "aws-databrew",
+            "aws-glue",
+            "aws-vpn",
+            "amazon-dynamodb-dax",
+            "aws-sdk-comprehend",
+            "amazon-ivs",
+            "aws-lambda-powertools",
+            "amazon-lex",
+            "aws-copilot",
+            "aws-step-functions",
+            "aws-sdk-js-v3",
+            "aws-api-gateway",
+            "amazon-keyspaces",
+            "aws-elastictranscoder",
+            "aws-mobilehub",
+            "amazon-timestream",
+            "aws-security-hub",
+            "aws-sdk-go-v2",
+            "amazon-memory-db",
+            "amazon-ami",
+            "aws-codepipeline",
+            "alexa-flash-briefing-skill",
+            "aws-cli",
+            "amazon-kms",
+            "aws-lambda",
+            "aws-msk",
+            "aws-iot-greengrass",
+            "amazon-elastic-beanstalk",
+            "aws-billing",
+            "aws-code-deploy",
+            "amazon-route53",
+            "amazon-simpledb",
+            "alexa-smart-home-skill",
+            "aws-private-link",
+            "amazon-web-services",
+            "amazon-translate",
+            "amazon-textract",
+            "amazon-elasticache",
+            "amazon-sagemaker",
+            "aws-codecommit"
+          ],
+          "external_links": [
+            {
+              "type": "website",
+              "link": "https://aws.amazon.com"
+            },
+            {
+              "type": "support",
+              "link": "mailto:awscollective@amazon.com"
+            },
+            {
+              "type": "twitter",
+              "link": "https://twitter.com/awsdevelopers"
+            },
+            {
+              "type": "github",
+              "link": "https://github.com/aws"
+            },
+            {
+              "type": "facebook",
+              "link": "https://facebook.com/amazonwebservices"
+            },
+            {
+              "type": "instagram",
+              "link": "https://instagram.com/amazonwebservices"
+            }
+          ],
+          "description": "Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. The AWS Collective is a community-driven site with resources for  developers.",
+          "link": "/collectives/aws",
+          "name": "AWS",
+          "slug": "aws"
+        }
+      ],
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1111,
+      "name": "aws-code-deploy"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1110,
+      "name": "maze"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1110,
+      "name": "knapsack-problem"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1110,
+      "name": "qunit"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1110,
+      "name": "backbone-views"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1110,
+      "name": "ag-grid-react"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1109,
+      "name": "migrate"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1108,
+      "name": "ebean"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1107,
+      "name": "stdio"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1107,
+      "name": "bounding-box"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1107,
+      "name": "database-partitioning"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1107,
+      "name": "git-checkout"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1107,
+      "name": "gridfs"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1106,
+      "name": "expand"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1106,
+      "name": "comet"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1106,
+      "name": "clob"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1106,
+      "name": "date-arithmetic"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1106,
+      "name": "infinispan"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1106,
+      "name": "nancy"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1106,
+      "name": "pubnub"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1105,
+      "name": "device-driver"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1105,
+      "name": "tor"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1104,
+      "name": "sys"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1102,
+      "name": "maven-assembly-plugin"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1101,
+      "name": "irc"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1101,
+      "name": "alsa"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1101,
+      "name": "sitecore6"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1101,
+      "name": "ejb-3.1"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1101,
+      "name": "confusion-matrix"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1100,
+      "name": "uploadify"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1100,
+      "name": "vaadin-flow"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1099,
+      "name": "infinite"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1099,
+      "name": "long-polling"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1098,
+      "name": "automake"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1098,
+      "name": "sqlconnection"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1098,
+      "name": "calling-convention"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1098,
+      "name": "mousewheel"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1098,
+      "name": "listviewitem"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1098,
+      "name": "git-flow"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1098,
+      "name": "flask-login"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1097,
+      "name": "macports"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1097,
+      "name": "dot"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1097,
+      "name": "pdfkit"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1097,
+      "name": "custom-component"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1097,
+      "name": "posixct"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1095,
+      "name": "msdeploy"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1095,
+      "name": "javax.imageio"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1095,
+      "name": "box-api"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1094,
+      "name": "docker-network"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1093,
+      "name": "jasperserver"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1093,
+      "name": "revit-api"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1092,
+      "name": "msdn"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1092,
+      "name": "cil"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1092,
+      "name": "discrete-mathematics"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1092,
+      "name": "openjpa"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1092,
+      "name": "nsurlrequest"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1092,
+      "name": "msys2"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1091,
+      "name": "jogl"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1091,
+      "name": "lexer"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1091,
+      "name": "llvm-clang"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1090,
+      "name": "exit-code"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1090,
+      "name": "bluej"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1090,
+      "name": "apexcharts"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1089,
+      "name": "qlikview"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1089,
+      "name": "angularjs-ng-click"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1089,
+      "name": "geom-bar"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1088,
+      "name": "provisioning"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1088,
+      "name": "ghci"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1088,
+      "name": "wikipedia-api"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1087,
+      "name": "raytracing"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1087,
+      "name": "typing"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1087,
+      "name": "html.dropdownlistfor"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1087,
+      "name": "symfony-2.1"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1087,
+      "name": "ngrok"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1087,
+      "name": "oracle19c"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1087,
+      "name": "rtk-query"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1085,
+      "name": "zend-db"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1085,
+      "name": "edge-detection"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1084,
+      "name": "doctype"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1084,
+      "name": "huffman-code"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1084,
+      "name": "u-boot"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1084,
+      "name": "ionic5"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1083,
+      "name": "textblock"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1083,
+      "name": "microsoft-graph-teams"
+    },
+    {
+      "has_synonyms": true,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1082,
+      "name": "forward-declaration"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1082,
+      "name": "android-logcat"
+    },
+    {
+      "has_synonyms": false,
+      "is_moderator_only": false,
+      "is_required": false,
+      "count": 1082,
+      "name": "tm"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9972
+}
